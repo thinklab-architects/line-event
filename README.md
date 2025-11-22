@@ -40,3 +40,12 @@ py -3.10 scripts/scrape_events.py
 4. 在 GitHub Repository 設定中的 **Pages** 啟用 (Branch: `main`, Folder: `/root`)，即可取得公開網址。
 
 > 如果要改用 `gh-pages` 分支，也可執行 `git subtree` 或 GitHub Actions。由於程式僅為純靜態資源，不需額外建置流程。
+
+## 自動每小時更新
+
+`.github/workflows/scrape-events.yml` 會：
+
+- 每小時以及手動觸發時執行 `python scripts/scrape_events.py`
+- 若 `data/events.json` 有變動便以 `github-actions[bot]` 帳號提交並推送
+
+若暫時不想自動更新，可在 GitHub Repository 的 Actions 頁面停用此 workflow。

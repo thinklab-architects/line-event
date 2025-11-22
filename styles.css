@@ -24,7 +24,9 @@
   --badge-idle: rgba(148, 163, 184, 0.22);
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -50,7 +52,7 @@ a:focus-visible {
   margin: 0 auto;
 }
 
-.flow > * + * {
+.flow>*+* {
   margin-top: clamp(1.6rem, 3vw, 2.6rem);
 }
 
@@ -203,7 +205,7 @@ a:focus-visible {
   align-items: flex-start;
 }
 
-.controls > * {
+.controls>* {
   margin: 0;
 }
 
@@ -451,6 +453,8 @@ button:focus-visible {
 .meta-item--remarks dd {
   white-space: pre-line;
   line-height: 1.6;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .deadline-wrapper {

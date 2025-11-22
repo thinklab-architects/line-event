@@ -159,8 +159,23 @@ a:focus-visible {
   letter-spacing: -0.01em;
 }
 
-.hero__description {
+.hero__title-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0; /* remove gap between title and subtitle */
+}
+
+.hero__subtitle {
   margin: 0;
+  /* make subtitle 1.25x larger than base paragraph size */
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--ink-muted);
+  letter-spacing: -0.005em;
+}
+
+.hero__description {
+  margin: 0.6rem 0 0 0;
   max-width: 46ch;
   color: var(--ink-muted);
   font-size: 1.02rem;

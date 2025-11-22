@@ -571,6 +571,25 @@ button:focus-visible {
   transform: translateY(-1px);
 }
 
+.register-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1.2rem;
+  border-radius: 999px;
+  background: rgba(34, 197, 94, 0.16);
+  color: #166534;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.register-button:hover,
+.register-button:focus-visible {
+  background: rgba(34, 197, 94, 0.28);
+  transform: translateY(-1px);
+}
+
 .app-footer {
   margin: clamp(3.2rem, 6vw, 4.6rem) 0 clamp(2.4rem, 4vw, 3.4rem);
   color: var(--ink-soft);

@@ -399,10 +399,6 @@ function createLinkGroup(event) {
 
   pushLink('活動頁面', event.detailUrl);
 
-  if (event.registerUrl) {
-    pushLink(event.register || '線上報名', event.registerUrl);
-  }
-
   if (
     event.noteUrl &&
     event.noteUrl !== event.detailUrl &&
@@ -425,14 +421,25 @@ function createLinkGroup(event) {
   return group;
 }
 
+function createRegisterContent(event) {
+  if (!event.registerUrl) {
+    const span = document.createElement('span');
+    span.className = 'attachment-empty';
+    span.textContent = event.register || '目前無報名資訊';
+    return span;
+  }
+
+  const link = document.createElement('a');
+  link.className = 'register-button';
+  link.href = event.registerUrl;
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+  link.textContent = event.register?.trim() || '線上報名';
+  return link;
+}
+
 function createDownloadButtons(event) {
   const downloads = event.downloads ?? [];
-  if (!downloads.length) {
-    const empty = document.createElement('span');
-    empty.className = 'attachment-empty';
-    empty.textContent = '尚無檔案';
-    return empty;
-  }
 
   const group = document.createElement('div');
   group.className = 'download-group';
@@ -520,9 +527,17 @@ function createEventCard(event) {
   const metaItems = [
     createMetaItem('活動日期', createDateBlock(event)),
     createMetaItem('活動地點', createLocationContent(event)),
-    createMetaItem('檔案下載', createDownloadButtons(event)),
-    createMetaItem('相關連結', createLinkGroup(event)),
   ];
+
+  if (event.downloads?.length) {
+    metaItems.push(createMetaItem('檔案下載', createDownloadButtons(event)));
+  }
+
+  metaItems.push(createMetaItem('相關連結', createLinkGroup(event)));
+
+  if (event.register || event.registerUrl) {
+    metaItems.push(createMetaItem('報名方式', createRegisterContent(event)));
+  }
 
   if (event.remarks) {
     const remarksItem = createMetaItem('備註', event.remarks);

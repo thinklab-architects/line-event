@@ -9,7 +9,7 @@ const BADGE_TEXT = {
 
 const CATEGORY_KEYWORDS = {
   meeting: ['\u6703\u8b70', '\u7406\u4e8b', '\u59d4\u54e1', '\u6703\u54e1', '\u8b70'],
-  outing: ['\u51fa\u904a', '\u65c5\u904a', '\u65c5\u884c', '\u53c3\u8a2a', '\u89c0\u6469', '\u96fb\u5f71', '\u5f71\u5c55'],
+  outing: ['\u51fa\u904a', '\u65c5\u904a', '\u65c5\u884c', '\u53c3\u8a2a', '\u89c0\u6469', '\u904a', '\u904a\u7a0b', '\u96fb\u5f71', '\u5f71\u5c55'],
 };
 
 const DEFAULT_STATUS_VALUES = ['coming-soon', 'upcoming'];

@@ -1,206 +1,116 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-Hant">
-<header class="hero">
-  <div class="shell hero__inner">
-    <div class="hero__lede">
-      <p class="hero__eyebrow">
-        <span class="hero__eyebrow-abbr">KAA</span>社團法人高雄市建築師公會
-      </p>
-      <h1 class="hero__title">活動紀錄 Event</h1>
-      <p class="hero__description">
-        快速掌握公會最新活動與報名資訊，並依狀態、日期、關鍵字篩選出最適合的場次。
-      </p>
-      <div class="hero__actions">
-        <a class="hero__link" href="https://www.kaa.org.tw/news_list.php?t1=1" target="_blank"
-          rel="noopener noreferrer">
-          前往官方活動列表
-        </a>
-      </div>
-    </div>
-  </div>
-</header>
-
-<main class="shell flow">
-  <section class="controls" aria-label="搜尋與篩選">
-    <fieldset class="status-group">
-      <legend class="field-label">活動狀態</legend>
-      <label class="status-option">
-        <input type="checkbox" name="statusFilter" value="coming-soon" checked />
-        <span>即將開始</span>
-      </label>
-      <label class="status-option">
-        <input type="checkbox" name="statusFilter" value="upcoming" checked />
-        <span>活動未到</span>
-      </label>
-      <label class="status-option">
-        <input type="checkbox" name="statusFilter" value="past" />
-        <span>含結束</span>
-      </label>
-    </fieldset>
-
-    <div class="field-group">
-      <label class="field-label" for="categorySelect">活動類型</label>
-      <select id="categorySelect">
-        <option value="all">全部</option>
-        <option value="outing">出遊</option>
-        <option value="meeting">會議</option>
-        <option value="movie">電影</option>
-        <option value="workshop">講習</option>
-        <option value="other">其他</option>
-      </select>
-    </div>
-
-    <div class="field-group">
-      <label class="field-label" for="sortSelect">排序方式</label>
-      <select id="sortSelect">
-        <option value="start-asc">活動日期由近到遠</option>
-        <option value="start-desc">活動日期由遠到近</option>
-        <option value="title-asc">活動名稱 A → Z</option>
-      </select>
-    </div>
-
-    <button id="clearFilters" type="button">重設篩選</button>
-  </section>
-
-  <section aria-live="polite">
-    <div id="status" class="status">資料讀取中...</div>
-    <div id="documentList" class="document-grid" hidden></div>
-  </section>
-</main>
-
-<footer class="app-footer">
-  <div class="shell footer-inner">
-    <p class="footer-copy">
-      活動資料來源：
-      <a href="https://www.kaa.org.tw/news_list.php?t1=1" target="_blank" rel="noopener noreferrer">高雄市建築師公會</a>
-      ｜Event 靜態重製
-    </p>
-    <p id="updatedAt" class="footer-updated" aria-live="polite">資料更新時間待同步</p>
-  </div>
-</footer>
-
-<div id="previewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
-  <div class="modal__overlay" data-close-modal></div>
-  <div class="modal__content">
-    <div class="modal__header">
-      <h3 id="modalTitle" class="modal__title">檔案預覽</h3>
-      <button type="button" class="modal__close" aria-label="關閉預覽" data-close-modal>
-        &times;
-      </button>
-    </div>
-    <div class="modal__body">
-      <iframe id="modalFrame" title="PDF preview" frameborder="0"></iframe>
-      <p id="modalFallback" class="modal__fallback" hidden>
-        無法於瀏覽器載入預覽，
-        <a id="modalFallbackLink" href="#" target="_blank" rel="noopener noreferrer">請直接下載檔案</a>
-        。
-      </p>
-    </div>
-    <!DOCTYPE html>
-    <html lang="zh-Hant">
-    <header class="hero">
-      <div class="shell hero__inner">
-        <div class="hero__lede">
-          <p class="hero__eyebrow">
-            <span class="hero__eyebrow-abbr">KAA</span>社團法人高雄市建築師公會
-          </p>
-          <h1 class="hero__title">活動紀錄 Event</h1>
-          <p class="hero__description">
-            快速掌握公會最新活動與報名資訊，並依狀態、日期、關鍵字篩選出最適合的場次。
-          </p>
-          <div class="hero__actions">
-            <a class="hero__link" href="https://www.kaa.org.tw/news_list.php?t1=1" target="_blank"
-              rel="noopener noreferrer">
-              前往官方活動列表
-            </a>
-          </div>
-        </div>
-      </div>
-    </header>
-
-    <main class="shell flow">
-      <section class="controls" aria-label="搜尋與篩選">
-        <fieldset class="status-group">
-          <legend class="field-label">活動狀態</legend>
-          <label class="status-option">
-            <input type="checkbox" name="statusFilter" value="coming-soon" checked />
-            <span>即將開始</span>
-          </label>
-          <label class="status-option">
-            <input type="checkbox" name="statusFilter" value="upcoming" checked />
-            <span>活動未到</span>
-          </label>
-          <label class="status-option">
-            <input type="checkbox" name="statusFilter" value="past" />
-            <span>含結束</span>
-          </label>
-        </fieldset>
-
-        <div class="field-group">
-          <label class="field-label" for="categorySelect">活動類型</label>
-          <select id="categorySelect">
-            <option value="all">全部</option>
-            <option value="outing">出遊</option>
-            <option value="meeting">會議</option>
-            <option value="movie">電影</option>
-            <option value="workshop">講習</option>
-            <option value="other">其他</option>
-          </select>
-        </div>
-
-        <div class="field-group">
-          <label class="field-label" for="sortSelect">排序方式</label>
-          <select id="sortSelect">
-            <option value="start-asc">活動日期由近到遠</option>
-            <option value="start-desc">活動日期由遠到近</option>
-            <option value="title-asc">活動名稱 A → Z</option>
-          </select>
-        </div>
-
-        <button id="clearFilters" type="button">重設篩選</button>
-      </section>
-
-      <section aria-live="polite">
-        <div id="status" class="status">資料讀取中...</div>
-        <div id="documentList" class="document-grid" hidden></div>
-      </section>
-    </main>
-
-    <footer class="app-footer">
-      <div class="shell footer-inner">
-        <p class="footer-copy">
-          活動資料來源：
-          <a href="https://www.kaa.org.tw/news_list.php?t1=1" target="_blank" rel="noopener noreferrer">高雄市建築師公會</a>
-          ｜Event 靜態重製
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Event - 高雄市建築師公會</title>
+  <meta name="description" content="高雄市建築師公會活動紀錄與報名資訊" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css?v=7" />
+</head>
+<body>
+  <header class="hero">
+    <div class="shell hero__inner">
+      <div class="hero__lede">
+        <p class="hero__eyebrow">
+          <span class="hero__eyebrow-abbr">KAA</span>社團法人高雄市建築師公會
         </p>
-        <p id="updatedAt" class="footer-updated" aria-live="polite">資料更新時間待同步</p>
-      </div>
-    </footer>
-
-    <div id="previewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
-      <div class="modal__overlay" data-close-modal></div>
-      <div class="modal__content">
-        <div class="modal__header">
-          <h3 id="modalTitle" class="modal__title">檔案預覽</h3>
-          <button type="button" class="modal__close" aria-label="關閉預覽" data-close-modal>
-            &times;
-          </button>
-        </div>
-        <div class="modal__body">
-          <iframe id="modalFrame" title="PDF preview" frameborder="0"></iframe>
-          <p id="modalFallback" class="modal__fallback" hidden>
-            無法於瀏覽器載入預覽，
-            <a id="modalFallbackLink" href="#" target="_blank" rel="noopener noreferrer">請直接下載檔案</a>
-            。
-          </p>
-        </div>
-        <div class="modal__actions">
-          <a id="modalDownload" class="modal__download" href="#" target="_blank" rel="noopener noreferrer">下載檔案</a>
+        <h1 class="hero__title">EVENT</h1>
+        <p class="hero__description">
+          快速掌握公會最新活動與報名資訊，並依狀態、日期、關鍵字篩選出最適合的場次。
+        </p>
+        <div class="hero__actions">
+          <a class="hero__link" href="https://www.kaa.org.tw/news_list.php?t1=1" target="_blank" rel="noopener noreferrer">
+            前往官方活動列表
+          </a>
         </div>
       </div>
     </div>
+  </header>
 
-    <script type="module" src="./app.js?v=4"></script>
-    </body>
+  <main class="shell flow">
+    <section class="controls" aria-label="搜尋與篩選">
+      <fieldset class="status-group">
+        <legend class="field-label">活動狀態</legend>
+        <label class="status-option">
+          <input type="checkbox" name="statusFilter" value="coming-soon" checked />
+          <span>即將開始</span>
+        </label>
+        <label class="status-option">
+          <input type="checkbox" name="statusFilter" value="upcoming" checked />
+          <span>活動未到</span>
+        </label>
+        <label class="status-option">
+          <input type="checkbox" name="statusFilter" value="past" />
+          <span>含結束</span>
+        </label>
+      </fieldset>
 
-    </html>
+      <div class="field-group">
+        <label class="field-label" for="categorySelect">活動類型</label>
+        <select id="categorySelect">
+          <option value="all">全部</option>
+          <option value="outing">出遊</option>
+          <option value="meeting">會議</option>
+          <option value="movie">電影</option>
+          <option value="workshop">講習</option>
+          <option value="other">其他</option>
+        </select>
+      </div>
+
+      <div class="field-group">
+        <label class="field-label" for="sortSelect">排序方式</label>
+        <select id="sortSelect">
+          <option value="start-asc">活動日期由近到遠</option>
+          <option value="start-desc">活動日期由遠到近</option>
+          <option value="title-asc">活動名稱 A → Z</option>
+        </select>
+      </div>
+
+      <button id="clearFilters" type="button">重設篩選</button>
+    </section>
+
+    <section aria-live="polite">
+      <div id="status" class="status">資料讀取中...</div>
+      <div id="documentList" class="document-grid" hidden></div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <div class="shell footer-inner">
+      <p class="footer-copy">
+        活動資料來源：
+        <a href="https://www.kaa.org.tw/news_list.php?t1=1" target="_blank" rel="noopener noreferrer">高雄市建築師公會</a>
+        ｜Event 靜態重製
+      </p>
+      <p id="updatedAt" class="footer-updated" aria-live="polite">資料更新時間待同步</p>
+    </div>
+  </footer>
+
+  <div id="previewModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal__overlay" data-close-modal></div>
+    <div class="modal__content">
+      <div class="modal__header">
+        <h3 id="modalTitle" class="modal__title">檔案預覽</h3>
+        <button type="button" class="modal__close" aria-label="關閉預覽" data-close-modal>&times;</button>
+      </div>
+      <div class="modal__body">
+        <iframe id="modalFrame" title="PDF preview" frameborder="0"></iframe>
+        <p id="modalFallback" class="modal__fallback" hidden>
+          無法於瀏覽器載入預覽，
+          <a id="modalFallbackLink" href="#" target="_blank" rel="noopener noreferrer">請直接下載檔案</a>
+          。
+        </p>
+      </div>
+      <div class="modal__actions">
+        <a id="modalDownload" class="modal__download" href="#" target="_blank" rel="noopener noreferrer">下載檔案</a>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./app.js?v=7"></script>
+</body>
+</html>

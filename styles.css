@@ -560,12 +560,12 @@ button:focus-visible {
   padding: 0.5rem 1rem;
   border-radius: 12px;
   border: none;
-  background: linear-gradient(135deg, #fbbf24, #f59e0b);
-  color: #78350f;
+  background: linear-gradient(135deg, #2563eb, #1d4ed8);
+  color: #ffffff;
   font-size: 0.9rem;
   font-weight: 600;
   cursor: pointer;
-  box-shadow: 0 10px 30px rgba(251, 191, 36, 0.35);
+  box-shadow: 0 12px 32px rgba(37, 99, 235, 0.28);
   transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
 }
 
@@ -595,6 +595,11 @@ button:focus-visible {
   opacity: 0.92;
   transform: translateY(-2px);
   box-shadow: 0 18px 36px rgba(5, 150, 105, 0.45);
+}
+
+.meta-item dd {
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .app-footer {

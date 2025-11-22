@@ -42,12 +42,6 @@ const elements = {
   categorySelect: document.getElementById('categorySelect'),
   clearFilters: document.getElementById('clearFilters'),
   updatedAt: document.getElementById('updatedAt'),
-  previewModal: document.getElementById('previewModal'),
-  modalFrame: document.getElementById('modalFrame'),
-  modalTitle: document.getElementById('modalTitle'),
-  modalDownload: document.getElementById('modalDownload'),
-  modalFallback: document.getElementById('modalFallback'),
-  modalFallbackLink: document.getElementById('modalFallbackLink'),
 };
 
 const statusCheckboxes = Array.from(
@@ -464,14 +458,17 @@ function createDownloadButtons(event) {
     if (!url) {
       return;
     }
-    const button = document.createElement('button');
-    button.type = 'button';
-    button.className = 'download-button';
+    const link = document.createElement('a');
+    link.className = 'download-button';
+    link.href = url;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+
     const label = download.label?.trim() || `檔案 ${index + 1}`;
-    button.textContent = label;
-    button.setAttribute('aria-label', `預覽與下載${label}`);
-    button.addEventListener('click', () => openPreview(url, label));
-    group.appendChild(button);
+    link.textContent = label;
+    link.setAttribute('aria-label', `下載${label}`);
+
+    group.appendChild(link);
   });
 
   return group;
@@ -628,39 +625,3 @@ async function loadEvents() {
 }
 
 loadEvents();
-
-function closePreview() {
-  elements.previewModal.hidden = true;
-  elements.previewModal.setAttribute('aria-hidden', 'true');
-  elements.modalFrame.src = 'about:blank';
-  elements.modalDownload.href = '#';
-}
-
-function openPreview(url, label) {
-  if (!url) return;
-
-  elements.previewModal.hidden = false;
-  elements.previewModal.removeAttribute('aria-hidden');
-  // Use Google Docs Viewer for preview
-  elements.modalFrame.src = PREVIEW_VIEWER_BASE + encodeURIComponent(url);
-
-  elements.modalFallback.hidden = true;
-  elements.modalDownload.href = url;
-  elements.modalDownload.textContent = `下載${label || '檔案'}`;
-}
-
-elements.previewModal
-  .querySelectorAll('[data-close-modal]')
-  .forEach((trigger) => {
-    trigger.addEventListener('click', closePreview);
-  });
-
-document.addEventListener('keydown', (event) => {
-  if (event.key === 'Escape' && !elements.previewModal.hidden) {
-    closePreview();
-  }
-});
-
-elements.modalFrame?.addEventListener('error', () => {
-  elements.modalFallback.hidden = false;
-});

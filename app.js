@@ -7,6 +7,11 @@ const BADGE_TEXT = {
   'no-date': '待公告',
 };
 
+const CATEGORY_KEYWORDS = {
+  meeting: ['\u6703\u8b70', '\u7406\u4e8b', '\u59d4\u54e1', '\u6703\u54e1', '\u8b70'],
+  outing: ['\u51fa\u904a', '\u65c5\u904a', '\u65c5\u884c', '\u53c3\u8a2a', '\u89c0\u6469', '\u96fb\u5f71', '\u5f71\u5c55'],
+};
+
 const DEFAULT_STATUS_VALUES = ['coming-soon', 'upcoming'];
 
 const state = {
@@ -155,6 +160,20 @@ function formatDateForDisplay(date) {
   return taipeiDateFormatter.format(date);
 }
 
+function detectCategoryFromTitle(title) {
+  if (!title) return 'other';
+
+  if (CATEGORY_KEYWORDS.meeting.some((keyword) => title.includes(keyword))) {
+    return 'meeting';
+  }
+
+  if (CATEGORY_KEYWORDS.outing.some((keyword) => title.includes(keyword))) {
+    return 'outing';
+  }
+
+  return 'other';
+}
+
 function enrichEvent(event) {
   const parsedDates = (event.dates || [])
     .map((date) => parseDate(date))
@@ -185,6 +204,7 @@ function enrichEvent(event) {
 
   return {
     ...event,
+    category: event.category ?? detectCategoryFromTitle(event.title ?? ''),
     parsedDates,
     startDate: parsedDates[0] || null,
     endDate: parsedDates[parsedDates.length - 1] || null,

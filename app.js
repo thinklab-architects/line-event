@@ -656,9 +656,46 @@ function openPreview(url, label) {
   // Use Google Docs Viewer for preview
   elements.modalFrame.src = PREVIEW_VIEWER_BASE + encodeURIComponent(url);
 
+  // update UI elements
   elements.modalFallback.hidden = true;
   elements.modalDownload.href = url;
   elements.modalDownload.textContent = `下載${label || '檔案'}`;
+  elements.modalTitle.textContent = label || '檔案預覽';
+  if (elements.modalFallbackLink) elements.modalFallbackLink.href = url;
+
+  // handle iframe load / error with a small timeout fallback
+  let loaded = false;
+  const onLoad = () => {
+    loaded = true;
+    elements.modalFallback.hidden = true;
+    cleanup();
+  };
+
+  const onError = () => {
+    loaded = true;
+    elements.modalFallback.hidden = false;
+    cleanup();
+  };
+
+  const cleanup = () => {
+    try {
+      elements.modalFrame.removeEventListener('load', onLoad);
+      elements.modalFrame.removeEventListener('error', onError);
+    } catch (e) {
+      // ignore
+    }
+    clearTimeout(timeoutId);
+  };
+
+  elements.modalFrame.addEventListener('load', onLoad);
+  elements.modalFrame.addEventListener('error', onError);
+
+  const timeoutId = setTimeout(() => {
+    if (!loaded) {
+      // show fallback after timeout if not loaded
+      elements.modalFallback.hidden = false;
+    }
+  }, 2500);
 }
 
 elements.previewModal

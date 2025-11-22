@@ -111,6 +111,47 @@
       </div>
     </footer>
 
+    <div
+      id="previewModal"
+      class="modal"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="modalTitle"
+      hidden
+    >
+      <div class="modal__overlay" data-close-modal></div>
+      <div class="modal__content">
+        <div class="modal__header">
+          <h3 id="modalTitle" class="modal__title">檔案預覽</h3>
+          <button type="button" class="modal__close" aria-label="關閉預覽" data-close-modal>
+            &times;
+          </button>
+        </div>
+        <div class="modal__body">
+          <iframe id="modalFrame" title="PDF preview" frameborder="0"></iframe>
+          <p id="modalFallback" class="modal__fallback" hidden>
+            無法於瀏覽器載入預覽，
+            <a
+              id="modalFallbackLink"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+            >請直接下載檔案</a>
+            。
+          </p>
+        </div>
+        <div class="modal__actions">
+          <a
+            id="modalDownload"
+            class="modal__download"
+            href="#"
+            target="_blank"
+            rel="noopener noreferrer"
+          >下載檔案</a>
+        </div>
+      </div>
+    </div>
+
     <script type="module" src="./app.js"></script>
   </body>
 </html>

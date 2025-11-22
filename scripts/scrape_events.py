@@ -17,8 +17,8 @@ BASE_URL = 'https://www.kaa.org.tw'
 LIST_URL = f'{BASE_URL}/news_list.php?t1=1'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Event scraper)'}
 PAGE_COUNT = 5
-MEETING_KEYWORDS = ['會議', '理事', '委員', '會員', '議']
-OUTING_KEYWORDS = ['出遊', '旅遊', '旅行', '參訪', '觀摩', '遊', '遊程']
+MEETING_KEYWORDS = ['\u6703\u8b70', '\u7406\u4e8b', '\u59d4\u54e1', '\u6703\u54e1', '\u8b70']
+OUTING_KEYWORDS = ['\u51fa\u904a', '\u65c5\u904a', '\u65c5\u884c', '\u53c3\u8a2a', '\u89c0\u6469', '\u904a', '\u904a\u7a0b']
 
 
 def fetch_text(url: str) -> str:
@@ -47,12 +47,15 @@ def detect_category(title: str | None) -> str:
 
 
 @lru_cache(maxsize=256)
-def fetch_detail(detail_url: str) -> tuple[dict[str, str | None], list[dict[str, str]]]:
+def fetch_detail(
+  detail_url: str,
+) -> tuple[dict[str, str | None], list[dict[str, str]], dict[str, str | None]]:
   html = fetch_text(detail_url)
   soup = BeautifulSoup(html, 'html.parser')
   rows = soup.select('.addtable table tr') or soup.find_all('tr')
   fields: dict[str, str | None] = {}
   downloads: list[dict[str, str]] = []
+  register_info: dict[str, str | None] = {}
 
   for row in rows:
     header = row.find('th')
@@ -78,7 +81,17 @@ def fetch_detail(detail_url: str) -> tuple[dict[str, str | None], list[dict[str,
         label_text = link.get_text(strip=True) or '檔案下載'
         downloads.append({'label': label_text, 'url': url})
 
-  return fields, downloads
+    if '報名' in normalized:
+      link = row.find('a', href=True)
+      if link:
+        register_info = {
+          'label': link.get_text(strip=True) or fields[normalized] or '線上報名',
+          'url': urllib.parse.urljoin(BASE_URL, link['href']),
+        }
+      elif fields[normalized]:
+        register_info = {'label': fields[normalized], 'url': None}
+
+  return fields, downloads, register_info
 
 
 def parse_events(html: str) -> list[dict[str, Any]]:
@@ -124,11 +137,18 @@ def parse_events(html: str) -> list[dict[str, Any]]:
 
     detail_fields: dict[str, str | None] = {}
     downloads: list[dict[str, str]] = []
+    detail_register: dict[str, str | None] = {}
     if detail_url:
       try:
-        detail_fields, downloads = fetch_detail(detail_url)
+        detail_fields, downloads, detail_register = fetch_detail(detail_url)
       except requests.RequestException as error:
         print(f'Unable to load detail page {detail_url}: {error}')
+
+    if detail_register.get('url') and not register_link:
+      register_link = detail_register['url']
+      register_label = detail_register.get('label')
+    elif detail_register.get('label') and not register_label:
+      register_label = detail_register['label']
 
     events.append(
       {

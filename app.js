@@ -37,6 +37,7 @@ const elements = {
   modalFrame: document.getElementById('modalFrame'),
   modalDownload: document.getElementById('modalDownload'),
   modalFallback: document.getElementById('modalFallback'),
+  modalFallbackLink: document.getElementById('modalFallbackLink'),
 };
 
 const statusCheckboxes = Array.from(

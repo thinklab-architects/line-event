@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 LIST_URL = 'https://www.kaa.org.tw/news_list.php?t1=1'
 BASE_URL = 'https://www.kaa.org.tw/'
-HEADERS = {'User-Agent': 'Mozilla/5.0 (LINE Event scraper)'}
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Event scraper)'}
 
 
 def fetch_html() -> str:

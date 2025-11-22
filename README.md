@@ -1,4 +1,4 @@
-# LINE Event
+# Event
 
 重製 LINE NEWS 的玻璃擬態介面，並改為載入高雄市建築師公會「活動紀錄」列表（`news_list.php?t1=1`）。資料經由 `data/events.json` 餵給前端，提供搜尋、狀態篩選與排序能力。
 

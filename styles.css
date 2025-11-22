@@ -548,6 +548,79 @@ button:focus-visible {
 }
 
 
+.download-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.download-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  border: none;
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+  color: #78350f;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgba(251, 191, 36, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.download-button:hover,
+.download-button:focus-visible {
+  opacity: 0.9;
+  transform: translateY(-2px);
+  box-shadow: 0 18px 36px rgba(251, 191, 36, 0.45);
+}
+
+.register-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.55rem 1.4rem;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 12px 28px rgba(5, 150, 105, 0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.register-button:hover,
+.register-button:focus-visible {
+  opacity: 0.92;
+  transform: translateY(-2px);
+  box-shadow: 0 18px 36px rgba(5, 150, 105, 0.45);
+}
+
+.app-footer {
+  margin: clamp(3.2rem, 6vw, 4.6rem) 0 clamp(2.4rem, 4vw, 3.4rem);
+  color: var(--ink-soft);
+}
+
+.footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.4rem 1.6rem;
+  border-radius: 22px;
+  background: var(--glass-bg);
+  backdrop-filter: blur(22px) saturate(150%);
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+.footer-copy {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
 .footer-updated {
   margin: 0;
   font-size: 0.9rem;

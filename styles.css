@@ -154,8 +154,8 @@ a:focus-visible {
 
 .hero__title {
   margin: 0;
-  font-size: clamp(2rem, 5vw, 3.1rem);
-  font-weight: 700;
+  font-size: clamp(2.6rem, 6vw, 4.4rem);
+  font-weight: 800;
   letter-spacing: -0.01em;
 }
 
@@ -167,18 +167,20 @@ a:focus-visible {
 
 .hero__subtitle {
   margin: 0;
-  /* make subtitle 1.25x larger than base paragraph size */
-  font-size: 1.25rem;
-  font-weight: 600;
+  font-size: 1.15rem;
+  font-weight: 700;
   color: var(--ink-muted);
   letter-spacing: -0.005em;
 }
 
 .hero__description {
   margin: 0.6rem 0 0 0;
-  max-width: 46ch;
+  max-width: 58ch;
   color: var(--ink-muted);
-  font-size: 1.02rem;
+  font-size: 0.98rem;
+  line-height: 1.7; /* wider leading to feel like a tagline */
+  font-weight: 500;
+  letter-spacing: -0.002em;
 }
 
 .hero__actions {

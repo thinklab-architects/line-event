@@ -403,7 +403,11 @@ function createLinkGroup(event) {
     pushLink(event.register || '線上報名', event.registerUrl);
   }
 
-  if (event.noteUrl && event.noteUrl !== event.detailUrl) {
+  if (
+    event.noteUrl &&
+    event.noteUrl !== event.detailUrl &&
+    !['細節', '詳細內容'].includes(event.note?.trim())
+  ) {
     pushLink(event.note || '備註', event.noteUrl);
   }
 

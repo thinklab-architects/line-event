@@ -462,6 +462,11 @@ button:focus-visible {
   gap: 0.4rem;
 }
 
+.date-list--range {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
 .date-pill {
   display: inline-flex;
   align-items: center;

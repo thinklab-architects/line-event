@@ -136,6 +136,11 @@ function getTaipeiToday() {
   return parseDate(formatted);
 }
 
+function formatDateForDisplay(date) {
+  if (!date) return '';
+  return taipeiDateFormatter.format(date);
+}
+
 function enrichEvent(event) {
   const parsedDates = (event.dates || [])
     .map((date) => parseDate(date))
@@ -275,8 +280,28 @@ function createDateBlock(event) {
 
   const dateList = document.createElement('div');
   dateList.className = 'date-list';
+  const hasDates = Boolean(event.dates?.length);
 
-  if (event.dates?.length) {
+  const shouldShowRange =
+    hasDates &&
+    event.startDate &&
+    event.endDate &&
+    event.startDate.getTime() !== event.endDate.getTime() &&
+    event.dates.length > 1;
+
+  if (shouldShowRange) {
+    dateList.classList.add('date-list--range');
+
+    const startSpan = document.createElement('span');
+    startSpan.className = 'date-pill';
+    startSpan.textContent = `${formatDateForDisplay(event.startDate)}~`;
+
+    const endSpan = document.createElement('span');
+    endSpan.className = 'date-pill';
+    endSpan.textContent = formatDateForDisplay(event.endDate);
+
+    dateList.append(startSpan, endSpan);
+  } else if (hasDates) {
     event.dates.forEach((date) => {
       const pill = document.createElement('span');
       pill.className = 'date-pill';

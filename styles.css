@@ -332,6 +332,11 @@ button:focus-visible {
   box-shadow: 0 34px 60px rgba(20, 32, 48, 0.18);
 }
 
+.document-card--highlight {
+  border: 2px solid rgba(250, 204, 21, 0.85);
+  box-shadow: 0 24px 60px rgba(250, 204, 21, 0.25);
+}
+
 .document-card__header {
   display: flex;
   flex-wrap: wrap;
@@ -370,6 +375,19 @@ button:focus-visible {
 .badge--no-date {
   background: var(--badge-idle);
   color: #475569;
+}
+
+.highlight-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(250, 204, 21, 0.2);
+  color: #854d0e;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .document-card__issued {
@@ -528,6 +546,31 @@ button:focus-visible {
   font-size: 0.9rem;
 }
 
+.download-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.download-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.download-button:hover,
+.download-button:focus-visible {
+  background: rgba(148, 163, 184, 0.2);
+  transform: translateY(-1px);
+}
+
 .app-footer {
   margin: clamp(3.2rem, 6vw, 4.6rem) 0 clamp(2.4rem, 4vw, 3.4rem);
   color: var(--ink-soft);
@@ -566,6 +609,103 @@ button:focus-visible {
   .top-bar {
     justify-content: flex-start;
   }
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  z-index: 999;
+}
+
+.modal[hidden] {
+  display: none;
+}
+
+.modal__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(3px);
+}
+
+.modal__content {
+  position: relative;
+  width: min(960px, 92vw);
+  height: min(80vh, 720px);
+  background: #fff;
+  border-radius: 24px;
+  box-shadow: 0 40px 90px rgba(15, 23, 42, 0.45);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.modal__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.4rem;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.2);
+}
+
+.modal__title {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.modal__close {
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  color: #111;
+}
+
+.modal__body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1.4rem;
+  background: #f4f6fb;
+}
+
+.modal__body iframe {
+  flex: 1;
+  border: none;
+  border-radius: 12px;
+  background: #fff;
+}
+
+.modal__fallback {
+  margin-top: 1rem;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+}
+
+.modal__actions {
+  padding: 1rem 1.4rem 1.4rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.2);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.modal__download {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.8rem 1.6rem;
+  border-radius: 12px;
+  background: #111;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.modal__download:hover,
+.modal__download:focus-visible {
+  background: #333;
 }
 
 @media (max-width: 700px) {

@@ -33,6 +33,10 @@ const elements = {
   categorySelect: document.getElementById('categorySelect'),
   clearFilters: document.getElementById('clearFilters'),
   updatedAt: document.getElementById('updatedAt'),
+  previewModal: document.getElementById('previewModal'),
+  modalFrame: document.getElementById('modalFrame'),
+  modalDownload: document.getElementById('modalDownload'),
+  modalFallback: document.getElementById('modalFallback'),
 };
 
 const statusCheckboxes = Array.from(
@@ -417,6 +421,30 @@ function createLinkGroup(event) {
   return group;
 }
 
+function createDownloadButtons(event) {
+  const downloads = event.downloads ?? [];
+  if (!downloads.length) {
+    const empty = document.createElement('span');
+    empty.className = 'attachment-empty';
+    empty.textContent = '尚無檔案';
+    return empty;
+  }
+
+  const group = document.createElement('div');
+  group.className = 'download-group';
+
+  downloads.forEach((download, index) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'download-button';
+    button.textContent = download.label || `檔案 ${index + 1}`;
+    button.addEventListener('click', () => openPreview(download.url, download.label));
+    group.appendChild(button);
+  });
+
+  return group;
+}
+
 function createLocationContent(event) {
   const location = document.createElement('span');
   location.className = 'location-line';
@@ -445,6 +473,11 @@ function createMetaItem(label, content) {
 function createEventCard(event) {
   const card = document.createElement('article');
   card.className = `document-card document-card--${event.statusCategory}`;
+  const isHighlighted = (event.title ?? '').includes('國外旅遊');
+
+  if (isHighlighted) {
+    card.classList.add('document-card--highlight');
+  }
 
   const header = document.createElement('header');
   header.className = 'document-card__header';
@@ -453,6 +486,13 @@ function createEventCard(event) {
   badge.className = `badge badge--${event.statusCategory}`;
   badge.textContent = BADGE_TEXT[event.statusCategory] ?? '狀態';
   header.appendChild(badge);
+
+  if (isHighlighted) {
+    const highlightTag = document.createElement('span');
+    highlightTag.className = 'highlight-tag';
+    highlightTag.textContent = '國外旅遊';
+    header.appendChild(highlightTag);
+  }
 
   card.appendChild(header);
 
@@ -476,6 +516,7 @@ function createEventCard(event) {
   const metaItems = [
     createMetaItem('活動日期', createDateBlock(event)),
     createMetaItem('活動地點', createLocationContent(event)),
+    createMetaItem('檔案下載', createDownloadButtons(event)),
     createMetaItem('相關連結', createLinkGroup(event)),
   ];
 
@@ -545,3 +586,37 @@ async function loadEvents() {
 }
 
 loadEvents();
+
+function closePreview() {
+  elements.previewModal.hidden = true;
+  elements.previewModal.setAttribute('aria-hidden', 'true');
+  elements.modalFrame.src = 'about:blank';
+  elements.modalDownload.href = '#';
+}
+
+function openPreview(url, label) {
+  if (!url) return;
+
+  elements.previewModal.hidden = false;
+  elements.previewModal.removeAttribute('aria-hidden');
+  elements.modalFrame.src = url;
+  elements.modalFallback.hidden = true;
+  elements.modalDownload.href = url;
+  elements.modalDownload.textContent = `下載${label || '檔案'}`;
+}
+
+elements.previewModal
+  .querySelectorAll('[data-close-modal]')
+  .forEach((trigger) => {
+    trigger.addEventListener('click', closePreview);
+  });
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape' && !elements.previewModal.hidden) {
+    closePreview();
+  }
+});
+
+elements.modalFrame?.addEventListener('error', () => {
+  elements.modalFallback.hidden = false;
+});

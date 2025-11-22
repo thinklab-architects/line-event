@@ -18,7 +18,7 @@ const CATEGORY_KEYWORDS = {
 
 const OUTING_MARKERS = ['遊'];
 const CATEGORY_PRIORITY = ['movie', 'workshop', 'meeting', 'outing'];
-const PREVIEW_VIEWER_BASE = 'https://docs.google.com/gview?embedded=1&url=';
+const PREVIEW_VIEWER_BASE = 'https://docs.google.com/viewer?embedded=true&url=';
 const HIGHLIGHT_KEYWORDS = ['XX國外旅遊', '國外旅遊'];
 
 const DEFAULT_STATUS_VALUES = ['coming-soon', 'upcoming'];

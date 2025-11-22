@@ -339,6 +339,16 @@ button:focus-visible {
   box-shadow: 0 24px 60px rgba(250, 204, 21, 0.25);
 }
 
+.document-card--movie {
+  border: 2px solid rgba(248, 113, 113, 0.45);
+  box-shadow: 0 20px 50px rgba(248, 113, 113, 0.12);
+}
+
+.highlight-tag--movie {
+  background: rgba(248, 113, 113, 0.14);
+  color: #7f1d1d;
+}
+
 .document-card__header {
   display: flex;
   flex-wrap: wrap;

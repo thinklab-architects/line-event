@@ -507,9 +507,14 @@ function createEventCard(event) {
   card.className = `document-card document-card--${event.statusCategory}`;
   const titleText = event.title?.trim() || '未提供標題';
   const isHighlighted = HIGHLIGHT_KEYWORDS.some((keyword) => titleText.includes(keyword));
+  const isMovie = (event.category || '') === 'movie';
 
   if (isHighlighted) {
     card.classList.add('document-card--highlight');
+  }
+
+  if (isMovie) {
+    card.classList.add('document-card--movie');
   }
 
   const header = document.createElement('header');
@@ -525,6 +530,13 @@ function createEventCard(event) {
     highlightTag.className = 'highlight-tag';
     highlightTag.textContent = '國外旅遊';
     header.appendChild(highlightTag);
+  }
+
+  if (isMovie) {
+    const movieTag = document.createElement('span');
+    movieTag.className = 'highlight-tag highlight-tag--movie';
+    movieTag.textContent = '電影';
+    header.appendChild(movieTag);
   }
 
   card.appendChild(header);

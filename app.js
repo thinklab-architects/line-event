@@ -15,6 +15,7 @@ const state = {
   filters: {
     search: '',
     sort: 'start-asc',
+    category: 'all',
     statuses: new Set(DEFAULT_STATUS_VALUES),
   },
 };
@@ -24,6 +25,7 @@ const elements = {
   list: document.getElementById('documentList'),
   searchInput: document.getElementById('search'),
   sortSelect: document.getElementById('sortSelect'),
+  categorySelect: document.getElementById('categorySelect'),
   clearFilters: document.getElementById('clearFilters'),
   updatedAt: document.getElementById('updatedAt'),
 };
@@ -86,20 +88,29 @@ if (elements.sortSelect) {
   });
 }
 
+if (elements.categorySelect) {
+  elements.categorySelect.addEventListener('change', (event) => {
+    state.filters.category = event.target.value;
+    render();
+  });
+}
+
 if (elements.clearFilters) {
   elements.clearFilters.addEventListener('click', () => {
     const hasSearch = Boolean(state.filters.search);
     const hasSort = state.filters.sort !== 'start-asc';
+    const hasCategory = state.filters.category !== 'all';
     const hasStatusChange =
       state.filters.statuses.size !== DEFAULT_STATUS_VALUES.length ||
       DEFAULT_STATUS_VALUES.some((value) => !state.filters.statuses.has(value));
 
-    if (!hasSearch && !hasSort && !hasStatusChange) {
+    if (!hasSearch && !hasSort && !hasStatusChange && !hasCategory) {
       return;
     }
 
     state.filters.search = '';
     state.filters.sort = 'start-asc';
+    state.filters.category = 'all';
     resetStatusFilters();
 
     if (elements.searchInput) {
@@ -107,6 +118,9 @@ if (elements.clearFilters) {
     }
     if (elements.sortSelect) {
       elements.sortSelect.value = 'start-asc';
+    }
+    if (elements.categorySelect) {
+      elements.categorySelect.value = 'all';
     }
 
     render();
@@ -223,6 +237,12 @@ function applyFilters() {
   if (state.filters.statuses.size) {
     results = results.filter((event) =>
       state.filters.statuses.has(event.statusCategory ?? 'no-date'),
+    );
+  }
+
+  if (state.filters.category !== 'all') {
+    results = results.filter(
+      (event) => (event.category ?? 'other') === state.filters.category,
     );
   }
 

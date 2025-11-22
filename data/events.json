@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-21T16:41:10.014584+00:00",
+  "scrapedAt": "2025-11-22T01:43:51.431570+00:00",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -14,7 +14,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7085",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "第17屆公共事務委員會第12次會議",
@@ -30,7 +31,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6848",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "115年度國外旅遊-古文明埃及10日",
@@ -55,7 +57,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7062",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "outing"
     },
     {
       "title": "南部五縣市理監事聯誼會議",
@@ -71,7 +74,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7093",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
@@ -87,7 +91,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7095",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "第17屆學術委員會第12次會議",
@@ -103,7 +108,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7082",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "第17屆公共事務委員會第11次會議",
@@ -119,7 +125,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6847",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "特富野部落.里加部落ㄧ日遊",
@@ -135,7 +142,8 @@
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7026",
       "register": null,
       "registerUrl": null,
-      "extras": []
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "(第一場次13:00)電影欣賞活動--阿凡達-火與燼",
@@ -149,9 +157,10 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7078",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7078&t=active",
-      "extras": []
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
     },
     {
       "title": "(第二場次16:30)電影欣賞活動--阿凡達-火與燼",
@@ -165,9 +174,10 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7079",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7079&t=active",
-      "extras": []
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
     }
   ]
 }

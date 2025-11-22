@@ -14,6 +14,8 @@ from bs4 import BeautifulSoup
 LIST_URL = 'https://www.kaa.org.tw/news_list.php?t1=1'
 BASE_URL = 'https://www.kaa.org.tw/'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Event scraper)'}
+MEETING_KEYWORDS = ['會議', '理事', '委員', '會員', '議']
+OUTING_KEYWORDS = ['出遊', '旅遊', '旅行', '參訪', '觀摩', '影展', '影']
 
 
 def fetch_html() -> str:
@@ -23,6 +25,19 @@ def fetch_html() -> str:
     return response.content.decode('utf-8')
   except UnicodeDecodeError:
     return response.content.decode('big5', errors='ignore')
+
+
+def detect_category(title: str | None) -> str:
+  if not title:
+    return 'other'
+
+  if any(keyword in title for keyword in MEETING_KEYWORDS):
+    return 'meeting'
+
+  if any(keyword in title for keyword in OUTING_KEYWORDS):
+    return 'outing'
+
+  return 'other'
 
 
 def parse_events(html: str) -> list[dict[str, object]]:
@@ -80,6 +95,7 @@ def parse_events(html: str) -> list[dict[str, object]]:
         'register': register_label,
         'registerUrl': register_url,
         'extras': extras,
+        'category': detect_category(title_text),
       }
     )
 

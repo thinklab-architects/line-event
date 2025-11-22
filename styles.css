@@ -226,6 +226,17 @@ a:focus-visible {
   margin: 0;
 }
 
+.filters-row {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex: 1 1 auto;
+}
+
+.controls .btn-secondary {
+  align-self: center;
+}
+
 .status-group {
   display: flex;
   flex-wrap: wrap;
@@ -286,6 +297,78 @@ a:focus-visible {
   outline: none;
   border-color: rgba(148, 163, 184, 0.7);
   box-shadow: 0 0 0 3px rgba(148, 163, 184, 0.25);
+}
+
+/* Chip / Tag styles for filters */
+.chips {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.chips__list {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+}
+
+.chips--scroll .chips__list {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  padding-bottom: 0.25rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(148, 163, 184, 0.08);
+  border: 1px solid rgba(148, 163, 184, 0.06);
+  color: #111;
+  font-weight: 600;
+  font-size: 0.92rem;
+  cursor: pointer;
+  transition: background 0.18s ease, transform 0.12s ease;
+}
+
+.chip:hover,
+.chip:focus-visible {
+  background: rgba(148, 163, 184, 0.14);
+  transform: translateY(-1px);
+}
+
+.chip--selected {
+  background: linear-gradient(135deg, rgba(82,88,99,0.12), rgba(82,88,99,0.06));
+  border-color: rgba(82,88,99,0.18);
+  box-shadow: 0 6px 18px rgba(30,30,30,0.06);
+  font-weight: 800;
+}
+
+/* Add small visual check when selected using ::after */
+.chip--selected::after {
+  content: '✓';
+  display: inline-block;
+  margin-left: 0.45rem;
+  font-size: 0.85rem;
+  color: rgba(30,30,30,0.9);
+}
+
+/* Secondary reset button style */
+.btn-secondary {
+  padding: 0.6rem 1rem;
+  border-radius: 12px;
+  border: 1px solid rgba(148, 163, 184, 0.34);
+  background: transparent;
+  color: #111;
+  font-weight: 700;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus-visible {
+  background: rgba(148, 163, 184, 0.06);
+  transform: translateY(-1px);
 }
 
 button {

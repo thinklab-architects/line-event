@@ -50,41 +50,71 @@ const elements = {
   modalFallbackLink: document.getElementById('modalFallbackLink'),
 };
 
-const statusCheckboxes = Array.from(
-  document.querySelectorAll('input[name="statusFilter"]'),
-);
+// Chips-based status & category controls (replaces checkbox/select controls)
+const statusChips = document.getElementById('statusChips');
+const categoryChips = document.getElementById('categoryChips');
 
-function syncStatusCheckboxes() {
-  statusCheckboxes.forEach((checkbox) => {
-    checkbox.checked = state.filters.statuses.has(checkbox.value);
-  });
+function syncChipsUI() {
+  if (statusChips) {
+    Array.from(statusChips.querySelectorAll('[data-status]')).forEach((btn) => {
+      const v = btn.dataset.status;
+      const active = state.filters.statuses.has(v);
+      btn.classList.toggle('chip--selected', active);
+      btn.setAttribute('aria-pressed', String(active));
+    });
+  }
+
+  if (categoryChips) {
+    Array.from(categoryChips.querySelectorAll('[data-category]')).forEach((btn) => {
+      const v = btn.dataset.category;
+      btn.classList.toggle('chip--selected', state.filters.category === v);
+    });
+  }
 }
 
 function resetStatusFilters() {
   state.filters.statuses = new Set(DEFAULT_STATUS_VALUES);
-  syncStatusCheckboxes();
+  syncChipsUI();
 }
 
-statusCheckboxes.forEach((checkbox) => {
-  checkbox.addEventListener('change', () => {
-    const { value, checked } = checkbox;
+if (statusChips) {
+  statusChips.addEventListener('click', (event) => {
+    const btn = event.target.closest('[data-status]');
+    if (!btn) return;
+    const val = btn.dataset.status;
 
-    if (checked) {
-      state.filters.statuses.add(value);
-    } else {
-      state.filters.statuses.delete(value);
-      if (state.filters.statuses.size === 0) {
-        state.filters.statuses.add(value);
-        checkbox.checked = true;
+    if (state.filters.statuses.has(val)) {
+      // don't allow clearing all — keep at least one selected
+      if (state.filters.statuses.size === 1) {
+        // flash or ignore
+        btn.classList.add('chip--selected');
         return;
       }
+      state.filters.statuses.delete(val);
+    } else {
+      state.filters.statuses.add(val);
     }
 
+    syncChipsUI();
     render();
   });
-});
+}
 
-syncStatusCheckboxes();
+if (categoryChips) {
+  categoryChips.addEventListener('click', (event) => {
+    const btn = event.target.closest('[data-category]');
+    if (!btn) return;
+    const val = btn.dataset.category;
+    state.filters.category = val;
+    // update legacy select if present
+    if (elements.categorySelect) elements.categorySelect.value = val;
+    syncChipsUI();
+    render();
+  });
+}
+
+// Initialize chip UI from current state
+syncChipsUI();
 
 if (elements.searchInput) {
   elements.searchInput.addEventListener('input', (event) => {
@@ -142,6 +172,9 @@ if (elements.clearFilters) {
     if (elements.categorySelect) {
       elements.categorySelect.value = 'all';
     }
+
+    // update chip UI to reflect cleared category/status
+    syncChipsUI();
 
     render();
   });

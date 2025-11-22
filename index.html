@@ -36,44 +36,39 @@
 
   <main class="shell flow">
     <section class="controls" aria-label="搜尋與篩選">
-      <fieldset class="status-group">
-        <legend class="field-label">活動狀態</legend>
-        <label class="status-option">
-          <input type="checkbox" name="statusFilter" value="coming-soon" checked />
-          <span>即將開始</span>
-        </label>
-        <label class="status-option">
-          <input type="checkbox" name="statusFilter" value="upcoming" checked />
-          <span>活動未到</span>
-        </label>
-        <label class="status-option">
-          <input type="checkbox" name="statusFilter" value="past" />
-          <span>含結束</span>
-        </label>
-      </fieldset>
+      <div class="filters-row">
+        <div id="statusChips" class="chips" aria-label="活動狀態">
+          <div class="field-label">活動狀態</div>
+          <div class="chips__list">
+            <button type="button" class="chip chip--selected" data-status="coming-soon" aria-pressed="true">即將開始</button>
+            <button type="button" class="chip chip--selected" data-status="upcoming" aria-pressed="true">活動未到</button>
+            <button type="button" class="chip" data-status="past" aria-pressed="false">含結束</button>
+          </div>
+        </div>
 
-      <div class="field-group">
-        <label class="field-label" for="categorySelect">活動類型</label>
-        <select id="categorySelect">
-          <option value="all">全部</option>
-          <option value="outing">出遊</option>
-          <option value="meeting">會議</option>
-          <option value="movie">電影</option>
-          <option value="workshop">講習</option>
-          <option value="other">其他</option>
-        </select>
+        <div id="categoryChips" class="chips chips--scroll" aria-label="活動類型">
+          <div class="field-label">活動類型</div>
+          <div class="chips__list">
+            <button type="button" class="chip chip--selected" data-category="all">全部</button>
+            <button type="button" class="chip" data-category="outing">出遊</button>
+            <button type="button" class="chip" data-category="meeting">會議</button>
+            <button type="button" class="chip" data-category="movie">電影</button>
+            <button type="button" class="chip" data-category="workshop">講習</button>
+            <button type="button" class="chip" data-category="other">其他</button>
+          </div>
+        </div>
+
+        <div class="field-group">
+          <label class="field-label" for="sortSelect">排序方式</label>
+          <select id="sortSelect">
+            <option value="start-asc">活動日期（由近到遠）</option>
+            <option value="start-desc">活動日期（由遠到近）</option>
+            <option value="title-asc">活動名稱 A → Z</option>
+          </select>
+        </div>
       </div>
 
-      <div class="field-group">
-        <label class="field-label" for="sortSelect">排序方式</label>
-        <select id="sortSelect">
-          <option value="start-asc">活動日期由近到遠</option>
-          <option value="start-desc">活動日期由遠到近</option>
-          <option value="title-asc">活動名稱 A → Z</option>
-        </select>
-      </div>
-
-      <button id="clearFilters" type="button">重設篩選</button>
+      <button id="clearFilters" class="btn-secondary" type="button">重設</button>
     </section>
 
     <section aria-live="polite">

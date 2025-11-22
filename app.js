@@ -641,7 +641,9 @@ function openPreview(url, label) {
 
   elements.previewModal.hidden = false;
   elements.previewModal.removeAttribute('aria-hidden');
-  elements.modalFrame.src = url;
+  // Use Google Docs Viewer for preview
+  elements.modalFrame.src = PREVIEW_VIEWER_BASE + encodeURIComponent(url);
+
   elements.modalFallback.hidden = true;
   elements.modalDownload.href = url;
   elements.modalDownload.textContent = `下載${label || '檔案'}`;

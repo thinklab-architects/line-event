@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#e2e5eb" />
+    <title>LINE Event｜高雄市建築師公會活動紀錄</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="top-bar shell">
+      <div class="top-bar__search">
+        <label class="sr-only" for="search">搜尋活動名稱或地點</label>
+        <input
+          id="search"
+          type="search"
+          placeholder="搜尋活動、地點或關鍵字"
+          autocomplete="off"
+        />
+      </div>
+    </div>
+
+    <header class="hero">
+      <div class="shell hero__inner">
+        <div class="hero__lede">
+          <p class="hero__eyebrow">
+            <span class="hero__eyebrow-abbr">KAA</span>社團法人高雄市建築師公會
+          </p>
+          <h1 class="hero__title">活動紀錄 LINE Event</h1>
+          <p class="hero__description">
+            快速掌握公會最新活動與報名資訊，並依狀態、日期、關鍵字篩選出最適合的場次。
+          </p>
+          <div class="hero__actions">
+            <a
+              class="hero__link"
+              href="https://www.kaa.org.tw/news_list.php?t1=1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              前往官方活動列表
+            </a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell flow">
+      <section class="controls" aria-label="搜尋與篩選">
+        <fieldset class="status-group">
+          <legend class="field-label">活動狀態</legend>
+          <label class="status-option">
+            <input type="checkbox" name="statusFilter" value="coming-soon" checked />
+            <span>即將開始</span>
+          </label>
+          <label class="status-option">
+            <input type="checkbox" name="statusFilter" value="upcoming" checked />
+            <span>仍可規劃</span>
+          </label>
+          <label class="status-option">
+            <input type="checkbox" name="statusFilter" value="past" />
+            <span>已結束</span>
+          </label>
+          <label class="status-option">
+            <input type="checkbox" name="statusFilter" value="no-date" />
+            <span>待公告</span>
+          </label>
+        </fieldset>
+
+        <div class="field-group">
+          <label class="field-label" for="sortSelect">排序方式</label>
+          <select id="sortSelect">
+            <option value="start-asc">活動日期由近到遠</option>
+            <option value="start-desc">活動日期由遠到近</option>
+            <option value="title-asc">活動名稱 A → Z</option>
+          </select>
+        </div>
+
+        <button id="clearFilters" type="button">重設篩選</button>
+      </section>
+
+      <section aria-live="polite">
+        <div id="status" class="status">資料載入中...</div>
+        <div id="documentList" class="document-grid" hidden></div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div class="shell footer-inner">
+        <p class="footer-copy">
+          活動資料來源：
+          <a
+            href="https://www.kaa.org.tw/news_list.php?t1=1"
+            target="_blank"
+            rel="noopener noreferrer"
+          >高雄市建築師公會</a>
+          ｜LINE Event 靜態重製
+        </p>
+        <p id="updatedAt" class="footer-updated" aria-live="polite">資料更新時間待同步</p>
+      </div>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

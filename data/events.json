@@ -1,0 +1,173 @@
+{
+  "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
+  "scrapedAt": "2025-11-21T16:41:10.014584+00:00",
+  "events": [
+    {
+      "title": "第17屆學術委員會第16次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7085&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-09-11"
+      ],
+      "timeInfo": [],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7085",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "第17屆公共事務委員會第12次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6848&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-03-11"
+      ],
+      "timeInfo": [
+        "下午3:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6848",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "115年度國外旅遊-古文明埃及10日",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7062&t1=1",
+      "location": "埃及",
+      "dates": [
+        "2026-01-18",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-25",
+        "2026-01-26",
+        "2026-01-27"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7062",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "南部五縣市理監事聯誼會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7093&t1=1",
+      "location": "漢神飯店巨蛋會館9樓金冠廳",
+      "dates": [
+        "2026-01-14"
+      ],
+      "timeInfo": [
+        "下午4:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7093",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7095&t1=1",
+      "location": "大東藝術圖書館 演講廳",
+      "dates": [
+        "2026-01-10"
+      ],
+      "timeInfo": [
+        "下午2：00-5：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7095",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "第17屆學術委員會第12次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7082&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-01-09"
+      ],
+      "timeInfo": [
+        "下午4點整"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7082",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "第17屆公共事務委員會第11次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6847&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-01-07"
+      ],
+      "timeInfo": [
+        "下午3:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6847",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7026&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2025-12-27"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7026",
+      "register": null,
+      "registerUrl": null,
+      "extras": []
+    },
+    {
+      "title": "(第一場次13:00)電影欣賞活動--阿凡達-火與燼",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7078&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-12-20"
+      ],
+      "timeInfo": [
+        "下午2:00~ 5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7078",
+      "register": "報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7078&t=active",
+      "extras": []
+    },
+    {
+      "title": "(第二場次16:30)電影欣賞活動--阿凡達-火與燼",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7079&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-12-20"
+      ],
+      "timeInfo": [
+        "下午2:00~ 5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7079",
+      "register": "報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7079&t=active",
+      "extras": []
+    }
+  ]
+}

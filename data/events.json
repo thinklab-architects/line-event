@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-22T06:46:14.988137+00:00",
+  "scrapedAt": "2025-11-22T06:56:16.012618+00:00",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -15,7 +15,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "meeting"
+      "category": "meeting",
+      "remarks": null
     },
     {
       "title": "第17屆公共事務委員會第12次會議",
@@ -32,7 +33,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "meeting"
+      "category": "meeting",
+      "remarks": null
     },
     {
       "title": "115年度國外旅遊-古文明埃及10日",
@@ -58,7 +60,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "outing"
+      "category": "outing",
+      "remarks": null
     },
     {
       "title": "南部五縣市理監事聯誼會議",
@@ -75,7 +78,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "meeting"
+      "category": "meeting",
+      "remarks": null
     },
     {
       "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
@@ -92,7 +96,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other"
+      "category": "other",
+      "remarks": null
     },
     {
       "title": "第17屆學術委員會第12次會議",
@@ -109,7 +114,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "meeting"
+      "category": "meeting",
+      "remarks": null
     },
     {
       "title": "第17屆公共事務委員會第11次會議",
@@ -126,7 +132,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "meeting"
+      "category": "meeting",
+      "remarks": null
     },
     {
       "title": "特富野部落.里加部落ㄧ日遊",
@@ -143,7 +150,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other"
+      "category": "outing",
+      "remarks": "報名日期：114年10月13日(一)上午9:00~114年10月22日(三)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。"
     },
     {
       "title": "(第一場次13:00)電影欣賞活動--阿凡達-火與燼",
@@ -160,7 +168,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "outing"
+      "category": "other",
+      "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
     },
     {
       "title": "(第二場次16:30)電影欣賞活動--阿凡達-火與燼",
@@ -177,7 +186,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "outing"
+      "category": "other",
+      "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
     }
   ]
 }

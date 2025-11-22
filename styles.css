@@ -428,6 +428,11 @@ button:focus-visible {
   color: #111111;
 }
 
+.meta-item--remarks dd {
+  white-space: pre-line;
+  line-height: 1.6;
+}
+
 .deadline-wrapper {
   display: flex;
   flex-direction: column;

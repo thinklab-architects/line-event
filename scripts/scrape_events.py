@@ -6,7 +6,9 @@ from __future__ import annotations
 import json
 import urllib.parse
 from datetime import datetime, timezone
+from functools import lru_cache
 from pathlib import Path
+from typing import Any
 
 import requests
 from bs4 import BeautifulSoup
@@ -15,16 +17,20 @@ LIST_URL = 'https://www.kaa.org.tw/news_list.php?t1=1'
 BASE_URL = 'https://www.kaa.org.tw/'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Event scraper)'}
 MEETING_KEYWORDS = ['會議', '理事', '委員', '會員', '議']
-OUTING_KEYWORDS = ['出遊', '旅遊', '旅行', '參訪', '觀摩', '影展', '影']
+OUTING_KEYWORDS = ['出遊', '旅遊', '旅行', '參訪', '觀摩', '遊', '遊程']
 
 
-def fetch_html() -> str:
-  response = requests.get(LIST_URL, headers=HEADERS, timeout=30)
+def fetch_text(url: str) -> str:
+  response = requests.get(url, headers=HEADERS, timeout=30)
   response.raise_for_status()
   try:
     return response.content.decode('utf-8')
   except UnicodeDecodeError:
     return response.content.decode('big5', errors='ignore')
+
+
+def fetch_list_html() -> str:
+  return fetch_text(LIST_URL)
 
 
 def detect_category(title: str | None) -> str:
@@ -40,13 +46,42 @@ def detect_category(title: str | None) -> str:
   return 'other'
 
 
-def parse_events(html: str) -> list[dict[str, object]]:
+@lru_cache(maxsize=128)
+def fetch_detail_fields(detail_url: str) -> dict[str, str | None]:
+  html = fetch_text(detail_url)
+  soup = BeautifulSoup(html, 'html.parser')
+  fields: dict[str, str | None] = {}
+
+  for row in soup.select('table tr'):
+    header = row.find('th')
+    if not header:
+      continue
+
+    label = header.get_text(strip=True)
+    if not label:
+      continue
+
+    normalized = label.replace('：', '').replace(':', '').strip()
+    if not normalized:
+      continue
+
+    value_parts = [
+      td.get_text('\n', strip=True).replace('\r', '')
+      for td in row.find_all('td')
+      if td.get_text(strip=True)
+    ]
+    fields[normalized] = '\n'.join(value_parts).strip() if value_parts else None
+
+  return fields
+
+
+def parse_events(html: str) -> list[dict[str, Any]]:
   soup = BeautifulSoup(html, 'html.parser')
   table = soup.select_one('.mtable table')
   if table is None:
     raise RuntimeError('Unable to locate the event table in the HTML payload.')
 
-  events: list[dict[str, object]] = []
+  events: list[dict[str, Any]] = []
 
   for row in table.select('tr'):
     cells = row.find_all('td')
@@ -83,6 +118,13 @@ def parse_events(html: str) -> list[dict[str, object]]:
             }
           )
 
+    detail_fields: dict[str, str | None] = {}
+    if detail_url:
+      try:
+        detail_fields = fetch_detail_fields(detail_url)
+      except requests.RequestException as error:
+        print(f'Unable to load detail page {detail_url}: {error}')
+
     events.append(
       {
         'title': title_text,
@@ -96,13 +138,14 @@ def parse_events(html: str) -> list[dict[str, object]]:
         'registerUrl': register_url,
         'extras': extras,
         'category': detect_category(title_text),
+        'remarks': detail_fields.get('備註') if detail_fields else None,
       }
     )
 
   return events
 
 
-def write_payload(events: list[dict[str, object]]) -> Path:
+def write_payload(events: list[dict[str, Any]]) -> Path:
   payload = {
     'sourceUrl': LIST_URL,
     'scrapedAt': datetime.now(timezone.utc).isoformat(),
@@ -116,7 +159,7 @@ def write_payload(events: list[dict[str, object]]) -> Path:
 
 
 def main() -> None:
-  html = fetch_html()
+  html = fetch_list_html()
   events = parse_events(html)
   output_path = write_payload(events)
   print(f'Saved {len(events)} events to {output_path}')

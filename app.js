@@ -473,11 +473,19 @@ function createEventCard(event) {
 
   const metaList = document.createElement('dl');
   metaList.className = 'document-card__meta';
-  metaList.append(
+  const metaItems = [
     createMetaItem('活動日期', createDateBlock(event)),
     createMetaItem('活動地點', createLocationContent(event)),
     createMetaItem('相關連結', createLinkGroup(event)),
-  );
+  ];
+
+  if (event.remarks) {
+    const remarksItem = createMetaItem('備註', event.remarks);
+    remarksItem.classList.add('meta-item--remarks');
+    metaItems.push(remarksItem);
+  }
+
+  metaList.append(...metaItems);
 
   card.append(title, metaList);
   return card;

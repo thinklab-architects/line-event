@@ -1,4 +1,28 @@
 
+const EVENTS_URL = './data/events.json';
+const UPCOMING_SOON_DAYS = 7;
+const BADGE_TEXT = {
+  'coming-soon': '即將開始',
+  upcoming: '活動未到',
+  past: '含結束',
+  'no-date': '待公告',
+};
+
+const CATEGORY_KEYWORDS = {
+  outing: ['出遊', '旅遊', '旅行', '參訪', '觀摩', '遊程', '國外旅遊', '團遊'],
+  meeting: ['會議', '理事', '理監事', '委員', '會員', '座談', '大會', '議'],
+  movie: ['電影', '影展', '影視', '電影欣賞', '影片', '放映'],
+  workshop: ['講習', '課程', '研習', '培訓', '講座', '講堂', '工作坊', '訓練'],
+  other: ['其他'],
+};
+
+const OUTING_MARKERS = ['遊'];
+const CATEGORY_PRIORITY = ['movie', 'workshop', 'meeting', 'outing'];
+const PREVIEW_VIEWER_BASE = 'https://docs.google.com/gview?embedded=1&url=';
+const HIGHLIGHT_KEYWORDS = ['XX國外旅遊', '國外旅遊'];
+
+const DEFAULT_STATUS_VALUES = ['coming-soon', 'upcoming'];
+
 const state = {
   events: [],
   filtered: [],

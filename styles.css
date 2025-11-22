@@ -408,6 +408,8 @@ button:focus-visible {
   margin: 0;
   font-size: clamp(1.08rem, 2.2vw, 1.32rem);
   line-height: 1.45;
+  word-break: break-word;
+  overflow-wrap: anywhere;
 }
 
 .document-card__title a {

@@ -17,8 +17,18 @@ BASE_URL = 'https://www.kaa.org.tw'
 LIST_URL = f'{BASE_URL}/news_list.php?t1=1'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Event scraper)'}
 PAGE_COUNT = 5
-MEETING_KEYWORDS = ['\u6703\u8b70', '\u7406\u4e8b', '\u59d4\u54e1', '\u6703\u54e1', '\u8b70']
-OUTING_KEYWORDS = ['\u51fa\u904a', '\u65c5\u904a', '\u65c5\u884c', '\u53c3\u8a2a', '\u89c0\u6469', '\u904a', '\u904a\u7a0b']
+CATEGORY_KEYWORDS = {
+  'meeting': ['會議', '理事', '理監事', '委員', '會員', '座談', '大會', '議'],
+  'outing': ['出遊', '旅遊', '旅行', '參訪', '觀摩', '遊程', '團遊'],
+  'movie': ['電影', '影展', '影視', '電影欣賞', '影片', '放映'],
+  'workshop': ['講習', '課程', '研習', '培訓', '講座', '講堂', '工作坊', '訓練'],
+  'other': ['其他'],
+}
+CATEGORY_PRIORITY = ('movie', 'workshop', 'meeting', 'outing')
+OUTING_MARKERS = ['遊']
+DOWNLOAD_FIELD_NAMES = ('檔案下載', '相關檔案', '相關文件')
+REGISTER_FIELD_NAMES = ('報名',)
+REMARK_FIELD_NAMES = ('備註', '備考', '注意事項')
 
 
 def fetch_text(url: str) -> str:
@@ -39,13 +49,20 @@ def fetch_list_html(page: int = 1) -> str:
 def detect_category(title: str | None) -> str:
   if not title:
     return 'other'
-  if any(keyword in title for keyword in MEETING_KEYWORDS):
-    return 'meeting'
-  if any(keyword in title for keyword in OUTING_KEYWORDS):
+
+  normalized = title.strip()
+  
+  # Check priority categories first
+  for category in CATEGORY_PRIORITY:
+    keywords = CATEGORY_KEYWORDS.get(category, [])
+    if any(keyword in normalized for keyword in keywords):
+      return category
+
+  # Fallback checks
+  if any(marker in normalized for marker in OUTING_MARKERS):
     return 'outing'
+
   return 'other'
-
-
 @lru_cache(maxsize=256)
 def fetch_detail(
   detail_url: str,
@@ -75,13 +92,13 @@ def fetch_detail(
     ]
     fields[normalized] = '\n'.join(cell_texts).strip() if cell_texts else None
 
-    if normalized == '相關檔案':
+    if any(name in normalized for name in DOWNLOAD_FIELD_NAMES):
       for link in row.select('a[href]'):
         url = urllib.parse.urljoin(BASE_URL, link['href'])
         label_text = link.get_text(strip=True) or '檔案下載'
         downloads.append({'label': label_text, 'url': url})
 
-    if '報名' in normalized:
+    if any(name in normalized for name in REGISTER_FIELD_NAMES):
       link = row.find('a', href=True)
       if link:
         register_info = {
@@ -150,6 +167,14 @@ def parse_events(html: str) -> list[dict[str, Any]]:
     elif detail_register.get('label') and not register_label:
       register_label = detail_register['label']
 
+    remarks = None
+    for key, value in detail_fields.items():
+      if value and any(label in key for label in REMARK_FIELD_NAMES):
+        remarks = value
+        break
+
+    valid_downloads = [item for item in downloads if item.get('url')]
+
     events.append(
       {
         'title': title_text,
@@ -163,8 +188,8 @@ def parse_events(html: str) -> list[dict[str, Any]]:
         'registerUrl': register_link,
         'extras': [],
         'category': detect_category(title_text),
-        'remarks': detail_fields.get('備註') if detail_fields else None,
-        'downloads': downloads,
+        'remarks': remarks,
+        'downloads': valid_downloads,
       },
     )
 

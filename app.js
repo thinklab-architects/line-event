@@ -1,18 +1,3 @@
-const EVENTS_URL = './data/events.json';
-const UPCOMING_SOON_DAYS = 7;
-const BADGE_TEXT = {
-  'coming-soon': '即將開始',
-  upcoming: '仍可規劃',
-  past: '已結束',
-  'no-date': '待公告',
-};
-
-const CATEGORY_KEYWORDS = {
-  meeting: ['\u6703\u8b70', '\u7406\u4e8b', '\u59d4\u54e1', '\u6703\u54e1', '\u8b70'],
-  outing: ['\u51fa\u904a', '\u65c5\u904a', '\u65c5\u884c', '\u53c3\u8a2a', '\u89c0\u6469', '\u904a', '\u904a\u7a0b', '\u96fb\u5f71', '\u5f71\u5c55'],
-};
-
-const DEFAULT_STATUS_VALUES = ['coming-soon', 'upcoming'];
 
 const state = {
   events: [],
@@ -35,6 +20,7 @@ const elements = {
   updatedAt: document.getElementById('updatedAt'),
   previewModal: document.getElementById('previewModal'),
   modalFrame: document.getElementById('modalFrame'),
+  modalTitle: document.getElementById('modalTitle'),
   modalDownload: document.getElementById('modalDownload'),
   modalFallback: document.getElementById('modalFallback'),
   modalFallbackLink: document.getElementById('modalFallbackLink'),
@@ -167,13 +153,17 @@ function formatDateForDisplay(date) {
 
 function detectCategoryFromTitle(title) {
   if (!title) return 'other';
+  const normalized = title.trim();
 
-  if (CATEGORY_KEYWORDS.meeting.some((keyword) => title.includes(keyword))) {
-    return 'meeting';
+  if (OUTING_MARKERS.some((marker) => normalized.includes(marker))) {
+    return 'outing';
   }
 
-  if (CATEGORY_KEYWORDS.outing.some((keyword) => title.includes(keyword))) {
-    return 'outing';
+  for (const category of CATEGORY_PRIORITY) {
+    const keywords = CATEGORY_KEYWORDS[category];
+    if (keywords?.some((keyword) => normalized.includes(keyword))) {
+      return category;
+    }
   }
 
   return 'other';
@@ -435,7 +425,7 @@ function createRegisterContent(event) {
   link.href = event.registerUrl;
   link.target = '_blank';
   link.rel = 'noopener noreferrer';
-  link.textContent = event.register?.trim() || '線上報名';
+  link.textContent = event.register?.trim() || '立即報名';
   return link;
 }
 
@@ -446,11 +436,17 @@ function createDownloadButtons(event) {
   group.className = 'download-group';
 
   downloads.forEach((download, index) => {
+    const url = download.url;
+    if (!url) {
+      return;
+    }
     const button = document.createElement('button');
     button.type = 'button';
     button.className = 'download-button';
-    button.textContent = download.label || `檔案 ${index + 1}`;
-    button.addEventListener('click', () => openPreview(download.url, download.label));
+    const label = download.label?.trim() || `檔案 ${index + 1}`;
+    button.textContent = label;
+    button.setAttribute('aria-label', `預覽與下載${label}`);
+    button.addEventListener('click', () => openPreview(url, label));
     group.appendChild(button);
   });
 
@@ -485,7 +481,8 @@ function createMetaItem(label, content) {
 function createEventCard(event) {
   const card = document.createElement('article');
   card.className = `document-card document-card--${event.statusCategory}`;
-  const isHighlighted = (event.title ?? '').includes('國外旅遊');
+  const titleText = event.title?.trim() || '未提供標題';
+  const isHighlighted = HIGHLIGHT_KEYWORDS.some((keyword) => titleText.includes(keyword));
 
   if (isHighlighted) {
     card.classList.add('document-card--highlight');
@@ -510,7 +507,6 @@ function createEventCard(event) {
 
   const title = document.createElement('h2');
   title.className = 'document-card__title';
-  const titleText = event.title?.trim() || '未命名活動';
 
   if (event.detailUrl) {
     const link = document.createElement('a');
@@ -530,7 +526,9 @@ function createEventCard(event) {
     createMetaItem('活動地點', createLocationContent(event)),
   ];
 
-  if (event.downloads?.length) {
+  const hasValidDownloads = (event.downloads ?? []).some((download) => Boolean(download?.url));
+
+  if (hasValidDownloads) {
     metaItems.push(createMetaItem('檔案下載', createDownloadButtons(event)));
   }
 

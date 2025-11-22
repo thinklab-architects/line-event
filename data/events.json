@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-22T09:03:40.977005+00:00",
+  "scrapedAt": "2025-11-22T09:06:10.314368+00:00",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -105,7 +105,7 @@
       "register": "歡迎直接到場聆聽",
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": null,
       "downloads": []
     },
@@ -186,7 +186,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。",
       "downloads": []
     },
@@ -205,7 +205,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。",
       "downloads": []
     },
@@ -224,7 +224,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。",
       "downloads": []
     },
@@ -325,7 +325,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "1.登記索票時間：自114年10月13日上午9時至114年10月21日下午5時止（索完為止）。\n2.放映時間：114年11月29日(六)  第一場次13:00(預定)    第二場次15:30(預定)。",
       "downloads": [
         {
@@ -349,7 +349,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "1.登記索票時間：自114年10月13日上午9時至114年10月21日下午5時止（索完為止）。\n2.放映時間：114年11月29日(六)  第一場次13:00(預定)    第二場次15:30(預定)。",
       "downloads": [
         {
@@ -373,7 +373,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": null,
       "downloads": []
     },
@@ -392,7 +392,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": null,
       "downloads": []
     },
@@ -411,7 +411,7 @@
       "register": "報名",
       "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7065&t=active",
       "extras": [],
-      "category": "meeting",
+      "category": "workshop",
       "remarks": null,
       "downloads": [
         {
@@ -435,7 +435,7 @@
       "register": "報名",
       "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7064&t=active",
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": null,
       "downloads": [
         {
@@ -459,7 +459,7 @@
       "register": "114年11月25日上午9時正，開放線上第二次索票",
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "1.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。\n2.若有賸餘電影票，將於114年11月25日上午9時正，再次開放會員線上第二次索票，每位會員限同第一次索票場次，最多可再索票2張(索完為止）。",
       "downloads": []
     },
@@ -478,7 +478,7 @@
       "register": "114年11月25日上午9時正，開放線上第二次索票",
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "movie",
       "remarks": "1.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。\n2.若有賸餘電影票，將於114年11月25日上午9時正，再次開放會員線上第二次索票，每位會員限同第一次索票場次，最多可再索票2張(索完為止）。",
       "downloads": []
     },
@@ -497,7 +497,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": "1、人數限制60名，已擔任建照委審會員為優先(名額：55名)由本會統一造冊，免報名；餘有興趣之會員請向本會鳳珠或冠伃報名(名額：5名，依報名先後，額滿截止)。 2、本講座正向內政部營建署申請列入建築師開業證書換證積分中，本會會員參加本次講座之積分，尚須經內政部認可後方得累計換證積分。(提醒：有意願參與建照委審業務的建築師，需至少參加過一場教育訓練課程。)",
       "downloads": [
         {
@@ -540,7 +540,7 @@
       "register": "報名截止",
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": null,
       "downloads": [
         {
@@ -726,7 +726,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": null,
       "downloads": [
         {
@@ -796,7 +796,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": "本場報名人數上限為60人。 上課地點為「公會 大會議室」。",
       "downloads": [
         {
@@ -880,7 +880,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": null,
       "downloads": [
         {
@@ -988,7 +988,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": "本場報名人數上限為60人。上課地點為「高雄市政府 8樓-第五會議室」。",
       "downloads": [
         {
@@ -1012,7 +1012,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other",
+      "category": "workshop",
       "remarks": "本場講習無積分。",
       "downloads": []
     },

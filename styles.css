@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
 
 :root {
   color-scheme: light;
@@ -135,7 +135,7 @@ a:focus-visible {
 
 .hero__lede {
   display: grid;
-  gap: 0.85rem;
+  gap: 0;
 }
 
 .hero__eyebrow {
@@ -144,6 +144,9 @@ a:focus-visible {
   text-transform: uppercase;
   font-size: 0.78rem;
   color: var(--ink-soft);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
 }
 
 .hero__eyebrow-abbr {
@@ -157,20 +160,35 @@ a:focus-visible {
   font-size: clamp(2.6rem, 6vw, 4.4rem);
   font-weight: 800;
   letter-spacing: -0.01em;
+  font-family: 'Space Grotesk', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  line-height: 1.2;
 }
 
 .hero__title-wrap {
   display: flex;
   flex-direction: column;
-  gap: 0; /* remove gap between title and subtitle */
+  gap: 0;
+  margin-top: -0.25rem;
 }
 
 .hero__subtitle {
   margin: 0;
   font-size: 1.15rem;
   font-weight: 700;
-  color: var(--ink-muted);
-  letter-spacing: -0.005em;
+  line-height: 1.2;
+  letter-spacing: 0.12em;
+  color: var(--ink-soft);
+}
+
+.hero__subtitle a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.hero__subtitle a:hover,
+.hero__subtitle a:focus-visible {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 .hero__description {

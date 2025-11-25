@@ -155,10 +155,31 @@ a:focus-visible {
   margin-right: 0.35rem;
 }
 
-.hero__logo {
-  height: 24px;
+.brand-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid var(--glass-border);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+}
+
+.brand-pill--footer {
+  padding: 0.25rem 0.65rem;
+  box-shadow: none;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.brand-pill__logo {
+  height: 22px;
   width: auto;
   display: inline-block;
+}
+
+.brand-pill__logo--footer {
+  height: 18px;
 }
 
 .hero__title {
@@ -195,12 +216,6 @@ a:focus-visible {
 .hero__subtitle a:focus-visible {
   text-decoration: underline;
   text-decoration-thickness: 2px;
-}
-
-.footer-logo {
-  height: 20px;
-  width: auto;
-  vertical-align: middle;
 }
 
 .hero__description {

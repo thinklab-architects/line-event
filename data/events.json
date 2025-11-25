@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-25T16:05:09.619605+00:00",
+  "scrapedAt": "2025-11-25T16:51:52.297331+00:00",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -241,7 +241,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -389,7 +389,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7065",
-      "register": "報名",
+      "register": "線上報名",
       "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7065&t=active",
       "extras": [],
       "category": "workshop",
@@ -1055,9 +1055,7 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": []
+      "category": "workshop"
     }
   ]
 }

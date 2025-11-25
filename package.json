@@ -1,0 +1,11 @@
+{
+  "name": "line-event",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetchEvents.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

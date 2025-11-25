@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-25T15:04:18.711862+00:00",
+  "scrapedAt": "2025-11-25T16:05:09.619605+00:00",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -413,8 +413,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7064",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7064&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "workshop",
       "remarks": null,
@@ -456,8 +456,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7097",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7097&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie",
       "remarks": "放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。",

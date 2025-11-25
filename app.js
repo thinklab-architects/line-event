@@ -603,14 +603,24 @@ function render() {
 function formatUpdatedAt(iso) {
   if (!iso) return '資料更新時間待同步';
 
-  const formatter = new Intl.DateTimeFormat('zh-TW', {
-    dateStyle: 'medium',
-    timeStyle: 'short',
-    timeZone: 'Asia/Taipei',
-  });
-
   try {
-    return `資料更新時間：${formatter.format(new Date(iso))}`;
+    const utcDate = new Date(iso);
+    const taipeiString = utcDate.toLocaleString('en-US', { timeZone: 'Asia/Taipei' });
+    const taipeiDate = new Date(taipeiString);
+
+    const dateFormatter = new Intl.DateTimeFormat('zh-TW', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      timeZone: 'Asia/Taipei',
+    });
+
+    const hours = taipeiDate.getHours();
+    const minutes = taipeiDate.getMinutes().toString().padStart(2, '0');
+    const period = hours >= 18 ? '晚上' : hours >= 12 ? '下午' : '上午';
+    const hour12 = hours % 12 || 12;
+
+    return `資料更新時間：${dateFormatter.format(taipeiDate)} ${period}${hour12}:${minutes}`;
   } catch (error) {
     console.warn('Unable to format updated time', error);
     return `資料更新時間：${iso}`;
@@ -619,7 +629,8 @@ function formatUpdatedAt(iso) {
 
 async function loadEvents() {
   try {
-    const response = await fetch(EVENTS_URL, { cache: 'no-cache' });
+    const url = `${EVENTS_URL}?v=${Date.now()}`;
+    const response = await fetch(url, { cache: 'no-store' });
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }

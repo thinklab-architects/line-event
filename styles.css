@@ -159,23 +159,22 @@ a:focus-visible {
   display: inline-flex;
   align-items: center;
   gap: 0.45rem;
-  padding: 0.35rem 0.8rem;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid var(--glass-border);
-  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
 }
 
 .brand-pill--footer {
-  padding: 0.25rem 0.65rem;
-  box-shadow: none;
-  background: rgba(255, 255, 255, 0.85);
+  padding: 0;
 }
 
 .brand-pill__logo {
   height: 22px;
   width: auto;
   display: inline-block;
+  vertical-align: middle;
 }
 
 .brand-pill__logo--footer {

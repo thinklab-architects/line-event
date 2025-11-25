@@ -155,6 +155,12 @@ a:focus-visible {
   margin-right: 0.35rem;
 }
 
+.hero__logo {
+  height: 24px;
+  width: auto;
+  display: inline-block;
+}
+
 .hero__title {
   margin: 0;
   font-size: clamp(2.6rem, 6vw, 4.4rem);
@@ -189,6 +195,12 @@ a:focus-visible {
 .hero__subtitle a:focus-visible {
   text-decoration: underline;
   text-decoration-thickness: 2px;
+}
+
+.footer-logo {
+  height: 20px;
+  width: auto;
+  vertical-align: middle;
 }
 
 .hero__description {

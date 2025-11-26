@@ -325,7 +325,7 @@ async function writePayload(events) {
   return outPath;
 }
 
-async function main() {
+export async function main() {
   try {
     const events = await collectEvents();
     const outPath = await writePayload(events);
@@ -336,6 +336,6 @@ async function main() {
   }
 }
 
-if (import.meta.url === `file://${__filename}`) {
+if (process.argv[1] && process.argv[1].endsWith('fetchEvents.js')) {
   main();
 }

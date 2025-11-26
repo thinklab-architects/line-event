@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-26T07:03:34.819Z",
+  "scrapedAt": "2025-11-26T07:21:54.179Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -253,7 +253,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -304,11 +304,35 @@
       "downloads": []
     },
     {
+      "title": "「都市設計審議規範相關修正及簡化程序說明」講習會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7065&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-11-27"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7065",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7065&t=active",
+      "extras": [],
+      "category": "workshop",
+      "remarks": null,
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7065/f14b92676d7b6d10b742b31a3ade6f08"
+        }
+      ]
+    },
+    {
       "title": "(第二場次15:30)電影欣賞活動--魔法壞女巫２",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7037&t1=1",
       "location": "高雄大遠百威秀影城",
       "dates": [
-        "2025-11-29"
+        "2025-11-25"
       ],
       "timeInfo": [
         "下午12:00~16:00"
@@ -332,7 +356,7 @@
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7055&t1=1",
       "location": "高雄大遠百威秀影城",
       "dates": [
-        "2025-11-29"
+        "2025-11-25"
       ],
       "timeInfo": [
         "下午12:00~16:00"
@@ -348,70 +372,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7055/f73b4ed08bdf98f9f6c08458c425fc86"
-        }
-      ]
-    },
-    {
-      "title": "(第二場次第二次索)電影欣賞活動--魔法壞女巫２",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7071&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2025-11-29"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7071",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "(第一場次第二次索票)電影欣賞活動--魔法壞女巫２",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7072&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2025-11-29"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7072",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "「都市設計審議規範相關修正及簡化程序說明」講習會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7065&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-27"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7065",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7065&t=active",
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7065/f14b92676d7b6d10b742b31a3ade6f08"
         }
       ]
     },
@@ -438,6 +398,46 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7064/86297d72928ecc5c4ff1f9eb64491f54"
         }
       ]
+    },
+    {
+      "title": "(第二場次第二次索)電影欣賞活動--魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7071&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7071",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": null,
+      "downloads": []
+    },
+    {
+      "title": "(第一場次第二次索票)電影欣賞活動--魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7072&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7072",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": null,
+      "downloads": []
     },
     {
       "title": "(已額滿)(第一場次第二次索票)電影欣賞活動--阿凡達-火與燼",

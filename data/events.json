@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-03T06:04:41.417Z",
+  "scrapedAt": "2025-12-03T07:04:30.026Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -253,7 +253,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -436,30 +436,6 @@
       "downloads": []
     },
     {
-      "title": "建照委審「審驗人員教育訓練講座」暨檢討座談會 (第三場)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7035&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-20"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7035",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "1、人數限制60名，已擔任建照委審會員為優先(名額：55名)由本會統一造冊，免報名；餘有興趣之會員請向本會鳳珠或冠伃報名(名額：5名，依報名先後，額滿截止)。 2、本講座正向內政部營建署申請列入建築師開業證書換證積分中，本會會員參加本次講座之積分，尚須經內政部認可後方得累計換證積分。(提醒：有意願參與建照委審業務的建築師，需至少參加過一場教育訓練課程。)",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7035/b5bf49e56721b9a678b43d33cf6eb392"
-        }
-      ]
-    },
-    {
       "title": "(大會議室)單項健身社團活動-樂活社",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7051&t1=1",
       "location": "本會會議室",
@@ -477,30 +453,6 @@
       "category": "meeting",
       "remarks": null,
       "downloads": []
-    },
-    {
-      "title": "「建築物同層排水工法及排水通氣技術」講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7039&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-11"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7039",
-      "register": "報名截止",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7039/ae6939cd79a9ea9d8ee46340e3c659a4"
-        }
-      ]
     },
     {
       "title": "國內旅遊C--雲霧繚繞上帝的部落~司馬庫斯二日遊(第二梯次)",
@@ -1033,6 +985,47 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "「2025高雄市無障礙環境規劃及勘檢實務講習」(一)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7008&t1=1",
+      "location": "國立科學工藝博物館-南館「S105階梯教室」",
+      "dates": [
+        "2025-09-09"
+      ],
+      "timeInfo": [
+        "14:30~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7008",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop",
+      "remarks": "本場報名人數上限為100人。 上點地點為「國立科學工藝博物館-南館 S105階梯教室」。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7008/a39ec5eccbe93e6b8e7629f8c1df4aa4"
+        }
+      ]
+    },
+    {
+      "title": "公會中元普渡",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7028&t1=1",
+      "location": "本會會所門前",
+      "dates": [
+        "2025-09-08"
+      ],
+      "timeInfo": [
+        "下午2:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7028",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     }
   ]
 }

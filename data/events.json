@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-03T05:03:34.496Z",
+  "scrapedAt": "2025-12-03T06:04:41.417Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -253,7 +253,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -302,30 +302,6 @@
       "category": "other",
       "remarks": "報名google 表單:https://docs.google.com/forms/d/e/1FAIpQLScM42Z9jB_Gr0SEjwxVZoMvRsqE3M8hp-kaY1lAdJggr-_2xQ/viewform?usp=sharing&ouid=111424216548369083791",
       "downloads": []
-    },
-    {
-      "title": "「都市設計審議規範相關修正及簡化程序說明」講習會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7065&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-27"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7065",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7065/f14b92676d7b6d10b742b31a3ade6f08"
-        }
-      ]
     },
     {
       "title": "(第二場次15:30)電影欣賞活動--魔法壞女巫２",
@@ -1040,6 +1016,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "(大會議室)資深會員座談",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6995&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-09-11"
+      ],
+      "timeInfo": [
+        "下午3:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6995",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     }
   ]
 }

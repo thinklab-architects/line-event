@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-04T08:04:49.440Z",
+  "scrapedAt": "2025-12-04T09:04:52.292Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -253,7 +253,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

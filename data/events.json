@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-05T07:04:09.051Z",
+  "scrapedAt": "2025-12-05T08:04:34.795Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -37,6 +37,23 @@
       "category": "meeting",
       "remarks": null,
       "downloads": []
+    },
+    {
+      "title": "預訂學術委員會課程",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7109&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-01-21"
+      ],
+      "timeInfo": [
+        "下午2：00-5：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7109",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "115年度國外旅遊-古文明埃及10日",
@@ -253,7 +270,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -1009,23 +1026,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7008/a39ec5eccbe93e6b8e7629f8c1df4aa4"
         }
       ]
-    },
-    {
-      "title": "公會中元普渡",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7028&t1=1",
-      "location": "本會會所門前",
-      "dates": [
-        "2025-09-08"
-      ],
-      "timeInfo": [
-        "下午2:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7028",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

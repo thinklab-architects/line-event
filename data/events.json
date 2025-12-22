@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-22T10:04:14.909Z",
+  "scrapedAt": "2025-12-22T11:03:19.612Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -16,6 +16,52 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-15"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7117",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7117/bcf52d0729a5ce186643abfebc627ee3"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7116&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-14"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7116",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
+        }
+      ]
     },
     {
       "title": "第17屆公共事務委員會第12次會議",
@@ -71,6 +117,29 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7062/1621c167b053ac4aace09506c2f1fa39"
+        }
+      ]
+    },
+    {
+      "title": "「探訪台南落雨松秘境」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7115&t1=1",
+      "location": "台南",
+      "dates": [
+        "2026-01-17"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7115",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7115/06f8b09f799224a5ab6953b9bbb8dc73"
         }
       ]
     },
@@ -269,7 +338,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -944,59 +1013,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
         }
       ]
-    },
-    {
-      "title": "學術委員會「2025高雄製造」競圖初選會議(大會議室)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6986&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-09-13"
-      ],
-      "timeInfo": [
-        "上午9:00~12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6986",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "淨零轉型下的建築碳管理講習「PAS 2080 國際標準與建築產業減碳實務應用」(本會協辦活動)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7033&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-09-12"
-      ],
-      "timeInfo": [
-        "上午10：00-12：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7033",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
-      "title": "(大會議室)資深會員座談",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6995&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2025-09-11"
-      ],
-      "timeInfo": [
-        "下午3:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6995",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

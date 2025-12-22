@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-22T11:03:19.612Z",
+  "scrapedAt": "2025-12-22T12:05:04.263Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -79,6 +79,30 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "電影欣賞會活動-”南方時光”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7118&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-02-07"
+      ],
+      "timeInfo": [
+        "下午15:30(預定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
+      "register": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
+        }
+      ]
     },
     {
       "title": "預訂學術委員會課程",
@@ -212,6 +236,29 @@
       "category": "meeting"
     },
     {
+      "title": "(第三梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7120&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2026-01-03"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7120",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7120/dd74560927fb016edaefca4caf237fba"
+        }
+      ]
+    },
+    {
       "title": "埃及10日遊行前說明會",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7114&t1=1",
       "location": "本會會議室",
@@ -229,11 +276,34 @@
       "category": "outing"
     },
     {
-      "title": "特富野部落.里加部落ㄧ日遊",
+      "title": "(第二梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7119&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2025-12-28"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7119",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7119/35b6bf5c9a23d7dba0dc38d219ed6039"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)特富野部落.里加部落ㄧ日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7026&t1=1",
       "location": "特富野部落.里加部落",
       "dates": [
-        "2025-12-272025-12-282026-01-03"
+        "2025-12-27"
       ],
       "timeInfo": [
         "全天"
@@ -338,7 +408,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -944,73 +1014,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/6932/86436769d59204eaec76e77745f476ab"
-        }
-      ]
-    },
-    {
-      "title": "「2025高雄市無障礙環境規劃及勘檢實務講習」(二)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7009&t1=1",
-      "location": "高雄市政府8樓-第五會議室",
-      "dates": [
-        "2025-09-23"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7009",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場報名人數上限為60人。上課地點為「高雄市政府 8樓-第五會議室」。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7009/da462b42bc47350f171c7ddc716409ac"
-        }
-      ]
-    },
-    {
-      "title": "「CLT集成木實績案例分享」法規講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7042&t1=1",
-      "location": "本會(大)會議室",
-      "dates": [
-        "2025-09-18"
-      ],
-      "timeInfo": [
-        "下午2:30~5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7042",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場講習無積分。",
-      "downloads": []
-    },
-    {
-      "title": "114年度高雄市災害後危險建築物緊急評估作業動員演練及組訓",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6996&t1=1",
-      "location": "高雄市政府消防局 8樓國際會議廳 （高雄市前鎮區凱旋四路119號8樓）",
-      "dates": [
-        "2025-09-16"
-      ],
-      "timeInfo": [
-        "13:30~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6996",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
         }
       ]
     }

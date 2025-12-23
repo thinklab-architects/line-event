@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-23T02:37:02.589Z",
+  "scrapedAt": "2025-12-23T03:30:57.360Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -92,7 +92,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
-      "register": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "movie",
@@ -276,6 +276,23 @@
       "category": "outing"
     },
     {
+      "title": "學術競圖作品集電子校稿作業",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7121&t1=1",
+      "location": "本會小會議室(需電視牆)",
+      "dates": [
+        "2025-12-29"
+      ],
+      "timeInfo": [
+        "下午2：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7121",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
       "title": "(第二梯次)特富野部落.里加部落ㄧ日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7119&t1=1",
       "location": "特富野部落.里加部落",
@@ -408,7 +425,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -990,30 +1007,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7004/69b2780aff5936722c1e63d26acca9bf"
-        }
-      ]
-    },
-    {
-      "title": "雲林草嶺避暑森呼吸一日(第一梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6932&t1=1",
-      "location": "雲林草嶺",
-      "dates": [
-        "2025-09-27"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6932",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6932/86436769d59204eaec76e77745f476ab"
         }
       ]
     }

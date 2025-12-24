@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-24T01:31:32.041Z",
+  "scrapedAt": "2025-12-24T02:35:08.286Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -92,7 +92,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
-      "register": null,
+      "register": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
       "registerUrl": null,
       "extras": [],
       "category": "movie",
@@ -425,7 +425,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

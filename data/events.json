@@ -1,24 +1,7 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-29T08:04:55.900Z",
+  "scrapedAt": "2025-12-29T09:06:18.039Z",
   "events": [
-    {
-      "title": "第17屆學術委員會第16次會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7085&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2026-09-11"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7085",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "remarks": null,
-      "downloads": []
-    },
     {
       "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
@@ -64,25 +47,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
         }
       ]
-    },
-    {
-      "title": "第17屆公共事務委員會第12次會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6848&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-03-11"
-      ],
-      "timeInfo": [
-        "下午3:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6848",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "remarks": null,
-      "downloads": []
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -231,25 +195,6 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7082",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "第17屆公共事務委員會第11次會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6847&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-01-07"
-      ],
-      "timeInfo": [
-        "下午3:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6847",
       "register": null,
       "registerUrl": null,
       "extras": [],
@@ -453,7 +398,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -737,25 +682,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "第17屆公共事務委員會第5次臨時會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7057&t1=1",
-      "location": "本會(大)會議室",
-      "dates": [
-        "2025-10-23"
-      ],
-      "timeInfo": [
-        "下午3:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7057",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
       "remarks": null,
       "downloads": []
     },
@@ -1051,6 +977,94 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7004/69b2780aff5936722c1e63d26acca9bf"
+        }
+      ]
+    },
+    {
+      "title": "雲林草嶺避暑森呼吸一日(第一梯次)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6932&t1=1",
+      "location": "雲林草嶺",
+      "dates": [
+        "2025-09-27"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6932",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/6932/86436769d59204eaec76e77745f476ab"
+        }
+      ]
+    },
+    {
+      "title": "「2025高雄市無障礙環境規劃及勘檢實務講習」(二)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7009&t1=1",
+      "location": "高雄市政府8樓-第五會議室",
+      "dates": [
+        "2025-09-23"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7009",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop",
+      "remarks": "本場報名人數上限為60人。上課地點為「高雄市政府 8樓-第五會議室」。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7009/da462b42bc47350f171c7ddc716409ac"
+        }
+      ]
+    },
+    {
+      "title": "「CLT集成木實績案例分享」法規講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7042&t1=1",
+      "location": "本會(大)會議室",
+      "dates": [
+        "2025-09-18"
+      ],
+      "timeInfo": [
+        "下午2:30~5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7042",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop",
+      "remarks": "本場講習無積分。"
+    },
+    {
+      "title": "114年度高雄市災害後危險建築物緊急評估作業動員演練及組訓",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6996&t1=1",
+      "location": "高雄市政府消防局 8樓國際會議廳 （高雄市前鎮區凱旋四路119號8樓）",
+      "dates": [
+        "2025-09-16"
+      ],
+      "timeInfo": [
+        "13:30~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6996",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
         }
       ]
     }

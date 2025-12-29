@@ -401,13 +401,13 @@ button:focus-visible {
 }
 
 .document-card--movie {
-  border: 2px solid rgba(248, 113, 113, 0.45);
-  box-shadow: 0 20px 50px rgba(248, 113, 113, 0.12);
+  border: 2px solid rgba(249, 115, 22, 0.45);
+  box-shadow: 0 20px 50px rgba(249, 115, 22, 0.12);
 }
 
 .highlight-tag--movie {
-  background: rgba(248, 113, 113, 0.14);
-  color: #7f1d1d;
+  background: rgba(249, 115, 22, 0.14);
+  color: #c2410c;
 }
 
 .document-card__header {

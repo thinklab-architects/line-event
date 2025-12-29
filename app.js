@@ -357,7 +357,12 @@ function createDateBlock(event) {
 
     const endSpan = document.createElement('span');
     endSpan.className = 'date-pill';
-    endSpan.textContent = formatDateForDisplay(event.endDate);
+
+    let endText = formatDateForDisplay(event.endDate);
+    if (event.startDate.getFullYear() === event.endDate.getFullYear()) {
+      endText = endText.substring(5);
+    }
+    endSpan.textContent = endText;
 
     dateList.append(startSpan, endSpan);
   } else if (hasDates) {

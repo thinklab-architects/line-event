@@ -121,7 +121,9 @@ function parseEvents(html) {
       const detailUrl = absoluteUrl(titleLink.attr('href'));
 
       const location = cleanText($(cells[1]).text()) || null;
-      const dates = cleanText($(cells[2]).text())
+      const dateCell = $(cells[2]);
+      dateCell.find('br').replaceWith('\n');
+      const dates = cleanText(dateCell.text())
         .split(/\s+/)
         .map((value) => value.trim())
         .filter(Boolean);

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-11-26T07:21:54.179Z",
+  "scrapedAt": "2025-12-29T04:12:32.043Z",
   "events": [
     {
       "title": "第17屆學術委員會第16次會議",
@@ -18,6 +18,52 @@
       "category": "meeting",
       "remarks": null,
       "downloads": []
+    },
+    {
+      "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-15"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7117",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7117/bcf52d0729a5ce186643abfebc627ee3"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7116&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-14"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7116",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
+        }
+      ]
     },
     {
       "title": "第17屆公共事務委員會第12次會議",
@@ -39,11 +85,61 @@
       "downloads": []
     },
     {
+      "title": "電影欣賞會活動-”南方時光”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7118&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-02-07"
+      ],
+      "timeInfo": [
+        "下午15:30(預定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7118&t=active",
+      "extras": [],
+      "category": "movie",
+      "remarks": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
+        }
+      ]
+    },
+    {
+      "title": "預訂學術委員會課程",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7109&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-01-21"
+      ],
+      "timeInfo": [
+        "下午2：00-5：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7109",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "115年度國外旅遊-古文明埃及10日",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7062&t1=1",
       "location": "埃及",
       "dates": [
-        "2026-01-182026-01-192026-01-202026-01-212026-01-222026-01-232026-01-242026-01-252026-01-262026-01-27"
+        "2026-01-18",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-25",
+        "2026-01-26",
+        "2026-01-27"
       ],
       "timeInfo": [
         "全天"
@@ -59,6 +155,29 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7062/1621c167b053ac4aace09506c2f1fa39"
+        }
+      ]
+    },
+    {
+      "title": "「探訪台南落雨松秘境」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7115&t1=1",
+      "location": "台南",
+      "dates": [
+        "2026-01-17"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7115",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7115/06f8b09f799224a5ab6953b9bbb8dc73"
         }
       ]
     },
@@ -139,7 +258,87 @@
       "downloads": []
     },
     {
-      "title": "特富野部落.里加部落ㄧ日遊",
+      "title": "(第三梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7120&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2026-01-03"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7120",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7120/dd74560927fb016edaefca4caf237fba"
+        }
+      ]
+    },
+    {
+      "title": "埃及10日遊行前說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7114&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-12-31"
+      ],
+      "timeInfo": [
+        "下午14:00-16：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7114",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    },
+    {
+      "title": "學術競圖作品集電子校稿作業",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7121&t1=1",
+      "location": "本會小會議室(需電視牆)",
+      "dates": [
+        "2025-12-29"
+      ],
+      "timeInfo": [
+        "下午2：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7121",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "(第二梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7119&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2025-12-28"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7119",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7119/35b6bf5c9a23d7dba0dc38d219ed6039"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)特富野部落.里加部落ㄧ日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7026&t1=1",
       "location": "特富野部落.里加部落",
       "dates": [
@@ -215,8 +414,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7097",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7097&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie",
       "remarks": "放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。",
@@ -230,7 +429,7 @@
         "2025-12-17"
       ],
       "timeInfo": [
-        "下午4點整-晚上10點整"
+        "下午6點整-晚上10點整"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7059",
@@ -246,14 +445,15 @@
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7045&t1=1",
       "location": "台北",
       "dates": [
-        "2025-12-122025-12-13"
+        "2025-12-12",
+        "2025-12-13"
       ],
       "timeInfo": [
         "全天"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -302,30 +502,6 @@
       "category": "other",
       "remarks": "報名google 表單:https://docs.google.com/forms/d/e/1FAIpQLScM42Z9jB_Gr0SEjwxVZoMvRsqE3M8hp-kaY1lAdJggr-_2xQ/viewform?usp=sharing&ouid=111424216548369083791",
       "downloads": []
-    },
-    {
-      "title": "「都市設計審議規範相關修正及簡化程序說明」講習會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7065&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-27"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7065",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7065&t=active",
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7065/f14b92676d7b6d10b742b31a3ade6f08"
-        }
-      ]
     },
     {
       "title": "(第二場次15:30)電影欣賞活動--魔法壞女巫２",
@@ -460,30 +636,6 @@
       "downloads": []
     },
     {
-      "title": "建照委審「審驗人員教育訓練講座」暨檢討座談會 (第三場)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7035&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-20"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7035",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "1、人數限制60名，已擔任建照委審會員為優先(名額：55名)由本會統一造冊，免報名；餘有興趣之會員請向本會鳳珠或冠伃報名(名額：5名，依報名先後，額滿截止)。 2、本講座正向內政部營建署申請列入建築師開業證書換證積分中，本會會員參加本次講座之積分，尚須經內政部認可後方得累計換證積分。(提醒：有意願參與建照委審業務的建築師，需至少參加過一場教育訓練課程。)",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7035/b5bf49e56721b9a678b43d33cf6eb392"
-        }
-      ]
-    },
-    {
       "title": "(大會議室)單項健身社團活動-樂活社",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7051&t1=1",
       "location": "本會會議室",
@@ -503,35 +655,12 @@
       "downloads": []
     },
     {
-      "title": "「建築物同層排水工法及排水通氣技術」講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7039&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-11"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7039",
-      "register": "報名截止",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7039/ae6939cd79a9ea9d8ee46340e3c659a4"
-        }
-      ]
-    },
-    {
       "title": "國內旅遊C--雲霧繚繞上帝的部落~司馬庫斯二日遊(第二梯次)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7023&t1=1",
       "location": "司馬庫斯",
       "dates": [
-        "2025-11-082025-11-09"
+        "2025-11-08",
+        "2025-11-09"
       ],
       "timeInfo": [
         "詳報名簡章"
@@ -555,7 +684,8 @@
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7022&t1=1",
       "location": "司馬庫斯",
       "dates": [
-        "2025-11-012025-11-02"
+        "2025-11-01",
+        "2025-11-02"
       ],
       "timeInfo": [
         "詳報名簡章"
@@ -715,7 +845,17 @@
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7054&t1=1",
       "location": "西班牙",
       "dates": [
-        "2025-10-162025-10-172025-10-182025-10-192025-10-202025-10-212025-10-222025-10-232025-10-242025-10-252025-10-26"
+        "2025-10-16",
+        "2025-10-17",
+        "2025-10-18",
+        "2025-10-19",
+        "2025-10-20",
+        "2025-10-21",
+        "2025-10-22",
+        "2025-10-23",
+        "2025-10-24",
+        "2025-10-25",
+        "2025-10-26"
       ],
       "timeInfo": [
         "全天"
@@ -913,133 +1053,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7004/69b2780aff5936722c1e63d26acca9bf"
         }
       ]
-    },
-    {
-      "title": "雲林草嶺避暑森呼吸一日(第一梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6932&t1=1",
-      "location": "雲林草嶺",
-      "dates": [
-        "2025-09-27"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6932",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6932/86436769d59204eaec76e77745f476ab"
-        }
-      ]
-    },
-    {
-      "title": "「2025高雄市無障礙環境規劃及勘檢實務講習」(二)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7009&t1=1",
-      "location": "高雄市政府8樓-第五會議室",
-      "dates": [
-        "2025-09-23"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7009",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場報名人數上限為60人。上課地點為「高雄市政府 8樓-第五會議室」。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7009/da462b42bc47350f171c7ddc716409ac"
-        }
-      ]
-    },
-    {
-      "title": "「CLT集成木實績案例分享」法規講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7042&t1=1",
-      "location": "本會(大)會議室",
-      "dates": [
-        "2025-09-18"
-      ],
-      "timeInfo": [
-        "下午2:30~5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7042",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場講習無積分。",
-      "downloads": []
-    },
-    {
-      "title": "114年度高雄市災害後危險建築物緊急評估作業動員演練及組訓",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6996&t1=1",
-      "location": "高雄市政府消防局 8樓國際會議廳 （高雄市前鎮區凱旋四路119號8樓）",
-      "dates": [
-        "2025-09-16"
-      ],
-      "timeInfo": [
-        "13:30~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6996",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
-        }
-      ]
-    },
-    {
-      "title": "學術委員會「2025高雄製造」競圖初選會議(大會議室)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6986&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-09-13"
-      ],
-      "timeInfo": [
-        "上午9:00~12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6986",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "淨零轉型下的建築碳管理講習「PAS 2080 國際標準與建築產業減碳實務應用」(本會協辦活動)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7033&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-09-12"
-      ],
-      "timeInfo": [
-        "上午10：00-12：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7033",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     }
   ]
 }

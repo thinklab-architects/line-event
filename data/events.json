@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2025-12-30T09:05:47.125Z",
+  "scrapedAt": "2025-12-30T10:03:26.161Z",
   "events": [
     {
       "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
@@ -144,6 +144,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7115/06f8b09f799224a5ab6953b9bbb8dc73"
         }
       ]
+    },
+    {
+      "title": "(暫訂)「老宅延壽機能復新計畫」說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7130&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-01-15"
+      ],
+      "timeInfo": [
+        "下午2:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7130",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "南部五縣市理監事聯誼會議",
@@ -398,7 +415,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -1044,29 +1061,6 @@
       "extras": [],
       "category": "workshop",
       "remarks": "本場講習無積分。"
-    },
-    {
-      "title": "114年度高雄市災害後危險建築物緊急評估作業動員演練及組訓",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6996&t1=1",
-      "location": "高雄市政府消防局 8樓國際會議廳 （高雄市前鎮區凱旋四路119號8樓）",
-      "dates": [
-        "2025-09-16"
-      ],
-      "timeInfo": [
-        "13:30~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6996",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-02T02:39:11.321Z",
+  "scrapedAt": "2026-01-02T03:32:17.194Z",
   "events": [
     {
       "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
@@ -71,23 +71,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
         }
       ]
-    },
-    {
-      "title": "預訂學術委員會課程",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7109&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-01-21"
-      ],
-      "timeInfo": [
-        "下午2：00-5：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7109",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     },
     {
       "title": "115年度國外旅遊-古文明埃及10日",
@@ -398,7 +381,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -1067,6 +1050,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
         }
       ]
+    },
+    {
+      "title": "學術委員會「2025高雄製造」競圖初選會議(大會議室)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6986&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-09-13"
+      ],
+      "timeInfo": [
+        "上午9:00~12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6986",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     }
   ]
 }

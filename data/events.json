@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-06T03:31:33.379Z",
+  "scrapedAt": "2026-01-06T04:16:52.300Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -10,7 +10,7 @@
         "2026-10-31"
       ],
       "timeInfo": [
-        "9:30-12:30"
+        "上午9:30-12:00"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7140",
@@ -27,7 +27,7 @@
         "2026-10-30"
       ],
       "timeInfo": [
-        "14:00-16:30"
+        "下午2:00-4:30"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7139",
@@ -44,7 +44,7 @@
         "2026-09-12"
       ],
       "timeInfo": [
-        "9:30-12:30"
+        "上午9:30-12:00"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7138",
@@ -61,7 +61,7 @@
         "2026-09-11"
       ],
       "timeInfo": [
-        "14:00-16:30"
+        "下午2:00-4:30"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7137",
@@ -78,7 +78,7 @@
         "2026-06-13"
       ],
       "timeInfo": [
-        "9:30-12:30"
+        "上午9:30-12:00"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
@@ -95,7 +95,7 @@
         "2026-06-12"
       ],
       "timeInfo": [
-        "14:00-16:30"
+        "下午2:00-4:30"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
@@ -112,7 +112,7 @@
         "2026-03-21"
       ],
       "timeInfo": [
-        "10:00-12:30"
+        "上午10:00-12:30"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7134",
@@ -129,7 +129,7 @@
         "2026-03-20"
       ],
       "timeInfo": [
-        "14:00-16:30"
+        "下午2:00-4:30"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7133",
@@ -517,7 +517,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

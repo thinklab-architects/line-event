@@ -1,7 +1,143 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-06T02:38:53.013Z",
+  "scrapedAt": "2026-01-06T03:31:33.379Z",
   "events": [
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7140&t1=1",
+      "location": "高雄市立圖書館 小港分館",
+      "dates": [
+        "2026-10-31"
+      ],
+      "timeInfo": [
+        "9:30-12:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7140",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7139&t1=1",
+      "location": "高雄市立圖書館 小港分館",
+      "dates": [
+        "2026-10-30"
+      ],
+      "timeInfo": [
+        "14:00-16:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7139",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7138&t1=1",
+      "location": "高雄市立圖書館 楠仔坑分館",
+      "dates": [
+        "2026-09-12"
+      ],
+      "timeInfo": [
+        "9:30-12:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7138",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7137&t1=1",
+      "location": "高雄市立圖書館 楠仔坑分館",
+      "dates": [
+        "2026-09-11"
+      ],
+      "timeInfo": [
+        "14:00-16:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7137",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-13"
+      ],
+      "timeInfo": [
+        "9:30-12:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-12"
+      ],
+      "timeInfo": [
+        "14:00-16:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(美濃菸仕物所)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7134&t1=1",
+      "location": "美濃菸仕物所",
+      "dates": [
+        "2026-03-21"
+      ],
+      "timeInfo": [
+        "10:00-12:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7134",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(美濃菸仕物所)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7133&t1=1",
+      "location": "美濃菸仕物所",
+      "dates": [
+        "2026-03-20"
+      ],
+      "timeInfo": [
+        "14:00-16:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7133",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
     {
       "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
@@ -381,7 +517,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -902,171 +1038,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7000/9f81cbc6810bad69d0b0c78444164b3c"
         }
       ]
-    },
-    {
-      "title": "115年度會員輪值服務工作報名活動(截止日:114/9/30)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7034&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2025-09-30"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7034",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "教師節補假一日",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7030&t1=1",
-      "location": null,
-      "dates": [
-        "2025-09-29"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7030",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "雲林草嶺避暑森呼吸一日(第二梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7004&t1=1",
-      "location": "雲林草嶺",
-      "dates": [
-        "2025-09-28"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7004",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7004/69b2780aff5936722c1e63d26acca9bf"
-        }
-      ]
-    },
-    {
-      "title": "雲林草嶺避暑森呼吸一日(第一梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6932&t1=1",
-      "location": "雲林草嶺",
-      "dates": [
-        "2025-09-27"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6932",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6932/86436769d59204eaec76e77745f476ab"
-        }
-      ]
-    },
-    {
-      "title": "「2025高雄市無障礙環境規劃及勘檢實務講習」(二)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7009&t1=1",
-      "location": "高雄市政府8樓-第五會議室",
-      "dates": [
-        "2025-09-23"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7009",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場報名人數上限為60人。上課地點為「高雄市政府 8樓-第五會議室」。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7009/da462b42bc47350f171c7ddc716409ac"
-        }
-      ]
-    },
-    {
-      "title": "「CLT集成木實績案例分享」法規講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7042&t1=1",
-      "location": "本會(大)會議室",
-      "dates": [
-        "2025-09-18"
-      ],
-      "timeInfo": [
-        "下午2:30~5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7042",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場講習無積分。"
-    },
-    {
-      "title": "114年度高雄市災害後危險建築物緊急評估作業動員演練及組訓",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6996&t1=1",
-      "location": "高雄市政府消防局 8樓國際會議廳 （高雄市前鎮區凱旋四路119號8樓）",
-      "dates": [
-        "2025-09-16"
-      ],
-      "timeInfo": [
-        "13:30~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6996",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/6996/a43a8eee51d813f589fd68435da15155"
-        }
-      ]
-    },
-    {
-      "title": "學術委員會「2025高雄製造」競圖初選會議(大會議室)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6986&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-09-13"
-      ],
-      "timeInfo": [
-        "上午9:00~12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6986",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

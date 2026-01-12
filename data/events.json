@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-12T01:31:49.056Z",
+  "scrapedAt": "2026-01-12T02:43:56.026Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -196,8 +196,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7118&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie",
       "remarks": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
@@ -282,6 +282,24 @@
       "category": "meeting",
       "remarks": null,
       "downloads": []
+    },
+    {
+      "title": "(第二次索票)電影欣賞會活動-”南方時光”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7146&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-01-12"
+      ],
+      "timeInfo": [
+        "下午15:30(預定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7146",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7146&t=active",
+      "extras": [],
+      "category": "movie",
+      "remarks": "(1)115年1月19日(一)於本會網站公告索票成功名單及張數。\n(2)115年2月4日(三)於本會網站公告放映的時間、廳別及相關注意事項。"
     },
     {
       "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
@@ -517,7 +535,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -1012,30 +1030,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7040/d64f04798b1a87ba91da9939c12ab0a0"
-        }
-      ]
-    },
-    {
-      "title": "「2025建築技術規則及綠建築錯誤樣態實務課程」(三)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7000&t1=1",
-      "location": "國立科學工藝博物館-南館「S105階梯教室」",
-      "dates": [
-        "2025-09-30"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7000",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7000/9f81cbc6810bad69d0b0c78444164b3c"
         }
       ]
     }

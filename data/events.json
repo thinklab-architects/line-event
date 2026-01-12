@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-12T02:43:56.026Z",
+  "scrapedAt": "2026-01-12T03:33:24.057Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -284,7 +284,7 @@
       "downloads": []
     },
     {
-      "title": "(第二次索票)電影欣賞會活動-”南方時光”",
+      "title": "(第二次索票)115年2月7日電影欣賞會活動-”南方時光”",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7146&t1=1",
       "location": "高雄大遠百威秀影城",
       "dates": [
@@ -299,7 +299,13 @@
       "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7146&t=active",
       "extras": [],
       "category": "movie",
-      "remarks": "(1)115年1月19日(一)於本會網站公告索票成功名單及張數。\n(2)115年2月4日(三)於本會網站公告放映的時間、廳別及相關注意事項。"
+      "remarks": "(1)115年1月19日(一)於本會網站公告索票成功名單及張數。\n(2)115年2月4日(三)於本會網站公告放映的時間、廳別及相關注意事項。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7146/52e9c3388be68c3335aa8597aa3d8a42"
+        }
+      ]
     },
     {
       "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
@@ -535,7 +541,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

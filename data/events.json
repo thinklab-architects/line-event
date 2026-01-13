@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-13T00:09:41.754Z",
+  "scrapedAt": "2026-01-13T01:31:21.732Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -207,6 +207,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
         }
       ]
+    },
+    {
+      "title": "「高雄市建築物施工指定勘驗作業」業務說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7147&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-01-29"
+      ],
+      "timeInfo": [
+        "下午2:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7147",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "115年度國外旅遊-古文明埃及10日",
@@ -541,7 +558,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -1014,30 +1031,6 @@
       "category": "meeting",
       "remarks": null,
       "downloads": []
-    },
-    {
-      "title": "國外旅遊C團-西班牙11日遊行前說明會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7040&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2025-10-02"
-      ],
-      "timeInfo": [
-        "上午10:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7040",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7040/d64f04798b1a87ba91da9939c12ab0a0"
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-14T15:05:13.646Z",
+  "scrapedAt": "2026-01-14T16:04:47.693Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -183,6 +183,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
         }
       ]
+    },
+    {
+      "title": "暫定學術參訪",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7148&t1=1",
+      "location": "高雄市立美術館",
+      "dates": [
+        "2026-03-13"
+      ],
+      "timeInfo": [
+        "上午半天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7148",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -558,7 +575,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -1010,25 +1027,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other",
-      "remarks": null,
-      "downloads": []
-    },
-    {
-      "title": "第17屆法規研究委員會「建照委審執行小組」第7次會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7038&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2025-10-02"
-      ],
-      "timeInfo": [
-        "下午3:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7038",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
       "remarks": null,
       "downloads": []
     }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-15T02:39:10.922Z",
+  "scrapedAt": "2026-01-15T03:32:04.391Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -183,23 +183,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
         }
       ]
-    },
-    {
-      "title": "暫定學術參訪",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7148&t1=1",
-      "location": "高雄市立美術館",
-      "dates": [
-        "2026-03-13"
-      ],
-      "timeInfo": [
-        "上午半天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7148",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing"
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -575,7 +558,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -670,30 +653,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7055/f73b4ed08bdf98f9f6c08458c425fc86"
-        }
-      ]
-    },
-    {
-      "title": "建築結構講習-結構實務及階段性補強探討",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7064&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-11-25"
-      ],
-      "timeInfo": [
-        "下午2:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7064",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": null,
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7064/86297d72928ecc5c4ff1f9eb64491f54"
         }
       ]
     },
@@ -1029,6 +988,46 @@
       "category": "other",
       "remarks": null,
       "downloads": []
+    },
+    {
+      "title": "第17屆法規研究委員會「建照委審執行小組」第7次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7038&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-10-02"
+      ],
+      "timeInfo": [
+        "下午3:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7038",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "國外旅遊C團-西班牙11日遊行前說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7040&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-10-02"
+      ],
+      "timeInfo": [
+        "上午10:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7040",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7040/d64f04798b1a87ba91da9939c12ab0a0"
+        }
+      ]
     }
   ]
 }

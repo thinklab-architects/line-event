@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-01-16T15:04:32.082Z",
+  "scrapedAt": "2026-01-16T16:04:49.498Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -293,8 +293,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7146",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7146&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie",
       "remarks": "(1)115年1月19日(一)於本會網站公告索票成功名單及張數。\n(2)115年2月4日(三)於本會網站公告放映的時間、廳別及相關注意事項。",
@@ -558,7 +558,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

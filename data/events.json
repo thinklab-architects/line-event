@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-04T01:32:51.751Z",
+  "scrapedAt": "2026-02-04T02:56:10.280Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -103,6 +103,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "預告活動：「甲仙探訪&納瑪夏賞螢趣」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7162&t1=1",
+      "location": "甲仙＋納瑪夏",
+      "dates": [
+        "2026-04-18"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7162",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
     },
     {
       "title": "暫定教育推廣講習",
@@ -580,7 +597,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -968,21 +985,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7010/ea940e7a8f5e5de605a11d3eac2e8f80"
         }
       ]
-    },
-    {
-      "title": "中秋節慶假日",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7049&t1=1",
-      "location": null,
-      "dates": [
-        "2025-10-06"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7049",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

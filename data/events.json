@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-06T10:13:15.863Z",
+  "scrapedAt": "2026-02-06T11:12:16.681Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -31,6 +31,23 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7139",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "暫列金質獎頒獎典禮",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7163&t1=1",
+      "location": "漢來巨蛋會館9樓龍鳳凰廳",
+      "dates": [
+        "2026-09-30"
+      ],
+      "timeInfo": [
+        "全日"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7163",
       "register": null,
       "registerUrl": null,
       "extras": [],
@@ -234,6 +251,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
         }
       ]
+    },
+    {
+      "title": "金質獎評選委員會第一次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7164&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-03-11"
+      ],
+      "timeInfo": [
+        "下午3：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7164",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -597,7 +631,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -946,45 +980,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "outing"
-    },
-    {
-      "title": "國慶假日",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7047&t1=1",
-      "location": null,
-      "dates": [
-        "2025-10-10"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7047",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "「2025高雄市無障礙環境規劃及勘檢實務講習」(三)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7010&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-10-08"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7010",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本場報名人數上限為60人。 上課地點為「公會 大會議室」。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7010/ea940e7a8f5e5de605a11d3eac2e8f80"
-        }
-      ]
     }
   ]
 }

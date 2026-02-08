@@ -1,5 +1,985 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-08T07:15:25.524Z",
-  "events": []
+  "scrapedAt": "2026-02-08T08:05:37.280Z",
+  "events": [
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7140&t1=1",
+      "location": "高雄市立圖書館 小港分館",
+      "dates": [
+        "2026-10-31"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7140",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7139&t1=1",
+      "location": "高雄市立圖書館 小港分館",
+      "dates": [
+        "2026-10-30"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7139",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "暫列金質獎頒獎典禮",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7163&t1=1",
+      "location": "漢來巨蛋會館9樓龍鳳凰廳",
+      "dates": [
+        "2026-09-30"
+      ],
+      "timeInfo": [
+        "全日"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7163",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7138&t1=1",
+      "location": "高雄市立圖書館 楠仔坑分館",
+      "dates": [
+        "2026-09-12"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7138",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7137&t1=1",
+      "location": "高雄市立圖書館 楠仔坑分館",
+      "dates": [
+        "2026-09-11"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7137",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-13"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-12"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "預告活動：「甲仙探訪&納瑪夏賞螢趣」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7162&t1=1",
+      "location": "甲仙＋納瑪夏",
+      "dates": [
+        "2026-04-18"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7162",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    },
+    {
+      "title": "暫定教育推廣講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7153&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-04-15"
+      ],
+      "timeInfo": [
+        "下午2：00-5：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7153",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
+      "title": "(大會議室)資深會員及新進會員座談",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7160&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-03-24"
+      ],
+      "timeInfo": [
+        "下午3:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7160",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "建築師公益諮詢活動(美濃菸仕物所)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7134&t1=1",
+      "location": "美濃菸仕物所",
+      "dates": [
+        "2026-03-21"
+      ],
+      "timeInfo": [
+        "上午10:00-12:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7134",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(美濃菸仕物所)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7133&t1=1",
+      "location": "美濃菸仕物所",
+      "dates": [
+        "2026-03-20"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7133",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-15"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7117",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7117/bcf52d0729a5ce186643abfebc627ee3"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7116&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-14"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7116",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
+        }
+      ]
+    },
+    {
+      "title": "金質獎評選委員會第一次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7164&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-03-11"
+      ],
+      "timeInfo": [
+        "下午3：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7164",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "電影欣賞會活動-”南方時光”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7118&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-02-07"
+      ],
+      "timeInfo": [
+        "下午15:30(預定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
+        }
+      ]
+    },
+    {
+      "title": "「高雄市建築物施工指定勘驗作業」業務說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7147&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-01-29"
+      ],
+      "timeInfo": [
+        "下午2:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7147",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "115年度國外旅遊-古文明埃及10日",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7062&t1=1",
+      "location": "埃及",
+      "dates": [
+        "2026-01-18",
+        "2026-01-19",
+        "2026-01-20",
+        "2026-01-21",
+        "2026-01-22",
+        "2026-01-23",
+        "2026-01-24",
+        "2026-01-25",
+        "2026-01-26",
+        "2026-01-27"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7062",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7062/1621c167b053ac4aace09506c2f1fa39"
+        }
+      ]
+    },
+    {
+      "title": "「探訪台南落雨松秘境」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7115&t1=1",
+      "location": "台南",
+      "dates": [
+        "2026-01-17"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7115",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7115/06f8b09f799224a5ab6953b9bbb8dc73"
+        }
+      ]
+    },
+    {
+      "title": "(第二次索票)115年2月7日電影欣賞會活動-”南方時光”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7146&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-01-16"
+      ],
+      "timeInfo": [
+        "下午15:30(預定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7146",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "(1)115年1月19日(一)於本會網站公告索票成功名單及張數。\n(2)115年2月4日(三)於本會網站公告放映的時間、廳別及相關注意事項。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7146/52e9c3388be68c3335aa8597aa3d8a42"
+        }
+      ]
+    },
+    {
+      "title": "南部五縣市理監事聯誼會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7093&t1=1",
+      "location": "漢神飯店巨蛋會館9樓金冠廳",
+      "dates": [
+        "2026-01-14"
+      ],
+      "timeInfo": [
+        "下午4:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7093",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7095&t1=1",
+      "location": "大東藝術圖書館 演講廳",
+      "dates": [
+        "2026-01-10"
+      ],
+      "timeInfo": [
+        "下午2：00-5：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7095",
+      "register": "歡迎直接到場聆聽",
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
+      "title": "第17屆學術委員會第12次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7082&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-01-09"
+      ],
+      "timeInfo": [
+        "下午4點整"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7082",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "(第三梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7120&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2026-01-03"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7120",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7120/dd74560927fb016edaefca4caf237fba"
+        }
+      ]
+    },
+    {
+      "title": "埃及10日遊行前說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7114&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-12-31"
+      ],
+      "timeInfo": [
+        "下午14:00-16：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7114",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    },
+    {
+      "title": "學術競圖作品集電子校稿作業",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7121&t1=1",
+      "location": "本會小會議室(需電視牆)",
+      "dates": [
+        "2025-12-29"
+      ],
+      "timeInfo": [
+        "下午2：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7121",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "(第二梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7119&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2025-12-28"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7119",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7119/35b6bf5c9a23d7dba0dc38d219ed6039"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)特富野部落.里加部落ㄧ日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7026&t1=1",
+      "location": "特富野部落.里加部落",
+      "dates": [
+        "2025-12-27"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7026",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "報名日期：114年10月13日(一)上午9:00~114年10月22日(三)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7026/f1d61d81148d33cc0d552b23e0a4d8f0"
+        }
+      ]
+    },
+    {
+      "title": "(第一場次13:00)電影欣賞活動--阿凡達-火與燼",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7078&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-12-20"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7078",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
+    },
+    {
+      "title": "(第二場次16:30)電影欣賞活動--阿凡達-火與燼",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7079&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-12-20"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7079",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
+    },
+    {
+      "title": "(第2場次第2次索票)電影欣賞--阿凡達-火與燼",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7097&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-12-20"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7097",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
+    },
+    {
+      "title": "114年度社團法人高雄市建築師公會建築師節晚會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7059&t1=1",
+      "location": "漢來巨蛋會館9樓龍鳳凰廳",
+      "dates": [
+        "2025-12-17"
+      ],
+      "timeInfo": [
+        "下午6點整-晚上10點整"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7059",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "114台北國際建材暨產品展+南投建築巡禮 參訪活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7045&t1=1",
+      "location": "台北",
+      "dates": [
+        "2025-12-12",
+        "2025-12-13"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
+      "register": "報名方式詳報名簡章",
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "回程高鐵票自行購買後，於12/19 前持票根至公會辦理退款",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7045/94f9770a41519f221816a5374659ca2d"
+        }
+      ]
+    },
+    {
+      "title": "(大會議室)資深會員及新進會員座談",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7069&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-12-11"
+      ],
+      "timeInfo": [
+        "下午3:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7069",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "2025/12/6文化月活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6816&t1=1",
+      "location": "高雄車站B1 裝置藝術:看時間(時鐘)集合 (高雄市三民區建國二路318號)",
+      "dates": [
+        "2025-12-06"
+      ],
+      "timeInfo": [
+        "9:30-17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6816",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other",
+      "remarks": "報名google 表單:https://docs.google.com/forms/d/e/1FAIpQLScM42Z9jB_Gr0SEjwxVZoMvRsqE3M8hp-kaY1lAdJggr-_2xQ/viewform?usp=sharing&ouid=111424216548369083791"
+    },
+    {
+      "title": "(第二場次15:30)電影欣賞活動--魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7037&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午12:00~16:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7037",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.登記索票時間：自114年10月13日上午9時至114年10月21日下午5時止（索完為止）。\n2.放映時間：114年11月29日(六)  第一場次13:00(預定)    第二場次15:30(預定)。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7037/4ef8bbe4b2896e884d6c76ae025edc3e"
+        }
+      ]
+    },
+    {
+      "title": "(第一場次13:00)電影欣賞活動-魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7055&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午12:00~16:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7055",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.登記索票時間：自114年10月13日上午9時至114年10月21日下午5時止（索完為止）。\n2.放映時間：114年11月29日(六)  第一場次13:00(預定)    第二場次15:30(預定)。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7055/f73b4ed08bdf98f9f6c08458c425fc86"
+        }
+      ]
+    },
+    {
+      "title": "(第二場次第二次索)電影欣賞活動--魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7071&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7071",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
+    },
+    {
+      "title": "(第一場次第二次索票)電影欣賞活動--魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7072&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7072",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
+    },
+    {
+      "title": "(已額滿)(第一場次第二次索票)電影欣賞活動--阿凡達-火與燼",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7096&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7096",
+      "register": "第二次索票,已索完。",
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。\n2.若有賸餘電影票，將於114年11月25日上午9時正，再次開放會員線上第二次索票，每位會員限同第一次索票場次，最多可再索票2張(索完為止）。"
+    },
+    {
+      "title": "(大會議室)單項健身社團活動-樂活社",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7051&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-11-19"
+      ],
+      "timeInfo": [
+        "下午3:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7051",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "國內旅遊C--雲霧繚繞上帝的部落~司馬庫斯二日遊(第二梯次)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7023&t1=1",
+      "location": "司馬庫斯",
+      "dates": [
+        "2025-11-08",
+        "2025-11-09"
+      ],
+      "timeInfo": [
+        "詳報名簡章"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7023",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "一、本團新路線是因原C團「明池森林、棲蘭神木園、武陵富野秋賞森呼吸三日遊」休園整修二年，不對外開放；故調整變更行程為「雲霧繚繞上帝的部落~司馬庫斯二日遊」。\n二、報名日期：自114年6月30日(一)上午9:00起至7月7日(一)下午5:00止。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7023/1a2bcadc1044c716634d0afb9b772170"
+        }
+      ]
+    },
+    {
+      "title": "國內旅遊C--雲霧繚繞上帝的部落~司馬庫斯二日遊(第一梯次)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7022&t1=1",
+      "location": "司馬庫斯",
+      "dates": [
+        "2025-11-01",
+        "2025-11-02"
+      ],
+      "timeInfo": [
+        "詳報名簡章"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7022",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "一、本團新路線是因原C團「明池森林、棲蘭神木園、武陵富野秋賞森呼吸三日遊」休園整修二年，不對外開放；故調整變更行程為「雲霧繚繞上帝的部落~司馬庫斯二日遊」。\n二、報名日期：自114年6月30日(一)上午9:00起至7月7日(一)下午5:00止。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7022/c9a046055a7dd205cdc3fcd71d578c3b"
+        }
+      ]
+    },
+    {
+      "title": "光復節補休日",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7048&t1=1",
+      "location": null,
+      "dates": [
+        "2025-10-24"
+      ],
+      "timeInfo": [],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7048",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "油畫會靜物寫生活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7061&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-24"
+      ],
+      "timeInfo": [
+        "上午10：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7061",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "第17屆福利委員會第10次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7041&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2025-10-22"
+      ],
+      "timeInfo": [
+        "下午4:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7041",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "「2025高雄製造」競圖複選會議(大會議室)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6987&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-18"
+      ],
+      "timeInfo": [
+        "上午9:00~12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6987",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "2025高雄製造學生競圖場佈(大會議室)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7043&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-17"
+      ],
+      "timeInfo": [
+        "上午10：00~下午5:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7043",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "「簡易室內裝修」講習 (第二場)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7024&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-16"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7024",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7024/6d7b4a18492e0752809b08dc11242b16"
+        }
+      ]
+    },
+    {
+      "title": "國外旅遊C團-西班牙11日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7054&t1=1",
+      "location": "西班牙",
+      "dates": [
+        "2025-10-16",
+        "2025-10-17",
+        "2025-10-18",
+        "2025-10-19",
+        "2025-10-20",
+        "2025-10-21",
+        "2025-10-22",
+        "2025-10-23",
+        "2025-10-24",
+        "2025-10-25",
+        "2025-10-26"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7054",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    }
+  ]
 }

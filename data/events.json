@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-13T08:12:11.021Z",
+  "scrapedAt": "2026-02-13T09:15:13.968Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -207,23 +207,6 @@
       "category": "other"
     },
     {
-      "title": "暫定資訊講座",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7168&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-03-17"
-      ],
-      "timeInfo": [
-        "下午2:30-5:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7168",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
       "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
       "location": "雲林",
@@ -270,23 +253,6 @@
       ]
     },
     {
-      "title": "暫定資訊講座",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7167&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-03-13"
-      ],
-      "timeInfo": [
-        "下午2:30-5:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7167",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
       "title": "金質獎評選委員會第一次會議",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7164&t1=1",
       "location": "本會會議室",
@@ -302,23 +268,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "暫定資訊講座",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7166&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-03-10"
-      ],
-      "timeInfo": [
-        "下午2:30-5:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7166",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -682,7 +631,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -964,6 +913,73 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "2025高雄製造學生競圖場佈(大會議室)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7043&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-17"
+      ],
+      "timeInfo": [
+        "上午10：00~下午5:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7043",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "「簡易室內裝修」講習 (第二場)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7024&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-16"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7024",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7024/6d7b4a18492e0752809b08dc11242b16"
+        }
+      ]
+    },
+    {
+      "title": "國外旅遊C團-西班牙11日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7054&t1=1",
+      "location": "西班牙",
+      "dates": [
+        "2025-10-16",
+        "2025-10-17",
+        "2025-10-18",
+        "2025-10-19",
+        "2025-10-20",
+        "2025-10-21",
+        "2025-10-22",
+        "2025-10-23",
+        "2025-10-24",
+        "2025-10-25",
+        "2025-10-26"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7054",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
     }
   ]
 }

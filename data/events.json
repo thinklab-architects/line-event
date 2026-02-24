@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-24T09:16:53.118Z",
+  "scrapedAt": "2026-02-24T10:16:18.140Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -88,6 +88,30 @@
       "category": "other"
     },
     {
+      "title": "第一梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7184&t1=1",
+      "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
+      "dates": [
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7184",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7184/4f940d69721f82aeb65cf8deda9b5c7d"
+        }
+      ]
+    },
+    {
       "title": "資訊講座暫定",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7183&t1=1",
       "location": "本會大會議室",
@@ -139,9 +163,9 @@
       "category": "other"
     },
     {
-      "title": "預告活動：「甲仙探訪&納瑪夏賞螢趣」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7162&t1=1",
-      "location": "甲仙＋納瑪夏",
+      "title": "「甲仙探訪& 那瑪夏賞螢趣」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7186&t1=1",
+      "location": "甲仙＋那瑪夏",
       "dates": [
         "2026-04-18"
       ],
@@ -149,11 +173,17 @@
         "全天"
       ],
       "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7162",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "outing"
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7186/a299bf3a1a04f36a188c7421429f4edb"
+        }
+      ]
     },
     {
       "title": "暫定教育推廣講習",
@@ -285,6 +315,29 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "「甲仙探訪& 那瑪夏賞螢趣」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7185&t1=1",
+      "location": "甲仙＋那瑪夏",
+      "dates": [
+        "2026-02-24"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7185",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7185/d4d4a502756e0659eba04a563bfce948"
+        }
+      ]
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -648,7 +701,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -930,46 +983,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "2025高雄製造學生競圖場佈(大會議室)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7043&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-10-17"
-      ],
-      "timeInfo": [
-        "上午10：00~下午5:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7043",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
-    },
-    {
-      "title": "「簡易室內裝修」講習 (第二場)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7024&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-10-16"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7024",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7024/6d7b4a18492e0752809b08dc11242b16"
-        }
-      ]
     }
   ]
 }

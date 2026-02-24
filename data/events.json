@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-24T08:12:57.858Z",
+  "scrapedAt": "2026-02-24T09:16:53.118Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -86,6 +86,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "資訊講座暫定",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7183&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-06-16"
+      ],
+      "timeInfo": [
+        "下午2:30-5:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7183",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
@@ -631,7 +648,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -953,33 +970,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7024/6d7b4a18492e0752809b08dc11242b16"
         }
       ]
-    },
-    {
-      "title": "國外旅遊C團-西班牙11日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7054&t1=1",
-      "location": "西班牙",
-      "dates": [
-        "2025-10-16",
-        "2025-10-17",
-        "2025-10-18",
-        "2025-10-19",
-        "2025-10-20",
-        "2025-10-21",
-        "2025-10-22",
-        "2025-10-23",
-        "2025-10-24",
-        "2025-10-25",
-        "2025-10-26"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7054",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing"
     }
   ]
 }

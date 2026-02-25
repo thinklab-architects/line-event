@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-25T01:32:49.193Z",
+  "scrapedAt": "2026-02-25T02:59:24.950Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -174,7 +174,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -219,6 +219,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "2026城市工程品質金質獎啟動儀式(拜會副市長)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7187&t1=1",
+      "location": "市府四維行政中心 三樓貴賓室",
+      "dates": [
+        "2026-03-24"
+      ],
+      "timeInfo": [
+        "上午10：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7187",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "建築師公益諮詢活動(美濃菸仕物所)",
@@ -702,7 +719,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -963,23 +980,6 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7041",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
-    },
-    {
-      "title": "「2025高雄製造」競圖複選會議(大會議室)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6987&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-10-18"
-      ],
-      "timeInfo": [
-        "上午9:00~12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6987",
       "register": null,
       "registerUrl": null,
       "extras": [],

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-02-26T08:13:02.006Z",
+  "scrapedAt": "2026-02-26T09:16:18.123Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -174,7 +174,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -185,6 +185,23 @@
         }
       ],
       "remarks": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。"
+    },
+    {
+      "title": "油畫會靜物寫生活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7188&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-03-28"
+      ],
+      "timeInfo": [
+        "上午10：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7188",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "(大會議室)資深會員及新進會員座談",
@@ -702,7 +719,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -963,23 +980,6 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7041",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
-    },
-    {
-      "title": "「2025高雄製造」競圖複選會議(大會議室)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6987&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2025-10-18"
-      ],
-      "timeInfo": [
-        "上午9:00~12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6987",
       "register": null,
       "registerUrl": null,
       "extras": [],

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-02T03:49:27.253Z",
+  "scrapedAt": "2026-03-02T04:33:33.329Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -86,6 +86,30 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "第二梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7189&t1=1",
+      "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
+      "dates": [
+        "2026-07-18",
+        "2026-07-19"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7189",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7189/7fddb9f980d83fa964b7d079c10fb50a"
+        }
+      ]
     },
     {
       "title": "第一梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
@@ -174,7 +198,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -719,7 +743,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -967,23 +991,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "第17屆福利委員會第10次會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7041&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2025-10-22"
-      ],
-      "timeInfo": [
-        "下午4:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7041",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-11T00:12:37.939Z",
+  "scrapedAt": "2026-03-11T01:32:38.355Z",
   "events": [
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -198,7 +198,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -209,24 +209,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7186/a299bf3a1a04f36a188c7421429f4edb"
         }
       ]
-    },
-    {
-      "title": "(預告)115年度「委託使用執照之審查及竣工查驗作業」業務執行教育訓練",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7192&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-03-30"
-      ],
-      "timeInfo": [
-        "14:00~17:20",
-        "(13:45開始報到)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7192",
-      "register": "現任審查會員優先",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     },
     {
       "title": "油畫會靜物寫生活動",
@@ -761,7 +743,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -988,6 +970,23 @@
       "timeInfo": [],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7048",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "油畫會靜物寫生活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7061&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2025-10-24"
+      ],
+      "timeInfo": [
+        "上午10：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7061",
       "register": null,
       "registerUrl": null,
       "extras": [],

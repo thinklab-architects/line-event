@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-12T00:12:38.365Z",
+  "scrapedAt": "2026-03-12T01:32:43.397Z",
   "events": [
     {
       "title": "2026文化月",
@@ -204,6 +204,23 @@
       "category": "other"
     },
     {
+      "title": "(預告)建材參訪活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
+      "location": "台中",
+      "dates": [
+        "2026-05-12"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    },
+    {
       "title": "「甲仙探訪& 那瑪夏賞螢趣」一日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7186&t1=1",
       "location": "甲仙＋那瑪夏",
@@ -215,7 +232,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -760,7 +777,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -976,21 +993,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7022/c9a046055a7dd205cdc3fcd71d578c3b"
         }
       ]
-    },
-    {
-      "title": "光復節補休日",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7048&t1=1",
-      "location": null,
-      "dates": [
-        "2025-10-24"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7048",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

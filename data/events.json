@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-13T08:10:12.587Z",
+  "scrapedAt": "2026-03-13T09:12:33.713Z",
   "events": [
     {
       "title": "2026文化月",
@@ -221,23 +221,6 @@
       "category": "outing"
     },
     {
-      "title": "(預告)115年度4月份建築工地勞工安全宣導",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7201&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-21"
-      ],
-      "timeInfo": [
-        "14:00~17:00(13:50報到)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7201",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
       "title": "「甲仙探訪& 那瑪夏賞螢趣」一日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7186&t1=1",
       "location": "甲仙＋那瑪夏",
@@ -249,7 +232,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -273,6 +256,23 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7200",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "(預告)115年度4月份建築工地勞工安全宣導",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7201&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-04-14"
+      ],
+      "timeInfo": [
+        "14:00~17:00(13:50報到)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7201",
       "register": "俟相關事宜確認後開放報名",
       "registerUrl": null,
       "extras": [],
@@ -811,7 +811,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

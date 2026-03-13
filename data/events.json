@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-13T02:55:36.599Z",
+  "scrapedAt": "2026-03-13T03:47:00.205Z",
   "events": [
     {
       "title": "2026文化月",
@@ -232,7 +232,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -243,6 +243,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7186/a299bf3a1a04f36a188c7421429f4edb"
         }
       ]
+    },
+    {
+      "title": "(預告)建材說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7200&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-04-16"
+      ],
+      "timeInfo": [
+        "下午2:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7200",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "油畫會靜物寫生活動",
@@ -777,7 +794,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -966,31 +983,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7023/1a2bcadc1044c716634d0afb9b772170"
-        }
-      ]
-    },
-    {
-      "title": "國內旅遊C--雲霧繚繞上帝的部落~司馬庫斯二日遊(第一梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7022&t1=1",
-      "location": "司馬庫斯",
-      "dates": [
-        "2025-11-01",
-        "2025-11-02"
-      ],
-      "timeInfo": [
-        "詳報名簡章"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7022",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "一、本團新路線是因原C團「明池森林、棲蘭神木園、武陵富野秋賞森呼吸三日遊」休園整修二年，不對外開放；故調整變更行程為「雲霧繚繞上帝的部落~司馬庫斯二日遊」。\n二、報名日期：自114年6月30日(一)上午9:00起至7月7日(一)下午5:00止。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7022/c9a046055a7dd205cdc3fcd71d578c3b"
         }
       ]
     }

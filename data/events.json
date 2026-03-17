@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-17T08:14:03.339Z",
+  "scrapedAt": "2026-03-17T09:17:40.779Z",
   "events": [
     {
       "title": "2026文化月",
@@ -221,7 +221,31 @@
       "category": "outing"
     },
     {
-      "title": "「甲仙探訪& 那瑪夏賞螢趣」一日遊",
+      "title": "(第二梯次)「甲仙探訪& 那瑪夏賞螢趣」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7203&t1=1",
+      "location": "那瑪夏+甲仙",
+      "dates": [
+        "2026-04-19"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7203",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7203/0b10ae9e803ac82dc94788e5396abefa"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)「甲仙探訪& 那瑪夏賞螢趣」一日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7186&t1=1",
       "location": "甲仙＋那瑪夏",
       "dates": [
@@ -232,7 +256,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -425,29 +449,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "「甲仙探訪& 那瑪夏賞螢趣」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7185&t1=1",
-      "location": "甲仙＋那瑪夏",
-      "dates": [
-        "2026-02-24"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7185",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7185/d4d4a502756e0659eba04a563bfce948"
-        }
-      ]
     },
     {
       "title": "電影欣賞會活動-”南方時光”",
@@ -811,7 +812,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

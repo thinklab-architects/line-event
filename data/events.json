@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-25T07:22:34.332Z",
+  "scrapedAt": "2026-03-25T08:13:13.653Z",
   "events": [
     {
       "title": "2026文化月",
@@ -256,7 +256,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -292,7 +292,7 @@
       ]
     },
     {
-      "title": "(預告)115年度4月份建築工地勞工安全宣導",
+      "title": "115年度4月份建築工地勞工安全宣導",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7201&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -303,10 +303,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7201",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7201&t=active",
       "extras": [],
-      "category": "other"
+      "category": "other",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7201/d2d9362a8c5841f6fce28939f5e1cc12"
+        }
+      ]
     },
     {
       "title": "「115年度高雄市建築物公共安全檢查簽證及申報案件委外辦理抽複查工作」工作計畫說明會",
@@ -841,7 +847,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-26T03:01:58.723Z",
+  "scrapedAt": "2026-03-26T04:46:09.014Z",
   "events": [
     {
       "title": "2026文化月",
@@ -256,7 +256,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -310,7 +310,7 @@
       "downloads": [
         {
           "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7201/d2d9362a8c5841f6fce28939f5e1cc12"
+          "url": "https://www.kaa.org.tw/download.php?b=active/7201/9a02962f5b359c5a794c378a06f652b5"
         }
       ]
     },
@@ -847,7 +847,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

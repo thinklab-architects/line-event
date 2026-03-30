@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-03-30T01:33:32.388Z",
+  "scrapedAt": "2026-03-30T03:02:01.767Z",
   "events": [
     {
       "title": "2026文化月",
@@ -204,6 +204,23 @@
       "category": "other"
     },
     {
+      "title": "(預告)法益講座-大會議室",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7206&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-05-20"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7206",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "(預告)建材參訪活動",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
       "location": "台中",
@@ -256,7 +273,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -847,7 +864,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -977,25 +994,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "movie"
-    },
-    {
-      "title": "(已額滿)(第一場次第二次索票)電影欣賞活動--阿凡達-火與燼",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7096&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2025-11-25"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7096",
-      "register": "第二次索票,已索完。",
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "1.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。\n2.若有賸餘電影票，將於114年11月25日上午9時正，再次開放會員線上第二次索票，每位會員限同第一次索票場次，最多可再索票2張(索完為止）。"
     }
   ]
 }

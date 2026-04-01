@@ -1,7 +1,191 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-01T06:33:01.605Z",
+  "scrapedAt": "2026-04-01T07:31:17.031Z",
   "events": [
+    {
+      "title": "2026文化月",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7195&t1=1",
+      "location": "暫定",
+      "dates": [
+        "2026-12-05"
+      ],
+      "timeInfo": [
+        "上午8:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7195",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7140&t1=1",
+      "location": "高雄市立圖書館 小港分館",
+      "dates": [
+        "2026-10-31"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7140",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7139&t1=1",
+      "location": "高雄市立圖書館 小港分館",
+      "dates": [
+        "2026-10-30"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7139",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "暫列金質獎頒獎典禮",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7163&t1=1",
+      "location": "漢來巨蛋會館9樓龍鳳凰廳",
+      "dates": [
+        "2026-09-30"
+      ],
+      "timeInfo": [
+        "全日"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7163",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7138&t1=1",
+      "location": "高雄市立圖書館 楠仔坑分館",
+      "dates": [
+        "2026-09-12"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7138",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7137&t1=1",
+      "location": "高雄市立圖書館 楠仔坑分館",
+      "dates": [
+        "2026-09-11"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7137",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "第二梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7189&t1=1",
+      "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
+      "dates": [
+        "2026-07-18",
+        "2026-07-19"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7189",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7189/7fddb9f980d83fa964b7d079c10fb50a"
+        }
+      ]
+    },
+    {
+      "title": "第一梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7184&t1=1",
+      "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
+      "dates": [
+        "2026-07-11",
+        "2026-07-12"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7184",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7184/4f940d69721f82aeb65cf8deda9b5c7d"
+        }
+      ]
+    },
+    {
+      "title": "建築3D 列印入門與實務應用",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7183&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-06-16"
+      ],
+      "timeInfo": [
+        "下午2:30-5:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7183",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-13"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
@@ -89,7 +273,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

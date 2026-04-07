@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-07T07:30:50.511Z",
+  "scrapedAt": "2026-04-07T08:24:53.083Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -168,23 +168,6 @@
       ]
     },
     {
-      "title": "建築3D 列印入門與實務應用",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7183&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-06-16"
-      ],
-      "timeInfo": [
-        "下午2:30-5:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7183",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
       "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
       "location": "高雄市立圖書館 湖內分館",
@@ -288,7 +271,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -909,7 +892,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -977,6 +960,30 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7037/4ef8bbe4b2896e884d6c76ae025edc3e"
+        }
+      ]
+    },
+    {
+      "title": "(第一場次13:00)電影欣賞活動-魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7055&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午12:00~16:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7055",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.登記索票時間：自114年10月13日上午9時至114年10月21日下午5時止（索完為止）。\n2.放映時間：114年11月29日(六)  第一場次13:00(預定)    第二場次15:30(預定)。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7055/f73b4ed08bdf98f9f6c08458c425fc86"
         }
       ]
     }

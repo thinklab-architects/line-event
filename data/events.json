@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-13T00:20:22.760Z",
+  "scrapedAt": "2026-04-13T01:33:58.331Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -202,8 +202,8 @@
       "category": "other"
     },
     {
-      "title": "建材參訪",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7213&t1=1",
+      "title": "(預告)建材參訪活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
       "location": "台中",
       "dates": [
         "2026-06-12"
@@ -212,8 +212,8 @@
         "全天"
       ],
       "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7213",
-      "register": "籌辦中",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
+      "register": "俟相關事宜確認後開放報名",
       "registerUrl": null,
       "extras": [],
       "category": "outing"
@@ -234,23 +234,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
-    },
-    {
-      "title": "(預告)建材參訪活動",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
-      "location": "台中",
-      "dates": [
-        "2026-05-12"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing"
     },
     {
       "title": "「115年度綠建築設計查核業務」工作說明會",
@@ -305,7 +288,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -926,7 +909,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -972,6 +955,30 @@
       "extras": [],
       "category": "other",
       "remarks": "報名google 表單:https://docs.google.com/forms/d/e/1FAIpQLScM42Z9jB_Gr0SEjwxVZoMvRsqE3M8hp-kaY1lAdJggr-_2xQ/viewform?usp=sharing&ouid=111424216548369083791"
+    },
+    {
+      "title": "(第二場次15:30)電影欣賞活動--魔法壞女巫２",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7037&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2025-11-25"
+      ],
+      "timeInfo": [
+        "下午12:00~16:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7037",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "1.登記索票時間：自114年10月13日上午9時至114年10月21日下午5時止（索完為止）。\n2.放映時間：114年11月29日(六)  第一場次13:00(預定)    第二場次15:30(預定)。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7037/4ef8bbe4b2896e884d6c76ae025edc3e"
+        }
+      ]
     }
   ]
 }

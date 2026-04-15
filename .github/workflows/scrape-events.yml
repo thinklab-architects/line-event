@@ -2,6 +2,10 @@ name: Refresh events data
 
 on:
   schedule:
+    # GitHub automatically disables scheduled workflows after 60 days without
+    # repository activity (for example commits, issues, or pull requests).
+    # Merging or pushing a change to this workflow file re-enables the hourly
+    # schedule, and workflow_dispatch can also be used to resume it manually.
     - cron: '0 * * * *'
   workflow_dispatch:
 

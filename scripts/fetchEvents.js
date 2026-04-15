@@ -15,6 +15,7 @@ const LIST_URL = `${BASE_URL}/news_list.php?t1=1`;
 const PAGE_COUNT = 5;
 const DETAIL_CONCURRENCY = Math.max(1, Number(process.env.DETAIL_CONCURRENCY) || 4);
 const DETAIL_DELAY_MS = Math.max(0, Number(process.env.DETAIL_DELAY_MS) || 0);
+const MAX_RETRIES = 3;
 
 const DEFAULT_HEADERS = {
   'User-Agent':
@@ -24,8 +25,8 @@ const DEFAULT_HEADERS = {
 
 const CATEGORY_KEYWORDS = {
   meeting: ['會議', '理事', '理監事', '委員', '會員', '座談', '大會', '議'],
-  outing: ['出遊', '旅遊', '旅行', '參訪', '觀摩', '遊程', '團遊'],
-  movie: ['電影', '影展', '影唱', '電影活動', '改版播放'],
+  outing: ['出遊', '旅遊', '旅行', '參訪', '觀摩', '遊程', '國外旅遊', '團遊'],
+  movie: ['電影', '影展', '影唱', '影視', '電影活動', '電影欣賞', '影片', '放映', '改版播放'],
   workshop: ['講習', '課程', '研習', '培訓', '講座', '講堂', '工作坊', '訓練'],
 };
 const CATEGORY_PRIORITY = ['movie', 'workshop', 'meeting', 'outing'];
@@ -56,12 +57,23 @@ function decodeBody(arrayBuffer) {
 }
 
 async function fetchPage(url) {
-  const response = await fetch(url, { headers: DEFAULT_HEADERS });
-  if (!response.ok) {
-    throw new Error(`Failed to fetch ${url}: ${response.status} ${response.statusText}`);
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const response = await fetch(url, { headers: DEFAULT_HEADERS });
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status} ${response.statusText}`);
+      }
+      const buffer = await response.arrayBuffer();
+      return decodeBody(buffer);
+    } catch (error) {
+      if (attempt === MAX_RETRIES) {
+        throw new Error(`Failed to fetch ${url} after ${MAX_RETRIES} attempts: ${error.message}`);
+      }
+      const delay = 1000 * 2 ** (attempt - 1);
+      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed for ${url}: ${error.message}. Retrying in ${delay}ms...`);
+      await sleep(delay);
+    }
   }
-  const buffer = await response.arrayBuffer();
-  return decodeBody(buffer);
 }
 
 function buildListUrl(pageNumber = 1) {

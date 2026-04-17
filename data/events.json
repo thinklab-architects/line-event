@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-17T03:02:34.491Z",
+  "scrapedAt": "2026-04-17T04:57:50.691Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -33,6 +33,24 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7218&t1=1",
+      "location": "武界",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7218",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -84,6 +102,25 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "國內旅遊-「觀音瀑布+阿里山+特富野古道」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7217&t1=1",
+      "location": "阿里山+特富野古道",
+      "dates": [
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7217",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "自115年4月28日(二)上午9:00起至5月8日(五)下午5:00止。"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
@@ -305,7 +342,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -926,7 +963,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": null,
+      "register": "報名方式詳報名簡章",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -937,41 +974,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7045/94f9770a41519f221816a5374659ca2d"
         }
       ]
-    },
-    {
-      "title": "(大會議室)資深會員及新進會員座談",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7069&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2025-12-11"
-      ],
-      "timeInfo": [
-        "下午3:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7069",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
-    },
-    {
-      "title": "2025/12/6文化月活動",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=6816&t1=1",
-      "location": "高雄車站B1 裝置藝術:看時間(時鐘)集合 (高雄市三民區建國二路318號)",
-      "dates": [
-        "2025-12-06"
-      ],
-      "timeInfo": [
-        "9:30-17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=6816",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "remarks": "報名google 表單:https://docs.google.com/forms/d/e/1FAIpQLScM42Z9jB_Gr0SEjwxVZoMvRsqE3M8hp-kaY1lAdJggr-_2xQ/viewform?usp=sharing&ouid=111424216548369083791"
     }
   ]
 }

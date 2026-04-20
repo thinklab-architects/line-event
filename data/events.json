@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-20T06:42:31.378Z",
+  "scrapedAt": "2026-04-20T07:34:58.280Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -157,6 +157,24 @@
       "category": "other"
     },
     {
+      "title": "第三梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7220&t1=1",
+      "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
+      "dates": [
+        "2026-08-01",
+        "2026-08-02"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7220",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    },
+    {
       "title": "第二梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7189&t1=1",
       "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
@@ -273,6 +291,23 @@
       "category": "other"
     },
     {
+      "title": "電影欣賞會活動：＂讓建築歌唱～許亞英的交響人生＂",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7219&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-05-23"
+      ],
+      "timeInfo": [
+        "下午14:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7219",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
+    },
+    {
       "title": "(預告)法益講座-大會議室",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7206&t1=1",
       "location": "本會會議室",
@@ -342,7 +377,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -389,7 +424,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7201",
-      "register": null,
+      "register": "額滿",
       "registerUrl": null,
       "extras": [],
       "category": "other",
@@ -932,48 +967,6 @@
       "extras": [],
       "category": "movie",
       "remarks": "放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
-    },
-    {
-      "title": "114年度社團法人高雄市建築師公會建築師節晚會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7059&t1=1",
-      "location": "漢來巨蛋會館9樓龍鳳凰廳",
-      "dates": [
-        "2025-12-17"
-      ],
-      "timeInfo": [
-        "下午6點整-晚上10點整"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7059",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "114台北國際建材暨產品展+南投建築巡禮 參訪活動",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7045&t1=1",
-      "location": "台北",
-      "dates": [
-        "2025-12-12",
-        "2025-12-13"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7045",
-      "register": "報名方式詳報名簡章",
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "回程高鐵票自行購買後，於12/19 前持票根至公會辦理退款",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7045/94f9770a41519f221816a5374659ca2d"
-        }
-      ]
     }
   ]
 }

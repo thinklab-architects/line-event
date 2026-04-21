@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-21T01:33:27.663Z",
+  "scrapedAt": "2026-04-21T03:02:31.279Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -157,6 +157,23 @@
       "category": "other"
     },
     {
+      "title": "(預告)法益講座-大會議室",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7222&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-08-12"
+      ],
+      "timeInfo": [
+        "下午1:30-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7222",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "第三梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7220&t1=1",
       "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
@@ -274,6 +291,23 @@
       "category": "outing"
     },
     {
+      "title": "(預告)法益講座-大會議室",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7221&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-06-03"
+      ],
+      "timeInfo": [
+        "下午1:30-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7221",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "辦理公會網站更新案委任評選",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7214&t1=1",
       "location": "公會大會議室",
@@ -377,7 +411,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -929,44 +963,6 @@
       "extras": [],
       "category": "movie",
       "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
-    },
-    {
-      "title": "(第二場次16:30)電影欣賞活動--阿凡達-火與燼",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7079&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2025-12-20"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7079",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
-    },
-    {
-      "title": "(第2場次第2次索票)電影欣賞--阿凡達-火與燼",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7097&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2025-12-20"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7097",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
     }
   ]
 }

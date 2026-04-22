@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-22T05:43:50.509Z",
+  "scrapedAt": "2026-04-22T06:35:57.845Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -53,6 +53,23 @@
       "category": "outing"
     },
     {
+      "title": "(預告)建照委審教育訓練課程(三)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7225&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-11-12"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7225",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7140&t1=1",
       "location": "高雄市立圖書館 小港分館",
@@ -85,6 +102,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "(預告)建照委審教育訓練課程(二)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7224&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-10-15"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7224",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "暫列金質獎頒獎典禮",
@@ -121,6 +155,23 @@
       "extras": [],
       "category": "outing",
       "remarks": "自115年4月28日(二)上午9:00起至5月8日(五)下午5:00止。"
+    },
+    {
+      "title": "(預告)建照委審教育訓練課程(一)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7223&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-09-17"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7223",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
@@ -412,7 +463,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -898,72 +949,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "(第二梯次)特富野部落.里加部落ㄧ日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7119&t1=1",
-      "location": "特富野部落.里加部落",
-      "dates": [
-        "2025-12-28"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7119",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7119/35b6bf5c9a23d7dba0dc38d219ed6039"
-        }
-      ]
-    },
-    {
-      "title": "(第一梯次)特富野部落.里加部落ㄧ日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7026&t1=1",
-      "location": "特富野部落.里加部落",
-      "dates": [
-        "2025-12-27"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7026",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "報名日期：114年10月13日(一)上午9:00~114年10月22日(三)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7026/f1d61d81148d33cc0d552b23e0a4d8f0"
-        }
-      ]
-    },
-    {
-      "title": "(第一場次13:00)電影欣賞活動--阿凡達-火與燼",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7078&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2025-12-20"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7078",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "1.登記索票時間：自114年11月10日上午9時至114年11月21日下午5時止（索完為止）\n2.放映時間：114年12月20日(六)  第一場次13:00(預定)    第二場次16:30(預定)。"
     }
   ]
 }

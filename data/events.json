@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-24T03:02:41.408Z",
+  "scrapedAt": "2026-04-24T05:00:52.100Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -54,7 +54,7 @@
       "downloads": [
         {
           "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7218/94df196d710e04da3b2156cb4aba2073"
+          "url": "https://www.kaa.org.tw/download.php?b=active/7218/6b707d8a89e5b6f08f3686371485ef9e"
         }
       ]
     },
@@ -164,7 +164,7 @@
       "downloads": [
         {
           "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7217/4a8e639fc6269d6f99cdd805ce815ea8"
+          "url": "https://www.kaa.org.tw/download.php?b=active/7217/3ce974e6e72b1991580007fc66b0b2a1"
         }
       ]
     },
@@ -252,7 +252,13 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "outing"
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7220/c37d086ee78ec5a7a75df21e6c677210"
+        }
+      ]
     },
     {
       "title": "第二梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
@@ -433,7 +439,8 @@
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7206&t1=1",
       "location": "本會會議室",
       "dates": [
-        "2026-04-23"
+        "2026-04-22",
+        "2026-05-20"
       ],
       "timeInfo": [
         "14:00~17:10"
@@ -504,7 +511,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

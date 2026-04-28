@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-28T01:33:53.103Z",
+  "scrapedAt": "2026-04-28T03:03:20.671Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -343,9 +343,9 @@
       "category": "other"
     },
     {
-      "title": "(預告)建材參訪活動",
+      "title": "鑑定參訪活動-卜大整體衛浴建材參訪",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
-      "location": "台中",
+      "location": "台中、彰化",
       "dates": [
         "2026-06-12"
       ],
@@ -354,10 +354,17 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "俟相關事宜確認後開放報名",
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
-      "category": "outing"
+      "category": "outing",
+      "remarks": "報名時間：即日起至115年5月11日(一)17:00止(額滿則提前截止)",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
+        }
+      ]
     },
     {
       "title": "(預告)法益講座-大會議室",
@@ -526,7 +533,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

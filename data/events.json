@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-04-28T05:06:20.648Z",
+  "scrapedAt": "2026-04-28T06:52:19.244Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -354,7 +354,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -365,6 +365,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
         }
       ]
+    },
+    {
+      "title": "召開「高雄區醫師、律師、會計師、建築師、牙醫 師、中醫師公會-未婚聯誼活動」第三次籌備會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7230&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-06-11"
+      ],
+      "timeInfo": [
+        "12:30~14:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7230",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "(預告)法益講座-大會議室",
@@ -533,7 +550,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -962,29 +979,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "(第三梯次)特富野部落.里加部落ㄧ日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7120&t1=1",
-      "location": "特富野部落.里加部落",
-      "dates": [
-        "2026-01-03"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7120",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7120/dd74560927fb016edaefca4caf237fba"
-        }
-      ]
     }
   ]
 }

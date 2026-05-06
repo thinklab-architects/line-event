@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-06T07:47:39.245Z",
+  "scrapedAt": "2026-05-06T09:46:22.692Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -261,6 +261,23 @@
       ]
     },
     {
+      "title": "「高雄市都市計畫退縮建築與未來展望論壇」",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7233&t1=1",
+      "location": "新創大樓3樓淨零學院-諮詢空間",
+      "dates": [
+        "2026-07-20"
+      ],
+      "timeInfo": [
+        "9:40~16:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7233",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
       "title": "第二梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7189&t1=1",
       "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
@@ -354,7 +371,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -550,7 +567,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -962,23 +979,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
-    },
-    {
-      "title": "第17屆學術委員會第12次會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7082&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2026-01-09"
-      ],
-      "timeInfo": [
-        "下午4點整"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7082",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

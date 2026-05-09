@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-09T15:18:37.712Z",
+  "scrapedAt": "2026-05-09T16:16:36.323Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -371,7 +371,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -567,7 +567,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -578,190 +578,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7186/a299bf3a1a04f36a188c7421429f4edb"
         }
       ]
-    },
-    {
-      "title": "「整體衛浴」設備、材料講習會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7200&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-16"
-      ],
-      "timeInfo": [
-        "下午2:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7200",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7200/be9a9eca54afa0bebd1155e8e4ad16fc"
-        }
-      ]
-    },
-    {
-      "title": "115年度4月份建築工地勞工安全宣導",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7201&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-14"
-      ],
-      "timeInfo": [
-        "14:00~17:00(13:50報到)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7201",
-      "register": "額滿",
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7201/9a02962f5b359c5a794c378a06f652b5"
-        }
-      ]
-    },
-    {
-      "title": "「115年度高雄市建築物公共安全檢查簽證及申報案件委外辦理抽複查工作」工作計畫說明會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7205&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-08"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7205",
-      "register": "115年度公安複查成員",
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7205/527edc715abb59eb7fb2f57bd3d09f2f"
-        }
-      ]
-    },
-    {
-      "title": "清明節補假",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7209&t1=1",
-      "location": null,
-      "dates": [
-        "2026-04-06"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7209",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "兒童節補假",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7208&t1=1",
-      "location": null,
-      "dates": [
-        "2026-04-03"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7208",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "油畫會靜物寫生活動",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7188&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-03-28"
-      ],
-      "timeInfo": [
-        "上午10：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7188",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "(大會議室)資深會員及新進會員座談",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7160&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2026-03-24"
-      ],
-      "timeInfo": [
-        "下午3:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7160",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
-    },
-    {
-      "title": "2026城市工程品質金質獎啟動儀式(拜會副市長)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7187&t1=1",
-      "location": "市府四維行政中心 三樓貴賓室",
-      "dates": [
-        "2026-03-24"
-      ],
-      "timeInfo": [
-        "上午10：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7187",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "建築師公益諮詢活動(美濃菸仕物所)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7134&t1=1",
-      "location": "美濃菸仕物所",
-      "dates": [
-        "2026-03-21"
-      ],
-      "timeInfo": [
-        "上午10:00-12:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7134",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "建築師公益諮詢活動(美濃菸仕物所)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7133&t1=1",
-      "location": "美濃菸仕物所",
-      "dates": [
-        "2026-03-20"
-      ],
-      "timeInfo": [
-        "下午2:00-4:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7133",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     },
     {
       "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
@@ -975,7 +791,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7095",
-      "register": null,
+      "register": "歡迎直接到場聆聽",
       "registerUrl": null,
       "extras": [],
       "category": "workshop"

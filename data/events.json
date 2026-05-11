@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-11T07:07:58.022Z",
+  "scrapedAt": "2026-05-11T09:05:34.366Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -371,7 +371,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -416,6 +416,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "測試報名",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7235&t1=1",
+      "location": "公會大會議室",
+      "dates": [
+        "2026-05-25"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7235",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7235&t=active",
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "辦理公會網站更新案委任評選",
@@ -567,7 +584,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -962,23 +979,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "115大東講堂「神話.故事.小說」(本場次無積分)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7095&t1=1",
-      "location": "大東藝術圖書館 演講廳",
-      "dates": [
-        "2026-01-10"
-      ],
-      "timeInfo": [
-        "下午2：00-5：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7095",
-      "register": "歡迎直接到場聆聽",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     }
   ]
 }

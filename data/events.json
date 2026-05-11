@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-11T09:05:34.366Z",
+  "scrapedAt": "2026-05-11T11:02:47.099Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -371,7 +371,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -401,6 +401,40 @@
       "category": "meeting"
     },
     {
+      "title": "115年教育局委託施工輔導暨教育訓練專業服務勞務案教育訓練課程(二)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7236&t1=1",
+      "location": "高雄市政府鳳山行政中心後棟一樓階梯教室",
+      "dates": [
+        "2026-06-08"
+      ],
+      "timeInfo": [
+        "13:30~17:10"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7236",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7236&t=active",
+      "extras": [],
+      "category": "workshop"
+    },
+    {
+      "title": "115年教育局委託施工輔導暨教育訓練專業服務勞務案教育訓練課程(一)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7235&t1=1",
+      "location": "高雄市政府鳳山行政中心後棟一樓階梯教室",
+      "dates": [
+        "2026-06-04"
+      ],
+      "timeInfo": [
+        "13:10~17:10"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7235",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7235&t=active",
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "(預告)法益講座-大會議室",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7221&t1=1",
       "location": "本會大會議室",
@@ -416,23 +450,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
-    },
-    {
-      "title": "測試報名",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7235&t1=1",
-      "location": "公會大會議室",
-      "dates": [
-        "2026-05-25"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7235",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7235&t=active",
-      "extras": [],
-      "category": "other"
     },
     {
       "title": "辦理公會網站更新案委任評選",
@@ -584,7 +601,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -962,23 +979,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7146/52e9c3388be68c3335aa8597aa3d8a42"
         }
       ]
-    },
-    {
-      "title": "南部五縣市理監事聯誼會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7093&t1=1",
-      "location": "漢神飯店巨蛋會館9樓金冠廳",
-      "dates": [
-        "2026-01-14"
-      ],
-      "timeInfo": [
-        "下午4:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7093",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

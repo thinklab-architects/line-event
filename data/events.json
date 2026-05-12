@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-12T07:57:14.513Z",
+  "scrapedAt": "2026-05-12T09:04:00.396Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -326,6 +326,23 @@
       ]
     },
     {
+      "title": "預告:建築結構講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7238&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-07-09"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7238",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
       "location": "高雄市立圖書館 湖內分館",
@@ -371,7 +388,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -601,7 +618,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -953,30 +970,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7115/06f8b09f799224a5ab6953b9bbb8dc73"
-        }
-      ]
-    },
-    {
-      "title": "(第二次索票)115年2月7日電影欣賞會活動-”南方時光”",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7146&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2026-01-16"
-      ],
-      "timeInfo": [
-        "下午15:30(預定)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7146",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "(1)115年1月19日(一)於本會網站公告索票成功名單及張數。\n(2)115年2月4日(三)於本會網站公告放映的時間、廳別及相關注意事項。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7146/52e9c3388be68c3335aa8597aa3d8a42"
         }
       ]
     }

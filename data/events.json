@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-13T08:05:01.061Z",
+  "scrapedAt": "2026-05-13T09:53:59.623Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -237,6 +237,23 @@
       "category": "workshop"
     },
     {
+      "title": "(預告)法益講座-大會議室",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7242&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-08-04"
+      ],
+      "timeInfo": [
+        "14:00~17:10"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7242",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "第三梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7220&t1=1",
       "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
@@ -388,7 +405,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -642,7 +659,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -941,38 +958,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "115年度國外旅遊-古文明埃及10日",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7062&t1=1",
-      "location": "埃及",
-      "dates": [
-        "2026-01-18",
-        "2026-01-19",
-        "2026-01-20",
-        "2026-01-21",
-        "2026-01-22",
-        "2026-01-23",
-        "2026-01-24",
-        "2026-01-25",
-        "2026-01-26",
-        "2026-01-27"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7062",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7062/1621c167b053ac4aace09506c2f1fa39"
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-13T01:35:38.548Z",
+  "scrapedAt": "2026-05-13T03:03:50.058Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -388,7 +388,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -452,21 +452,27 @@
       "category": "workshop"
     },
     {
-      "title": "(預告)法益講座-大會議室",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7221&t1=1",
+      "title": "法益講座-「機水電施工品質及實務管理」",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7241&t1=1",
       "location": "本會大會議室",
       "dates": [
         "2026-06-03"
       ],
       "timeInfo": [
-        "下午1:30-4:30"
+        "14:00~17:10"
       ],
       "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7221",
-      "register": null,
-      "registerUrl": null,
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7241",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7241&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7241/b72759b5b623312a3fe2022883c53db2"
+        }
+      ]
     },
     {
       "title": "辦理公會網站更新案委任評選",
@@ -527,7 +533,7 @@
       ]
     },
     {
-      "title": "(第二次索票)電影欣賞會活動：＂讓建築歌唱～許亞英的交響人生＂",
+      "title": "\"已額滿\"(第二次索票)電影欣賞會活動：＂讓建築歌唱～許亞英的交響人生＂",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7240&t1=1",
       "location": "高雄大遠百威秀影城",
       "dates": [
@@ -539,8 +545,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7240",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7240&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie"
     },
@@ -636,7 +642,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

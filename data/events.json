@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-13T00:30:51.260Z",
+  "scrapedAt": "2026-05-13T01:35:38.548Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -388,7 +388,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -527,6 +527,24 @@
       ]
     },
     {
+      "title": "(第二次索票)電影欣賞會活動：＂讓建築歌唱～許亞英的交響人生＂",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7240&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-05-13"
+      ],
+      "timeInfo": [
+        "下午2:00~",
+        "5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7240",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7240&t=active",
+      "extras": [],
+      "category": "movie"
+    },
+    {
       "title": "勞動節休假(依政府規定放假一天)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7229&t1=1",
       "location": "公會",
@@ -618,7 +636,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -947,29 +965,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7062/1621c167b053ac4aace09506c2f1fa39"
-        }
-      ]
-    },
-    {
-      "title": "「探訪台南落雨松秘境」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7115&t1=1",
-      "location": "台南",
-      "dates": [
-        "2026-01-17"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7115",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7115/06f8b09f799224a5ab6953b9bbb8dc73"
         }
       ]
     }

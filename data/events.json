@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-14T01:37:33.649Z",
+  "scrapedAt": "2026-05-14T03:03:58.569Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -35,9 +35,33 @@
       "category": "other"
     },
     {
-      "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊",
+      "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊(第二梯次)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7243&t1=1",
+      "location": "南投武界",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7243",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7243/52cfc36b9cb9367f1ce3a19fee3d4b69"
+        }
+      ]
+    },
+    {
+      "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊(第一梯次)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7218&t1=1",
-      "location": "武界",
+      "location": "南投武界",
       "dates": [
         "2026-11-14",
         "2026-11-15"
@@ -74,6 +98,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "活動預告：慶祝第５５屆建築師節公益系列活動-登山健行",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7244&t1=1",
+      "location": "高雄果嶺自然公園",
+      "dates": [
+        "2026-11-07"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7244",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
@@ -405,7 +446,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -659,7 +700,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -917,47 +958,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "電影欣賞會活動-”南方時光”",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7118&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2026-02-07"
-      ],
-      "timeInfo": [
-        "下午15:30(預定)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7118",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "登記索票時間：自114年12月26日(五)上午9時至115年1月9日(五)下午5時止（索完為止）。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
-        }
-      ]
-    },
-    {
-      "title": "「高雄市建築物施工指定勘驗作業」業務說明會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7147&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-01-29"
-      ],
-      "timeInfo": [
-        "下午2:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7147",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

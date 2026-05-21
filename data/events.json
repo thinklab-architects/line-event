@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-05-21T07:14:04.661Z",
+  "scrapedAt": "2026-05-21T09:05:15.553Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -336,6 +336,23 @@
       ]
     },
     {
+      "title": "2026高雄市政府教育局  工程管理教育宣導課程(二)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7236&t1=1",
+      "location": "高雄市住宅及都市更新中心 (高雄市鹽埕區中正四路274號6樓)",
+      "dates": [
+        "2026-07-21"
+      ],
+      "timeInfo": [
+        "13:30~17:10"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7236",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7236&t=active",
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "「高雄市都市計畫退縮建築與未來展望論壇」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7233&t1=1",
       "location": "新創大樓3樓淨零學院-諮詢空間",
@@ -480,7 +497,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -508,40 +525,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "115年教育局委託施工輔導暨教育訓練專業服務勞務案教育訓練課程(二)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7236&t1=1",
-      "location": "高雄市政府鳳山行政中心後棟一樓階梯教室",
-      "dates": [
-        "2026-06-08"
-      ],
-      "timeInfo": [
-        "13:30~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7236",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7236&t=active",
-      "extras": [],
-      "category": "workshop"
-    },
-    {
-      "title": "115年教育局委託施工輔導暨教育訓練專業服務勞務案教育訓練課程(一)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7235&t1=1",
-      "location": "高雄市政府鳳山行政中心後棟一樓階梯教室",
-      "dates": [
-        "2026-06-04"
-      ],
-      "timeInfo": [
-        "13:10~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7235",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7235&t=active",
-      "extras": [],
-      "category": "workshop"
     },
     {
       "title": "法益講座-「機水電施工品質及實務管理」",
@@ -734,7 +717,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -950,6 +933,29 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7117/bcf52d0729a5ce186643abfebc627ee3"
+        }
+      ]
+    },
+    {
+      "title": "(第一梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7116&t1=1",
+      "location": "雲林",
+      "dates": [
+        "2026-03-14"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7116",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7116/41e261cf7de18dc6383210ef976a6fe4"
         }
       ]
     }

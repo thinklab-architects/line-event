@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-06-09T01:36:03.876Z",
+  "scrapedAt": "2026-06-09T03:04:20.699Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -367,6 +367,23 @@
       "category": "workshop"
     },
     {
+      "title": "（預告）電影欣賞會活動-片名：”盜音天才”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7252&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-07-05"
+      ],
+      "timeInfo": [
+        "下午13:30(暫定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7252",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
+    },
+    {
       "title": "(大會議室)社團-綠手指聯盟",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7245&t1=1",
       "location": "本會會議室",
@@ -429,7 +446,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -666,7 +683,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -948,23 +965,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7118/f8d6355e639b239a614854ef89134569"
         }
       ]
-    },
-    {
-      "title": "「高雄市建築物施工指定勘驗作業」業務說明會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7147&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-01-29"
-      ],
-      "timeInfo": [
-        "下午2:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7147",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-06-11T05:32:55.079Z",
+  "scrapedAt": "2026-06-11T07:36:40.544Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -350,21 +350,27 @@
       ]
     },
     {
-      "title": "預告:建築結構講習",
+      "title": "建築結構講習-太陽能光電結構/耐震初步評估及階段性補強",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7238&t1=1",
       "location": "本會大會議室",
       "dates": [
         "2026-07-09"
       ],
       "timeInfo": [
-        "14:00~17:00"
+        "14:00~17:30"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7238",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7238&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7238/e8a1258071437e7d2e956dc14ffd513a"
+        }
+      ]
     },
     {
       "title": "(第一次索票)電影欣賞會活動-片名：”盜音天才”",
@@ -465,7 +471,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -702,7 +708,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

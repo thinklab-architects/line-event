@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-06-18T09:28:46.880Z",
+  "scrapedAt": "2026-06-18T11:21:54.613Z",
   "events": [
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -431,6 +431,24 @@
       "remarks": "登記索票時間：自115年6月11日(四)上午10:00至115年6月18日(四)下午5:00止（索完為止）。"
     },
     {
+      "title": "(第二次索票)電影欣賞會活動-片名：”盜音天才”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7262&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-07-05"
+      ],
+      "timeInfo": [
+        "下午13:30(暫定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7262",
+      "register": "115年6月23日(二)上午9:00，開放會員線上第二次索票",
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "若有賸餘電影票，將於115年6月23日(二)上午9:00，再次開放會員線上第二次索票(首頁→最新活動→本會活動)，每位會員最多可再索票2張(索完為止）"
+    },
+    {
       "title": "(大會議室)社團-綠手指聯盟",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7245&t1=1",
       "location": "本會會議室",
@@ -511,7 +529,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -748,7 +766,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -943,29 +961,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "(第二梯次)「雲林古坑慈心農場五感體驗&三秀園歷史風華」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7117&t1=1",
-      "location": "雲林",
-      "dates": [
-        "2026-03-15"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7117",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7117/bcf52d0729a5ce186643abfebc627ee3"
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-06-23T03:03:50.460Z",
+  "scrapedAt": "2026-06-23T05:19:29.240Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -225,6 +225,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7217/3ce974e6e72b1991580007fc66b0b2a1"
         }
       ]
+    },
+    {
+      "title": "(暫定)新進資深座談會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7272&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-09-16"
+      ],
+      "timeInfo": [
+        "下午3:30~5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7272",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
@@ -580,7 +597,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -817,7 +834,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -938,23 +955,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "2026城市工程品質金質獎啟動儀式(拜會副市長)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7187&t1=1",
-      "location": "市府四維行政中心 三樓貴賓室",
-      "dates": [
-        "2026-03-24"
-      ],
-      "timeInfo": [
-        "上午10：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7187",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-06-24T07:08:37.019Z",
+  "scrapedAt": "2026-06-24T09:03:46.164Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -293,6 +293,29 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "法益講座-「高雄市立圖書館總館及共構文創會館BOT工程之特殊結構行為與施工過程分享」",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7279&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-08-19"
+      ],
+      "timeInfo": [
+        "14:00~17:10"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7279",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7279&t=active",
+      "extras": [],
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7279/256276d06049c9a7cccb8d531869ef30"
+        }
+      ]
     },
     {
       "title": "「建築線送審與臨接狀況18例設計解方分享」",
@@ -597,7 +620,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -834,7 +857,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -938,23 +961,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "(大會議室)資深會員及新進會員座談",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7160&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2026-03-24"
-      ],
-      "timeInfo": [
-        "下午3:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7160",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

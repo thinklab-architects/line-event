@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-06-29T00:35:23.793Z",
+  "scrapedAt": "2026-06-29T01:43:00.527Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -544,8 +544,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7262",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7262&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie",
       "remarks": "若有賸餘電影票，將於115年6月23日(二)上午9:00，再次開放會員線上第二次索票(首頁→最新活動→本會活動)，每位會員最多可再索票2張(索完為止）"
@@ -648,7 +648,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -885,7 +885,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
+      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

@@ -1,189 +1,7 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-02T01:40:05.805Z",
+  "scrapedAt": "2026-07-02T03:03:48.351Z",
   "events": [
-    {
-      "title": "(預定)新進資深座談",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7271&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-12-23"
-      ],
-      "timeInfo": [
-        "下午3:30~5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7271",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
-    },
-    {
-      "title": "115年度社團法人高雄市建築師公會聯歡晚會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7210&t1=1",
-      "location": "漢來巨蛋會館9樓龍鳳凰廳",
-      "dates": [
-        "2026-12-17"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7210",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "2026文化月",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7195&t1=1",
-      "location": "暫定",
-      "dates": [
-        "2026-12-05"
-      ],
-      "timeInfo": [
-        "上午8:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7195",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊(第二梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7243&t1=1",
-      "location": "南投武界",
-      "dates": [
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7243",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7243/52cfc36b9cb9367f1ce3a19fee3d4b69"
-        }
-      ]
-    },
-    {
-      "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊(第一梯次)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7218&t1=1",
-      "location": "南投武界",
-      "dates": [
-        "2026-11-14",
-        "2026-11-15"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7218",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7218/6b707d8a89e5b6f08f3686371485ef9e"
-        }
-      ]
-    },
-    {
-      "title": "活動預告：慶祝第５５屆建築師節公益系列活動-登山健行",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7244&t1=1",
-      "location": "高雄果嶺自然公園",
-      "dates": [
-        "2026-11-07"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7244",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "(預定)法益講座-大會議室",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7250&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-11-03"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7250",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
-      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7140&t1=1",
-      "location": "高雄市立圖書館 小港分館",
-      "dates": [
-        "2026-10-31"
-      ],
-      "timeInfo": [
-        "上午9:30-12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7140",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "建築師公益諮詢活動(高雄市立圖書館 小港分館)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7139&t1=1",
-      "location": "高雄市立圖書館 小港分館",
-      "dates": [
-        "2026-10-30"
-      ],
-      "timeInfo": [
-        "下午2:00-4:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7139",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "暫列金質獎頒獎典禮",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7163&t1=1",
-      "location": "漢來巨蛋會館9樓龍鳳凰廳",
-      "dates": [
-        "2026-09-30"
-      ],
-      "timeInfo": [
-        "全日"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7163",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
     {
       "title": "(預定)法益講座-「工程實務及常見缺失(含水電工程)」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7270&t1=1",
@@ -520,7 +338,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7238",
-      "register": "線上報名",
+      "register": "報名",
       "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7238&t=active",
       "extras": [],
       "category": "workshop",
@@ -665,7 +483,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -902,7 +720,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -949,7 +767,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7205",
-      "register": "115年度公安複查成員",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "other",

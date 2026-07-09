@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-09T00:28:50.678Z",
+  "scrapedAt": "2026-07-09T01:33:30.378Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -276,6 +276,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "暫定資訊委員會講座",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7287&t1=1",
+      "location": "公會大會議室",
+      "dates": [
+        "2026-08-25"
+      ],
+      "timeInfo": [
+        "下午2:00-5:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7287",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "8/20 KAA × AI設計工作流實戰專班",
@@ -665,7 +682,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -902,7 +919,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -934,29 +951,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7200/be9a9eca54afa0bebd1155e8e4ad16fc"
-        }
-      ]
-    },
-    {
-      "title": "「115年度高雄市建築物公共安全檢查簽證及申報案件委外辦理抽複查工作」工作計畫說明會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7205&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-08"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7205",
-      "register": "115年度公安複查成員",
-      "registerUrl": null,
-      "extras": [],
-      "category": "other",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7205/527edc715abb59eb7fb2f57bd3d09f2f"
         }
       ]
     }

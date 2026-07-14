@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-14T00:22:34.415Z",
+  "scrapedAt": "2026-07-14T01:32:16.985Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -295,19 +295,22 @@
       "category": "workshop"
     },
     {
-      "title": "8/20 KAA × AI設計工作流實戰專班(因人數關係場地會調整)",
+      "title": "8/20 KAA × AI設計工作流實戰專班(因人數關係場地有調整)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7281&t1=1",
-      "location": "暫定 公會大會議室",
+      "location": "高雄市前鎮區中山二路 2 號 13 樓之 7",
       "dates": [
         "2026-08-20"
       ],
-      "timeInfo": [],
+      "timeInfo": [
+        "9:30–12:00"
+      ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7281",
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other"
+      "category": "other",
+      "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
     },
     {
       "title": "(預告)法益講座-大會議室",
@@ -373,19 +376,22 @@
       ]
     },
     {
-      "title": "8/6 KAA × AI設計工作流實戰專班(因人數關係場地會調整)",
+      "title": "8/6 KAA × AI設計工作流實戰專班(因人數關係場地有調整)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7280&t1=1",
-      "location": "暫定 公會大會議室",
+      "location": "高雄市前鎮區中山二路 2 號13 樓之 7",
       "dates": [
         "2026-08-06"
       ],
-      "timeInfo": [],
+      "timeInfo": [
+        "9:30–12:00"
+      ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7280",
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "other"
+      "category": "other",
+      "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
     },
     {
       "title": "法益講座-「專案管理研習課程」",
@@ -459,19 +465,22 @@
       ]
     },
     {
-      "title": "7/23 AI × BIM 課程 AI設計工作流應用專課(因人數關係場地會調整)",
+      "title": "7/23 AI × BIM 課程 AI設計工作流應用專課(因人數關係場地有調整)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7273&t1=1",
-      "location": "暫定 公會大會議室",
+      "location": "高雄市前鎮區中山二路 2 號12 樓之 7",
       "dates": [
         "2026-07-23"
       ],
-      "timeInfo": [],
+      "timeInfo": [
+        "9:30–12:00"
+      ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7273",
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
     },
     {
       "title": "「高雄市都市計畫退縮建築與未來展望論壇」",
@@ -688,7 +697,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -925,7 +934,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

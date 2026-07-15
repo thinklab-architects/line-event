@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-15T03:00:40.006Z",
+  "scrapedAt": "2026-07-15T04:59:08.383Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -185,6 +185,23 @@
       "category": "other"
     },
     {
+      "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(三)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7291&t1=1",
+      "location": "高雄市住宅及都市更新中心(暫訂)",
+      "dates": [
+        "2026-09-29"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7291",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "(預定)法益講座-「工程實務及常見缺失(含水電工程)」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7270&t1=1",
       "location": "本會大會議室",
@@ -276,6 +293,40 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(二)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7290&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-09-08"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
+      "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(一)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7289&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-09-02"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "暫定資訊委員會講座",
@@ -697,7 +748,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -897,77 +948,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "(第二梯次)「甲仙探訪& 那瑪夏賞螢趣」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7203&t1=1",
-      "location": "那瑪夏+甲仙",
-      "dates": [
-        "2026-04-19"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7203",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7203/0b10ae9e803ac82dc94788e5396abefa"
-        }
-      ]
-    },
-    {
-      "title": "(第一梯次)「甲仙探訪& 那瑪夏賞螢趣」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7186&t1=1",
-      "location": "甲仙＋那瑪夏",
-      "dates": [
-        "2026-04-18"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7186",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7186/a299bf3a1a04f36a188c7421429f4edb"
-        }
-      ]
-    },
-    {
-      "title": "「整體衛浴」設備、材料講習會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7200&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-16"
-      ],
-      "timeInfo": [
-        "下午2:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7200",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7200/be9a9eca54afa0bebd1155e8e4ad16fc"
-        }
-      ]
     }
   ]
 }

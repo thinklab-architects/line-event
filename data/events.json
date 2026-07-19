@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-19T07:42:09.119Z",
+  "scrapedAt": "2026-07-19T08:46:03.340Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -748,7 +748,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

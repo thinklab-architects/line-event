@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-23T09:47:17.618Z",
+  "scrapedAt": "2026-07-23T10:43:35.024Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -76,7 +76,8 @@
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7295/158052def6ec58eae66c08ac97227df3"
         }
-      ]
+      ],
+      "remarks": "報名日期: 自115年7月28日(二)上午9:00起至115年8月4日(二)下午5:00止。"
     },
     {
       "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊(第二梯次)",
@@ -142,6 +143,29 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "「高雄果嶺自然公園及澄清湖風景區」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7296&t1=1",
+      "location": "高雄果嶺自然公園及澄清湖風景區",
+      "dates": [
+        "2026-11-07"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7296",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7296/2ba090f536be0c904b6955e7cee67c23"
+        }
+      ]
     },
     {
       "title": "(預定)法益講座-大會議室",
@@ -758,7 +782,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -941,23 +965,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7206/dcb6c95c898d249985eb4369d42c97e3"
         }
       ]
-    },
-    {
-      "title": "「115年度綠建築設計查核業務」工作說明會",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7211&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-04-21"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7211",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

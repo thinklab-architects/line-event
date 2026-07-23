@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-23T05:02:56.335Z",
+  "scrapedAt": "2026-07-23T06:48:34.496Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -362,23 +362,6 @@
       "extras": [],
       "category": "other",
       "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
-    },
-    {
-      "title": "(預告)法益講座-大會議室",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7246&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-08-19"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7246",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     },
     {
       "title": "法益講座-「高雄市立圖書館總館及共構文創會館BOT工程之特殊結構行為與施工過程分享」",
@@ -748,7 +731,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -948,6 +931,30 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "(第二梯次)「甲仙探訪& 那瑪夏賞螢趣」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7203&t1=1",
+      "location": "那瑪夏+甲仙",
+      "dates": [
+        "2026-04-19"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7203",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "報名日期：115年3月2日(一)上午9:00~115年3月12日(四)下午5時止，如提前滿額，依報名繳費先後順序，列為後補名額。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7203/0b10ae9e803ac82dc94788e5396abefa"
+        }
+      ]
     }
   ]
 }

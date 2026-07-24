@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-24T01:33:10.286Z",
+  "scrapedAt": "2026-07-24T03:01:17.511Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -374,23 +374,6 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
-      "title": "暫定資訊委員會講座",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7287&t1=1",
-      "location": "公會大會議室",
-      "dates": [
-        "2026-08-25"
-      ],
-      "timeInfo": [
-        "下午2:00-5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7287",
       "register": null,
       "registerUrl": null,
       "extras": [],
@@ -782,7 +765,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -965,6 +948,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7206/dcb6c95c898d249985eb4369d42c97e3"
         }
       ]
+    },
+    {
+      "title": "「115年度綠建築設計查核業務」工作說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7211&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-04-21"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7211",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     }
   ]
 }

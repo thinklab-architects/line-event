@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-27T09:04:34.762Z",
+  "scrapedAt": "2026-07-27T11:02:43.077Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -217,6 +217,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "(暫訂)2026無障礙講習課程(三)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7300&t1=1",
+      "location": "高雄市住宅及都市更新中心(暫訂)",
+      "dates": [
+        "2026-10-27"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7300",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "(暫訂)2026無障礙講習課程(二)",
@@ -800,7 +817,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -944,21 +961,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "movie"
-    },
-    {
-      "title": "勞動節休假(依政府規定放假一天)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7229&t1=1",
-      "location": "公會",
-      "dates": [
-        "2026-05-01"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7229",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

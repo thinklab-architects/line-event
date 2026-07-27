@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-27T00:27:07.089Z",
+  "scrapedAt": "2026-07-27T01:33:36.272Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -514,9 +514,10 @@
       "downloads": [
         {
           "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7259/0c9cc071f7fda1a2c02616ecdd15e48e"
+          "url": "https://www.kaa.org.tw/download.php?b=active/7259/5842819c39b90dfde30d49c2c1f84d16"
         }
-      ]
+      ],
+      "remarks": "報名人員名單請點開下方連結即可閱覽，如有任何疑問，歡迎來電洽詢，謝謝。"
     },
     {
       "title": "第三梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
@@ -799,7 +800,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

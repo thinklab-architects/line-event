@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-07-29T05:02:49.196Z",
+  "scrapedAt": "2026-07-29T06:52:11.312Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -264,6 +264,23 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7297",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
+      "title": "(暫定)法益講座-方會計師",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7301&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-10-01"
+      ],
+      "timeInfo": [
+        "14:30~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7301",
       "register": null,
       "registerUrl": null,
       "extras": [],
@@ -817,7 +834,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -943,24 +960,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7227/fe98809e7bc1628cd787b93728c7be64"
         }
       ]
-    },
-    {
-      "title": "\"已額滿\"(第二次索票)電影欣賞會活動：＂讓建築歌唱～許亞英的交響人生＂",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7240&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2026-05-13"
-      ],
-      "timeInfo": [
-        "下午2:00~",
-        "5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7240",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie"
     }
   ]
 }

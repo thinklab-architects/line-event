@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-03T00:26:53.418Z",
+  "scrapedAt": "2026-08-03T01:33:28.005Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -548,7 +548,7 @@
       "downloads": [
         {
           "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7259/5842819c39b90dfde30d49c2c1f84d16"
+          "url": "https://www.kaa.org.tw/download.php?b=active/7259/39456a0d152afeefe9e216bc9af6aa93"
         }
       ],
       "remarks": "報名人員名單請點開下方連結即可閱覽，如有任何疑問，歡迎來電洽詢，謝謝。"
@@ -834,7 +834,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

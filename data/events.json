@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-03T03:01:50.729Z",
+  "scrapedAt": "2026-08-03T05:11:19.613Z",
   "events": [
     {
       "title": "(預定)新進資深座談",
@@ -30,6 +30,24 @@
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7210",
       "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "(預知)115年全國會建材展",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7304&t1=1",
+      "location": "台北",
+      "dates": [
+        "2026-12-11",
+        "2026-12-12"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7304",
+      "register": "俟相關事宜確認後開放報名",
       "registerUrl": null,
       "extras": [],
       "category": "other"
@@ -834,7 +852,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -937,29 +955,6 @@
       "extras": [],
       "category": "movie",
       "remarks": "登記索票時間：自115年4月28日(二)上午9時至115年5月11日(一)下午5時止（索完為止）。"
-    },
-    {
-      "title": "法益講座-監造單位施工抽查重點及常見缺失",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7227&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2026-05-20"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7227",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7227/fe98809e7bc1628cd787b93728c7be64"
-        }
-      ]
     }
   ]
 }

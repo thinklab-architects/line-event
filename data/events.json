@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-11T03:27:27.686Z",
+  "scrapedAt": "2026-08-11T04:59:14.279Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -391,6 +391,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "9/29新進資深座談會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7310&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-09-23"
+      ],
+      "timeInfo": [
+        "下午3：30~5：00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7310",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7310&t=active",
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "國內旅遊-「觀音瀑布+阿里山+特富野古道」二日遊",
@@ -889,7 +906,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -934,29 +951,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "法益講座-「機水電施工品質及實務管理」",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7241&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-06-03"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7241",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7241/b72759b5b623312a3fe2022883c53db2"
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-13T09:54:52.472Z",
+  "scrapedAt": "2026-08-13T10:54:33.666Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -204,6 +204,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7296/2ba090f536be0c904b6955e7cee67c23"
         }
       ]
+    },
+    {
+      "title": "(暫訂)「高雄厝與建造申請」講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7311&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-11-04"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "(預定)法益講座-大會議室",
@@ -849,7 +866,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -934,24 +951,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "電影欣賞會活動：＂讓建築歌唱～許亞英的交響人生＂",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7219&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2026-05-23"
-      ],
-      "timeInfo": [
-        "下午14:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7219",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "登記索票時間：自115年4月28日(二)上午9時至115年5月11日(一)下午5時止（索完為止）。"
     }
   ]
 }

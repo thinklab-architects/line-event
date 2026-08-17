@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-17T03:41:43.037Z",
+  "scrapedAt": "2026-08-17T04:32:37.448Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "title": "(暫訂)法規講習",
+      "title": "(暫訂)「重型木構造的法規限制與展望」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7312&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -449,7 +449,8 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "workshop"
+      "category": "other",
+      "remarks": "臺灣木構造法規的限制與展望\n臺灣科技大學 蔡孟廷 教授\n\n全球木構造的發展趨勢與案例\nKLH 亞太區總監 Thomas Grossteiner"
     },
     {
       "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
@@ -883,7 +884,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

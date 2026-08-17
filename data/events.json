@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-17T05:27:53.597Z",
+  "scrapedAt": "2026-08-17T06:36:23.283Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -361,7 +361,7 @@
     {
       "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(三)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7291&t1=1",
-      "location": "高雄市住宅及都市更新中心(暫訂)",
+      "location": "高雄市住宅及都市更新中心",
       "dates": [
         "2026-09-29"
       ],
@@ -370,10 +370,11 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7291",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7291&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "remarks": "本會會員、相關從業人員，上限共120名。"
     },
     {
       "title": "新進資深座談會",
@@ -498,10 +499,17 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7290&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "remarks": "本場(9/8)講習，本會會員優先報名，相關從業人員後補，每場上限各50名。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7290/d0071b63db89c0ef9823db4ee96b3201"
+        }
+      ]
     },
     {
       "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(一)",
@@ -515,10 +523,17 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7289&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "remarks": "本場(9/2)講習，本會會員優先報名，相關從業人員後補，每場上限各50名。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7289/e472564a5d47376019de36d98695e063"
+        }
+      ]
     },
     {
       "title": "8/20 KAA × AI設計工作流實戰專班(因人數關係場地有調整)",
@@ -884,7 +899,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

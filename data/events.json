@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-17T00:45:02.883Z",
+  "scrapedAt": "2026-08-17T02:14:51.634Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -435,6 +435,23 @@
       ]
     },
     {
+      "title": "(暫訂)法規講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7312&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-09-16"
+      ],
+      "timeInfo": [
+        "14:30~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7312",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "建築師公益諮詢活動(高雄市立圖書館 楠仔坑分館)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7138&t1=1",
       "location": "高雄市立圖書館 楠仔坑分館",
@@ -866,7 +883,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -934,23 +951,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7241/b72759b5b623312a3fe2022883c53db2"
         }
       ]
-    },
-    {
-      "title": "辦理公會網站更新案委任評選",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7214&t1=1",
-      "location": "公會大會議室",
-      "dates": [
-        "2026-05-23"
-      ],
-      "timeInfo": [
-        "上午9:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7214",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

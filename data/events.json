@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-25T02:13:58.236Z",
+  "scrapedAt": "2026-08-25T03:40:57.712Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -342,7 +342,7 @@
       "category": "workshop"
     },
     {
-      "title": "暫列金質獎頒獎典禮",
+      "title": "金質獎頒獎典禮 (暫停會務.委審業務.調案一日)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7163&t1=1",
       "location": "漢來巨蛋會館9樓龍鳳凰廳",
       "dates": [
@@ -876,7 +876,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

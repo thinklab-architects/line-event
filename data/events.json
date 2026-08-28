@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-08-27T23:24:23.699Z",
+  "scrapedAt": "2026-08-28T08:11:42.981Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -522,7 +522,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -546,7 +546,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -899,7 +899,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

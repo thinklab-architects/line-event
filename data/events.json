@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-01T00:15:04.540Z",
+  "scrapedAt": "2026-09-01T05:54:42.501Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -377,7 +377,7 @@
       "category": "workshop"
     },
     {
-      "title": "(暫定)法益講座-方會計師",
+      "title": "建築師財富藍圖：執業節稅與不動產傳承-方怡璇會計師",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7301&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -388,10 +388,17 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7301",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7301&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "other",
+      "remarks": "1.本講座無積分\n2.本講座開放事務所會計人員參與\n3.參加人數：60名(額滿為止)",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7301/b82416c7859d00a0d7bf5f6aca62e0f7"
+        }
+      ]
     },
     {
       "title": "金質獎頒獎典禮 (暫停會務.委審業務.調案一日)",
@@ -452,7 +459,7 @@
       ]
     },
     {
-      "title": "(預定)法益講座-「工程實務及常見缺失(含水電工程)」",
+      "title": "法益講座-「工程實務及常見缺失(含水電工程)」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7270&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -463,10 +470,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7270",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7270&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7270/16e2a6c6eacb2f618696057deaed14b9"
+        }
+      ]
     },
     {
       "title": "國內旅遊-「觀音瀑布+阿里山+特富野古道」二日遊",
@@ -557,7 +570,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -581,7 +594,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -934,7 +947,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

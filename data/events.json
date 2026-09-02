@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-02T00:42:36.726Z",
+  "scrapedAt": "2026-09-02T05:17:36.125Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -325,7 +325,7 @@
       "category": "workshop"
     },
     {
-      "title": "預告活動：電影欣賞會活動-”挖掘者”",
+      "title": "電影欣賞會活動-”挖掘者”",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7318&t1=1",
       "location": "高雄大遠百威秀影城",
       "dates": [
@@ -340,7 +340,14 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "movie"
+      "category": "movie",
+      "remarks": "登記索票時間：自115年9月9日(三)上午9:00至115年9月18日(五)下午5:00止（索完為止）。",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7318/58df27e2df605a70665894abca503ec0"
+        }
+      ]
     },
     {
       "title": "(暫訂)2026無障礙講習課程(一)",
@@ -570,7 +577,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -594,7 +601,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -947,7 +954,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

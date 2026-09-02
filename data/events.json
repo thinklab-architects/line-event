@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-02T05:17:36.125Z",
+  "scrapedAt": "2026-09-02T10:16:43.946Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -71,46 +71,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "「高雄果嶺自然公園及澄清湖風景區」一日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7296&t1=1",
-      "location": "高雄果嶺自然公園及澄清湖風景區",
-      "dates": [
-        "2026-12-06"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7296",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7296/2ba090f536be0c904b6955e7cee67c23"
-        }
-      ]
-    },
-    {
-      "title": "115年度建築師節全國建築師公益登山健行大會師",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7317&t1=1",
-      "location": "澄清湖風景區及高雄果嶺自然公園(高雄市鳥松區大埤路32號)",
-      "dates": [
-        "2026-12-06"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7317",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     },
     {
       "title": "2026文化月",
@@ -306,6 +266,46 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "「高雄果嶺自然公園及澄清湖風景區」一日遊",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7296&t1=1",
+      "location": "高雄果嶺自然公園及澄清湖風景區",
+      "dates": [
+        "2026-10-26"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7296",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7296/2ba090f536be0c904b6955e7cee67c23"
+        }
+      ]
+    },
+    {
+      "title": "115年度建築師節全國建築師公益登山健行大會師",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7317&t1=1",
+      "location": "澄清湖風景區及高雄果嶺自然公園(高雄市鳥松區大埤路32號)",
+      "dates": [
+        "2026-10-26"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7317",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "(暫訂)2026無障礙講習課程(二)",
@@ -577,7 +577,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": null,
+      "register": "本場次已額滿,第三場尚有名額",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -601,7 +601,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7289",
-      "register": null,
+      "register": "本場次已額滿,第三場尚有名額",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -954,7 +954,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

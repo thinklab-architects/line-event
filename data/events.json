@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-07T23:11:48.873Z",
+  "scrapedAt": "2026-09-08T02:17:45.067Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -337,8 +337,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7318",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7318&t=active",
       "extras": [],
       "category": "movie",
       "remarks": "登記索票時間：自115年9月9日(三)上午9:00至115年9月18日(五)下午5:00止（索完為止）。",
@@ -594,7 +594,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": null,
+      "register": "本場次已額滿,第三場尚有名額",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -964,7 +964,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

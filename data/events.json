@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-10T02:20:02.250Z",
+  "scrapedAt": "2026-09-10T07:41:31.406Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -251,9 +251,9 @@
       "category": "other"
     },
     {
-      "title": "(暫訂)2026無障礙講習課程(三)",
+      "title": "「2026高雄市無障礙環境規劃及勘檢實務講習」(三)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7300&t1=1",
-      "location": "高雄市住宅及都市更新中心(暫訂)",
+      "location": "高雄市住宅及都市更新中心「階梯教室」",
       "dates": [
         "2026-10-27"
       ],
@@ -262,10 +262,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7300",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7300&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7300/45d64f8745afff9d0e63c1a4b581441a"
+        }
+      ]
     },
     {
       "title": "「高雄果嶺自然公園及澄清湖風景區」一日遊",
@@ -308,7 +314,7 @@
       "category": "meeting"
     },
     {
-      "title": "(暫訂)2026無障礙講習課程(二)",
+      "title": "「2026高雄市無障礙環境規劃及勘檢實務講習」(二)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7298&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -319,10 +325,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7298",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7298&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7298/796d37c75da4a205020ca4d9136efe3d"
+        }
+      ]
     },
     {
       "title": "電影欣賞會活動-”挖掘者”",
@@ -350,9 +362,9 @@
       ]
     },
     {
-      "title": "(暫訂)2026無障礙講習課程(一)",
+      "title": "「2026高雄市無障礙環境規劃及勘檢實務講習」(一)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7297&t1=1",
-      "location": "高雄市政府",
+      "location": "高雄市政府 8樓「第五會議室」",
       "dates": [
         "2026-10-13"
       ],
@@ -361,10 +373,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7297",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7297&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7297/ee4b35276a35a1957636f77a7f86cd9a"
+        }
+      ]
     },
     {
       "title": "暫定學術講座",
@@ -566,6 +584,28 @@
       "category": "other"
     },
     {
+      "title": "116年會員輪值報名公文",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7327&t1=1",
+      "location": "本會輪值室",
+      "dates": [
+        "2026-09-10",
+        "2026-10-01"
+      ],
+      "timeInfo": [],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7327",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7327&t=active",
+      "extras": [],
+      "category": "meeting",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7327/598e161b9ab4ea0b8f236668424a9f84"
+        }
+      ]
+    },
+    {
       "title": "公安審查教學會議",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7320&t1=1",
       "location": "本會大會議室",
@@ -594,7 +634,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": null,
+      "register": "本場次已額滿,第三場尚有名額",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -951,30 +991,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "鑑定參訪活動-卜大整體衛浴建材參訪",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
-      "location": "台中、彰化",
-      "dates": [
-        "2026-06-12"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "報名時間：即日起至115年5月11日(一)17:00止(額滿則提前截止)",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
-        }
-      ]
     }
   ]
 }

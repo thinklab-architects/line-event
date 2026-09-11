@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-11T00:42:44.763Z",
+  "scrapedAt": "2026-09-11T05:28:10.622Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -426,6 +426,23 @@
       ]
     },
     {
+      "title": "116年度會員輪值服務工作報名活動(截止日:115/10/01)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7329&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-10-01"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7329",
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7329&t=active",
+      "extras": [],
+      "category": "meeting"
+    },
+    {
       "title": "金質獎頒獎典禮 (暫停會務.委審業務.調案一日)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7163&t1=1",
       "location": "漢來巨蛋會館9樓龍鳳凰廳",
@@ -532,19 +549,19 @@
       ]
     },
     {
-      "title": "(暫訂)「重型木構造的法規限制與展望」",
+      "title": "「重型木構造的法規限制與展望」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7312&t1=1",
       "location": "本會大會議室",
       "dates": [
         "2026-09-16"
       ],
       "timeInfo": [
-        "14:30~17:00"
+        "14:00~17:00"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7312",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7312&t=active",
       "extras": [],
       "category": "other",
       "remarks": "臺灣木構造法規的限制與展望\n臺灣科技大學 蔡孟廷 教授\n\n全球木構造的發展趨勢與案例\nKLH 亞太區總監 Thomas Grossteiner"
@@ -584,28 +601,6 @@
       "category": "other"
     },
     {
-      "title": "116年會員輪值報名公文",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7327&t1=1",
-      "location": "本會輪值室",
-      "dates": [
-        "2026-09-10",
-        "2026-10-01"
-      ],
-      "timeInfo": [],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7327",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7327/598e161b9ab4ea0b8f236668424a9f84"
-        }
-      ]
-    },
-    {
       "title": "公安審查教學會議",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7320&t1=1",
       "location": "本會大會議室",
@@ -634,7 +629,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": null,
+      "register": "本場次已額滿,第三場尚有名額",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",

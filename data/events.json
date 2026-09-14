@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-14T02:37:25.509Z",
+  "scrapedAt": "2026-09-14T08:22:19.801Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -385,23 +385,6 @@
       ]
     },
     {
-      "title": "暫定學術講座",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7315&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-10-05"
-      ],
-      "timeInfo": [
-        "上午9：40~12：00(9：20報到)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7315",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
       "title": "建築師財富藍圖：執業節稅與不動產傳承-方怡璇會計師",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7301&t1=1",
       "location": "本會大會議室",
@@ -652,7 +635,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": null,
+      "register": "本場次已額滿,第三場尚有名額",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -988,6 +971,23 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-12"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
       "register": null,
       "registerUrl": null,
       "extras": [],

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-16T02:35:30.923Z",
+  "scrapedAt": "2026-09-16T08:07:38.756Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -21,23 +21,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "(預定)新進資深座談",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7271&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-12-23"
-      ],
-      "timeInfo": [
-        "下午3:30~5:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7271",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     },
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -555,6 +538,23 @@
       ]
     },
     {
+      "title": "法規研究委員會室內裝修審查小組第十六次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7331&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-09-17"
+      ],
+      "timeInfo": [
+        "下午4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7331",
+      "register": "敬請準時出席",
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
       "title": "「重型木構造的法規限制與展望」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7312&t1=1",
       "location": "本會大會議室",
@@ -635,7 +635,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": "本場次已額滿,第三場尚有名額",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-17T02:39:46.755Z",
+  "scrapedAt": "2026-09-17T08:14:04.125Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -624,30 +624,6 @@
       "category": "meeting"
     },
     {
-      "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(二)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7290&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-09-08"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7290",
-      "register": "本場次已額滿,第三場尚有名額",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "報名成功名單詳上列網址",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7290/d0071b63db89c0ef9823db4ee96b3201"
-        }
-      ]
-    },
-    {
       "title": "115年度「高雄市建築物公共安全檢查簽證及申報案件委外辦理抽複查工作」召開「業務執行檢討會議」",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7319&t1=1",
       "location": "本會大會議室",
@@ -992,6 +968,30 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "鑑定參訪活動-卜大整體衛浴建材參訪",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
+      "location": "台中、彰化",
+      "dates": [
+        "2026-06-12"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
+      "register": "請填妥報名表並繳交費用",
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "報名時間：即日起至115年5月11日(一)17:00止(額滿則提前截止)",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
+        }
+      ]
     }
   ]
 }

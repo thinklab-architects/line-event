@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-20T22:49:19.944Z",
+  "scrapedAt": "2026-09-21T00:42:05.666Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -349,8 +349,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7318",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7318&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "movie",
       "remarks": "登記索票時間：自115年9月9日(三)上午9:00至115年9月18日(五)下午5:00止（索完為止）。",

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-22T00:26:11.406Z",
+  "scrapedAt": "2026-09-22T05:40:21.637Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -360,6 +360,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7318/58df27e2df605a70665894abca503ec0"
         }
       ]
+    },
+    {
+      "title": "(第二次索票)115.10.18電影欣賞會活動-片名：”挖掘者”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7334&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-10-18"
+      ],
+      "timeInfo": [
+        "下午13:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7334",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
     },
     {
       "title": "「2026高雄市無障礙環境規劃及勘檢實務講習」(一)",
@@ -964,23 +981,6 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
-      "location": "高雄市立圖書館 湖內分館",
-      "dates": [
-        "2026-06-12"
-      ],
-      "timeInfo": [
-        "下午2:00-4:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
       "register": null,
       "registerUrl": null,
       "extras": [],

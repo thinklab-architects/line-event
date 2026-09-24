@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-24T00:08:29.012Z",
+  "scrapedAt": "2026-09-24T05:41:33.363Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -166,23 +166,6 @@
       ]
     },
     {
-      "title": "活動預告：慶祝第５５屆建築師節公益系列活動-登山健行",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7244&t1=1",
-      "location": "高雄果嶺自然公園",
-      "dates": [
-        "2026-11-08"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7244",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
       "title": "(暫訂)「小型透天、高雄厝及華夏請照面積檢討實務操作」講習",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7311&t1=1",
       "location": "本會大會議室",
@@ -328,7 +311,13 @@
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "meeting"
+      "category": "meeting",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7317/0cead8cec5e7e62d2a1add7861e5ca2b"
+        }
+      ]
     },
     {
       "title": "「2026高雄市無障礙環境規劃及勘檢實務講習」(二)",
@@ -430,8 +419,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7301",
-      "register": "報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7301&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "other",
       "remarks": "1.本講座無積分\n2.本講座開放事務所會計人員參與\n3.參加人數：60名(額滿為止)",
@@ -985,6 +974,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-13"
+      ],
+      "timeInfo": [
+        "上午9:30-12:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     }
   ]
 }

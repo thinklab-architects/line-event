@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-24T05:41:33.363Z",
+  "scrapedAt": "2026-09-24T10:50:10.517Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -73,21 +73,22 @@
       "category": "other"
     },
     {
-      "title": "2026文化月",
+      "title": "2026文化月-從歷史生活遺構、文化場域到當代地標",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7195&t1=1",
-      "location": "暫定",
+      "location": "六燃丁種宿舍展示館、創價美術館、石川傳媒集團",
       "dates": [
         "2026-12-05"
       ],
       "timeInfo": [
-        "上午8:00"
+        "全天"
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7195",
-      "register": null,
+      "register": "google表單報名",
       "registerUrl": null,
       "extras": [],
-      "category": "other"
+      "category": "other",
+      "remarks": "可利用紙本及線上Google表單報名。"
     },
     {
       "title": "國外旅遊-「戀戀北九州.秋意五日遊」五日遊",
@@ -500,8 +501,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7291",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7291&t=active",
+      "register": null,
+      "registerUrl": null,
       "extras": [],
       "category": "workshop",
       "remarks": "本會會員、相關從業人員，上限共120名。"

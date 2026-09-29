@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-09-29T00:48:34.451Z",
+  "scrapedAt": "2026-09-29T06:26:40.611Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -55,7 +55,7 @@
       "category": "other"
     },
     {
-      "title": "(預知)115年全國會建材展",
+      "title": "(預告)115年全國會建材展",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7304&t1=1",
       "location": "台北",
       "dates": [

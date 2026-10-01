@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-01T00:56:09.565Z",
+  "scrapedAt": "2026-10-01T06:44:52.023Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -490,24 +490,6 @@
       "category": "other"
     },
     {
-      "title": "「2026建築技術規則及綠建築錯誤樣態實務課程」(三)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7291&t1=1",
-      "location": "高雄市住宅及都市更新中心",
-      "dates": [
-        "2026-09-29"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7291",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "本會會員、相關從業人員，上限共120名。"
-    },
-    {
       "title": "新進資深座談會(大會議室)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7307&t1=1",
       "location": "本會大會議室",
@@ -527,29 +509,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7307/5dd32536d44955351ce5828708cd7566"
-        }
-      ]
-    },
-    {
-      "title": "法益講座-「工程實務及常見缺失(含水電工程)」",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7270&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-09-23"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7270",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7270/16e2a6c6eacb2f618696057deaed14b9"
         }
       ]
     },
@@ -700,29 +659,6 @@
       "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
     },
     {
-      "title": "法益講座-「高雄市立圖書館總館及共構文創會館BOT工程之特殊結構行為與施工過程分享」",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7279&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-08-19"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7279",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7279/256276d06049c9a7cccb8d531869ef30"
-        }
-      ]
-    },
-    {
       "title": "8/6 KAA × AI設計工作流實戰專班(因人數關係場地有調整)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7280&t1=1",
       "location": "高雄市前鎮區中山二路 2 號13 樓之 7",
@@ -739,30 +675,6 @@
       "extras": [],
       "category": "other",
       "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
-    },
-    {
-      "title": "法益講座-「專案管理研習課程」",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7259&t1=1",
-      "location": "高雄市立美術館國際會議廳",
-      "dates": [
-        "2026-08-04"
-      ],
-      "timeInfo": [
-        "9：30~17：00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7259",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "報名人員名單請點開下方連結即可閱覽，如有任何疑問，歡迎來電洽詢，謝謝。",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7259/39456a0d152afeefe9e216bc9af6aa93"
-        }
-      ]
     },
     {
       "title": "第三梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
@@ -988,6 +900,81 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
+      "location": "高雄市立圖書館 湖內分館",
+      "dates": [
+        "2026-06-12"
+      ],
+      "timeInfo": [
+        "下午2:00-4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "鑑定參訪活動-卜大整體衛浴建材參訪",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
+      "location": "台中、彰化",
+      "dates": [
+        "2026-06-12"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
+      "register": "請填妥報名表並繳交費用",
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing",
+      "remarks": "報名時間：即日起至115年5月11日(一)17:00止(額滿則提前截止)",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
+        }
+      ]
+    },
+    {
+      "title": "召開「高雄區醫師、律師、會計師、建築師、牙醫 師、中醫師公會-未婚聯誼活動」第三次籌備會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7230&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-06-11"
+      ],
+      "timeInfo": [
+        "12:30~14:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7230",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
+      "title": "「115年度高雄市建築物公共安全檢查簽證及申報案件委外辦理抽複查工作」工作說明會(第二場)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7249&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-06-04"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7249",
       "register": null,
       "registerUrl": null,
       "extras": [],

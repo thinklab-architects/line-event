@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-01T23:46:17.170Z",
+  "scrapedAt": "2026-10-02T03:21:05.805Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -407,6 +407,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7297/ee4b35276a35a1957636f77a7f86cd9a"
         }
       ]
+    },
+    {
+      "title": "第十七屆法規研究委員會室內裝修複查小組第十七次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7336&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-10-05"
+      ],
+      "timeInfo": [
+        "下午4:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7336",
+      "register": "敬請準時參加",
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "建築師財富藍圖：執業節稅與不動產傳承-方怡璇會計師",
@@ -934,7 +951,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -962,23 +979,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "「115年度高雄市建築物公共安全檢查簽證及申報案件委外辦理抽複查工作」工作說明會(第二場)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7249&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-06-04"
-      ],
-      "timeInfo": [
-        "14:00~17:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7249",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

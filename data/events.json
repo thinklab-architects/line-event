@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-02T03:21:05.805Z",
+  "scrapedAt": "2026-10-02T10:11:13.921Z",
   "events": [
     {
       "title": "暫定~2027高雄國際建築暨空間設計建材展",
@@ -184,7 +184,7 @@
       "category": "workshop"
     },
     {
-      "title": "(預定)法益講座-大會議室",
+      "title": "法益講座-從桃園航高爭議看建築師執業風險",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7250&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -195,8 +195,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7250",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7250&t=active",
       "extras": [],
       "category": "workshop"
     },
@@ -951,7 +951,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

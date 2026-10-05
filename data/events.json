@@ -1,9 +1,9 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-04T23:44:31.173Z",
+  "scrapedAt": "2026-10-05T03:16:11.622Z",
   "events": [
     {
-      "title": "暫定~2027高雄國際建築暨空間設計建材展",
+      "title": "(暫定)2027高雄國際建築暨空間設計建材展",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7309&t1=1",
       "location": "高雄展覽館(南館)",
       "dates": [
@@ -397,8 +397,8 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7297",
-      "register": "線上報名",
-      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7297&t=active",
+      "register": "報名截止",
+      "registerUrl": null,
       "extras": [],
       "category": "workshop",
       "downloads": [
@@ -951,7 +951,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-13T01:02:37.763Z",
+  "scrapedAt": "2026-10-13T08:45:17.965Z",
   "events": [
     {
       "title": "(暫定)2027高雄國際建築暨空間設計建材展",
@@ -165,6 +165,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7218/6b707d8a89e5b6f08f3686371485ef9e"
         }
       ]
+    },
+    {
+      "title": "「建築物公共安全檢查實務課程」講習會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7343&t1=1",
+      "location": "未訂",
+      "dates": [
+        "2026-11-05"
+      ],
+      "timeInfo": [
+        "14:00~17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7343",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "(暫訂)「小型透天、高雄厝及華夏請照面積檢討實務操作」講習",
@@ -945,7 +962,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
+      "register": "請填妥報名表並繳交費用",
       "registerUrl": null,
       "extras": [],
       "category": "outing",
@@ -956,23 +973,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
         }
       ]
-    },
-    {
-      "title": "召開「高雄區醫師、律師、會計師、建築師、牙醫 師、中醫師公會-未婚聯誼活動」第三次籌備會議",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7230&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-06-11"
-      ],
-      "timeInfo": [
-        "12:30~14:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7230",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

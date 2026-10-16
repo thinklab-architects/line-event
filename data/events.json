@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-16T07:44:08.822Z",
+  "scrapedAt": "2026-10-16T12:53:31.074Z",
   "events": [
     {
       "title": "(暫定)2027高雄國際建築暨空間設計建材展",
@@ -169,7 +169,7 @@
     {
       "title": "「建築物公共安全檢查實務課程」講習會",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7343&t1=1",
-      "location": "未訂",
+      "location": "國立科學工藝博物館 南館2樓「S204教室」",
       "dates": [
         "2026-11-05"
       ],
@@ -178,10 +178,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7343",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7343&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7343/1d28ae7574236ae88fe9267f47f5e36f"
+        }
+      ]
     },
     {
       "title": "「小型透天、高雄厝及華廈請照面積檢討實務操作」講習",
@@ -350,7 +356,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7298",
-      "register": "報名",
+      "register": "線上報名",
       "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7298&t=active",
       "extras": [],
       "category": "workshop",
@@ -969,7 +975,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": "請填妥報名表並繳交費用",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "outing",

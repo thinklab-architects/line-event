@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-20T01:23:26.305Z",
+  "scrapedAt": "2026-10-20T06:55:09.809Z",
   "events": [
     {
       "title": "(暫定)2027高雄國際建築暨空間設計建材展",
@@ -38,6 +38,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "outing"
+    },
+    {
+      "title": "鑑定講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7350&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-12-23"
+      ],
+      "timeInfo": [
+        "14:00~17:00(13:50報到)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7350",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
     },
     {
       "title": "115年度社團法人高雄市建築師公會聯歡晚會",
@@ -167,28 +184,6 @@
       ]
     },
     {
-      "title": "(暫定)鑑定講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7349&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-11-13",
-        "2026-12-03",
-        "2026-12-23",
-        "2026-12-28",
-        "2026-12-29",
-        "2026-12-30"
-      ],
-      "timeInfo": [
-        "14:00~17:00(13:50報到)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7349",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
       "title": "「建築物公共安全檢查實務課程」講習會",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7343&t1=1",
       "location": "國立科學工藝博物館 南館2樓「S204教室」",
@@ -223,7 +218,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": null,
+      "register": "已額滿",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",

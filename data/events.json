@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-19T22:42:12.170Z",
+  "scrapedAt": "2026-10-20T01:23:26.305Z",
   "events": [
     {
       "title": "(暫定)2027高雄國際建築暨空間設計建材展",
@@ -167,6 +167,28 @@
       ]
     },
     {
+      "title": "(暫定)鑑定講習",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7349&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-11-13",
+        "2026-12-03",
+        "2026-12-23",
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30"
+      ],
+      "timeInfo": [
+        "14:00~17:00(13:50報到)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7349",
+      "register": "俟相關事宜確認後開放報名",
+      "registerUrl": null,
+      "extras": [],
+      "category": "workshop"
+    },
+    {
       "title": "「建築物公共安全檢查實務課程」講習會",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7343&t1=1",
       "location": "國立科學工藝博物館 南館2樓「S204教室」",
@@ -201,7 +223,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -962,30 +984,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "鑑定參訪活動-卜大整體衛浴建材參訪",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7196&t1=1",
-      "location": "台中、彰化",
-      "dates": [
-        "2026-06-12"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7196",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "remarks": "報名時間：即日起至115年5月11日(一)17:00止(額滿則提前截止)",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7196/163dd5543858a16f216227c27ff4ba48"
-        }
-      ]
     }
   ]
 }

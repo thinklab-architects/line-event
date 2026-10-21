@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-21T00:16:04.682Z",
+  "scrapedAt": "2026-10-21T05:35:00.505Z",
   "events": [
     {
       "title": "(暫定)2027高雄國際建築暨空間設計建材展",
@@ -160,6 +160,23 @@
       ]
     },
     {
+      "title": "鑑定案會勘會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7352&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-11-17"
+      ],
+      "timeInfo": [
+        "14:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7352",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
       "title": "國內旅遊:「武界日出雲海+峽谷秘境+部落文化深度之旅」二日遊(第一梯次)",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7218&t1=1",
       "location": "南投武界",
@@ -218,7 +235,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -383,6 +400,23 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7298/796d37c75da4a205020ca4d9136efe3d"
         }
       ]
+    },
+    {
+      "title": "「2027高雄國際建築暨空間設計建材展」簽約儀式",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7353&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2026-10-22"
+      ],
+      "timeInfo": [
+        "下午3:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7353",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "電影欣賞會活動-”挖掘者”",
@@ -945,40 +979,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
-    },
-    {
-      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7136&t1=1",
-      "location": "高雄市立圖書館 湖內分館",
-      "dates": [
-        "2026-06-13"
-      ],
-      "timeInfo": [
-        "上午9:30-12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7136",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "建築師公益諮詢活動(高雄市立圖書館 湖內分館)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7135&t1=1",
-      "location": "高雄市立圖書館 湖內分館",
-      "dates": [
-        "2026-06-12"
-      ],
-      "timeInfo": [
-        "下午2:00-4:30"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7135",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

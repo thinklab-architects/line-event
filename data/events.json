@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-10-29T23:49:27.093Z",
+  "scrapedAt": "2026-10-30T03:44:34.836Z",
   "events": [
     {
       "title": "(暫定)2027高雄國際建築暨空間設計建材展",
@@ -21,6 +21,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "116學術委員會台中參訪活動(暫定)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7358&t1=1",
+      "location": "台中海洋館/亞洲美術館",
+      "dates": [
+        "2027-02-12"
+      ],
+      "timeInfo": [
+        "上午7:30-下午6:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7358",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "預告：福利一日遊活動",
@@ -258,7 +275,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -972,24 +989,6 @@
       "extras": [],
       "category": "movie",
       "remarks": "登記索票時間：自115年6月11日(四)上午10:00至115年6月18日(四)下午5:00止（索完為止）。"
-    },
-    {
-      "title": "(第二次索票)電影欣賞會活動-片名：”盜音天才”",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7262&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2026-07-05"
-      ],
-      "timeInfo": [
-        "下午13:30(暫定)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7262",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "若有賸餘電影票，將於115年6月23日(二)上午9:00，再次開放會員線上第二次索票(首頁→最新活動→本會活動)，每位會員最多可再索票2張(索完為止）"
     }
   ]
 }

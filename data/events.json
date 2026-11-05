@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-05T08:47:24.662Z",
+  "scrapedAt": "2026-11-05T16:58:48.471Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -309,7 +309,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",

@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-09T00:22:39.418Z",
+  "scrapedAt": "2026-11-09T07:29:29.308Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -309,7 +309,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -318,46 +318,6 @@
         {
           "label": "檔案下載",
           "url": "https://www.kaa.org.tw/download.php?b=active/7311/a8b682767a1e6591c2c4de4b1f98ce58"
-        }
-      ]
-    },
-    {
-      "title": "法益講座-從桃園航高爭議看建築師執業風險",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7250&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-11-03"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7250",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
-    },
-    {
-      "title": "法益講座- 從桃園航高爭議看建築師執業風險 報名成功名單",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7354&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-11-03"
-      ],
-      "timeInfo": [
-        "14:00~17:10"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7354",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7354/c7c82777d8cbb3ab2d9ad361ae9001a2"
         }
       ]
     },
@@ -988,6 +948,41 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "115年度「高雄市建築物公共安全巡查輔導及審查作業」工作說明會",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7283&t1=1",
+      "location": "本會大會議室",
+      "dates": [
+        "2026-07-14"
+      ],
+      "timeInfo": [
+        "14:00～17:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7283",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
+    },
+    {
+      "title": "(第一次索票)電影欣賞會活動-片名：”盜音天才”",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7252&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-07-05"
+      ],
+      "timeInfo": [
+        "下午13:30(暫定)"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7252",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie",
+      "remarks": "登記索票時間：自115年6月11日(四)上午10:00至115年6月18日(四)下午5:00止（索完為止）。"
     }
   ]
 }

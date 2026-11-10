@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-10T09:00:19.582Z",
+  "scrapedAt": "2026-11-10T16:53:49.026Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -20,7 +20,7 @@
       "category": "other"
     },
     {
-      "title": "(暫定)2027高雄國際建築暨空間設計建材展",
+      "title": "2027高雄國際建築暨空間設計建材展",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7309&t1=1",
       "location": "高雄展覽館(南館)",
       "dates": [
@@ -55,6 +55,22 @@
       "registerUrl": null,
       "extras": [],
       "category": "meeting"
+    },
+    {
+      "title": "(暫定)建築師公益諮詢活動(高雄市立圖書館 大社分館)",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7372&t1=1",
+      "location": "高雄市立圖書館 大社分館",
+      "dates": [
+        "2027-01-15",
+        "2027-01-16"
+      ],
+      "timeInfo": [],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7372",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     },
     {
       "title": "預告：福利一日遊活動",
@@ -309,7 +325,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -965,24 +981,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
-    },
-    {
-      "title": "(第一次索票)電影欣賞會活動-片名：”盜音天才”",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7252&t1=1",
-      "location": "高雄大遠百威秀影城",
-      "dates": [
-        "2026-07-05"
-      ],
-      "timeInfo": [
-        "下午13:30(暫定)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7252",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "movie",
-      "remarks": "登記索票時間：自115年6月11日(四)上午10:00至115年6月18日(四)下午5:00止（索完為止）。"
     }
   ]
 }

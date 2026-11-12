@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-12T09:01:02.141Z",
+  "scrapedAt": "2026-11-12T17:48:40.103Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -38,6 +38,40 @@
       "registerUrl": null,
       "extras": [],
       "category": "other"
+    },
+    {
+      "title": "預告：116年度福利一日遊活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7379&t1=1",
+      "location": "田寮",
+      "dates": [
+        "2027-02-27"
+      ],
+      "timeInfo": [
+        "全天"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7379",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "outing"
+    },
+    {
+      "title": "(預告)電影欣賞會活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7377&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2027-02-21"
+      ],
+      "timeInfo": [
+        "下午1:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7377",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
     },
     {
       "title": "116學術委員會台中參訪活動(暫定)",
@@ -90,11 +124,11 @@
       "category": "workshop"
     },
     {
-      "title": "預告：福利一日遊活動",
+      "title": "預告：116年度福利一日遊活動",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7333&t1=1",
       "location": "台南",
       "dates": [
-        "2027-01-09"
+        "2027-01-10"
       ],
       "timeInfo": [
         "全天"
@@ -105,6 +139,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "outing"
+    },
+    {
+      "title": "(預告)電影欣賞會活動",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7376&t1=1",
+      "location": "高雄大遠百威秀影城",
+      "dates": [
+        "2026-12-27"
+      ],
+      "timeInfo": [
+        "下午1:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7376",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "movie"
     },
     {
       "title": "鑑定講習",
@@ -342,7 +393,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": null,
+      "register": "已額滿",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -923,64 +974,6 @@
       "extras": [],
       "category": "workshop",
       "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
-    },
-    {
-      "title": "「高雄市都市計畫退縮建築與未來展望論壇」",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7233&t1=1",
-      "location": "新創大樓3樓淨零學院-諮詢空間",
-      "dates": [
-        "2026-07-20"
-      ],
-      "timeInfo": [
-        "9:40~16:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7233",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
-    },
-    {
-      "title": "第二梯次：「八仙山森林浴.綠美圖.勤美術館.中彰」二日遊",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7189&t1=1",
-      "location": "八仙山森林＋綠美圖＋勤美術館＋中彰",
-      "dates": [
-        "2026-07-18",
-        "2026-07-19"
-      ],
-      "timeInfo": [
-        "全天"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7189",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "outing",
-      "downloads": [
-        {
-          "label": "檔案下載",
-          "url": "https://www.kaa.org.tw/download.php?b=active/7189/7fddb9f980d83fa964b7d079c10fb50a"
-        }
-      ]
-    },
-    {
-      "title": "(大會議室)社團-綠手指聯盟",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7245&t1=1",
-      "location": "本會會議室",
-      "dates": [
-        "2026-07-15"
-      ],
-      "timeInfo": [
-        "上午10:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7245",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "meeting"
     }
   ]
 }

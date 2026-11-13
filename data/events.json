@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-12T23:00:52.877Z",
+  "scrapedAt": "2026-11-13T04:19:56.862Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -156,23 +156,6 @@
       "registerUrl": null,
       "extras": [],
       "category": "movie"
-    },
-    {
-      "title": "鑑定講習",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7350&t1=1",
-      "location": "本會大會議室",
-      "dates": [
-        "2026-12-23"
-      ],
-      "timeInfo": [
-        "14:00~17:00(13:50報到)"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7350",
-      "register": "俟相關事宜確認後開放報名",
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop"
     },
     {
       "title": "新進資深座談會",
@@ -393,7 +376,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": null,
+      "register": "已額滿",
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -974,6 +957,23 @@
       "extras": [],
       "category": "workshop",
       "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
+    },
+    {
+      "title": "「高雄市都市計畫退縮建築與未來展望論壇」",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7233&t1=1",
+      "location": "新創大樓3樓淨零學院-諮詢空間",
+      "dates": [
+        "2026-07-20"
+      ],
+      "timeInfo": [
+        "9:40~16:00"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7233",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "other"
     }
   ]
 }

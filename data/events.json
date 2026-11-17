@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-17T01:20:10.084Z",
+  "scrapedAt": "2026-11-17T09:55:55.584Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -40,6 +40,23 @@
       "category": "other"
     },
     {
+      "title": "第17屆紀律委員會第36次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7383&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2027-03-02"
+      ],
+      "timeInfo": [
+        "下午4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7383",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
+    },
+    {
       "title": "預告：116年度福利一日遊活動",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7379&t1=1",
       "location": "田寮",
@@ -74,17 +91,17 @@
       "category": "movie"
     },
     {
-      "title": "116學術委員會台中參訪活動(暫定)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7358&t1=1",
-      "location": "台中海洋館/亞洲美術館",
+      "title": "第17屆紀律委員會第35次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7382&t1=1",
+      "location": "本會會議室",
       "dates": [
-        "2027-02-12"
+        "2027-02-01"
       ],
       "timeInfo": [
-        "上午7:30-下午6:00"
+        "下午4:30"
       ],
       "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7358",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7382",
       "register": null,
       "registerUrl": null,
       "extras": [],
@@ -122,6 +139,23 @@
       "registerUrl": null,
       "extras": [],
       "category": "workshop"
+    },
+    {
+      "title": "第17屆紀律委員會第34次會議",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7381&t1=1",
+      "location": "本會會議室",
+      "dates": [
+        "2027-01-11"
+      ],
+      "timeInfo": [
+        "下午4:30"
+      ],
+      "note": "細節",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7381",
+      "register": null,
+      "registerUrl": null,
+      "extras": [],
+      "category": "meeting"
     },
     {
       "title": "預告：116年度福利一日遊活動",
@@ -376,7 +410,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
@@ -939,41 +973,6 @@
           "url": "https://www.kaa.org.tw/download.php?b=active/7184/4f940d69721f82aeb65cf8deda9b5c7d"
         }
       ]
-    },
-    {
-      "title": "7/23 AI × BIM 課程 AI設計工作流應用專課(因人數關係場地有調整)",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7273&t1=1",
-      "location": "高雄市前鎮區中山二路 2 號12 樓之 7",
-      "dates": [
-        "2026-07-23"
-      ],
-      "timeInfo": [
-        "9:30–12:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7273",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "workshop",
-      "remarks": "請聯繫\nTYarchistudioBIM ｜ 庭御國際教育管理顧問有限公司\n07-5216117　｜　高雄市鹽埕區必信街 105 號 203 室\nLINE ID：tyarchistudiobim\n課程網站：tyarchistudiobim.com\n聯絡信箱：tyarchistudiobim@tyarchistudiobim.com"
-    },
-    {
-      "title": "「高雄市都市計畫退縮建築與未來展望論壇」",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7233&t1=1",
-      "location": "新創大樓3樓淨零學院-諮詢空間",
-      "dates": [
-        "2026-07-20"
-      ],
-      "timeInfo": [
-        "9:40~16:00"
-      ],
-      "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7233",
-      "register": null,
-      "registerUrl": null,
-      "extras": [],
-      "category": "other"
     }
   ]
 }

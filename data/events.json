@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-23T01:15:48.524Z",
+  "scrapedAt": "2026-11-23T10:01:40.662Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -124,7 +124,7 @@
       "category": "other"
     },
     {
-      "title": "法益講座-勞安講習",
+      "title": "法益講座-建築師事務所勞動法實務",
       "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7373&t1=1",
       "location": "本會大會議室",
       "dates": [
@@ -135,10 +135,16 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7373",
-      "register": null,
-      "registerUrl": null,
+      "register": "線上報名",
+      "registerUrl": "https://www.kaa.org.tw/news_apply.php?b=7373&t=active",
       "extras": [],
-      "category": "workshop"
+      "category": "workshop",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7373/4cd8b31c82133682cfe097b3482e2053"
+        }
+      ]
     },
     {
       "title": "第17屆紀律委員會第34次會議",
@@ -410,7 +416,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",

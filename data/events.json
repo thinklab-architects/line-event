@@ -1,6 +1,6 @@
 {
   "sourceUrl": "https://www.kaa.org.tw/news_list.php?t1=1",
-  "scrapedAt": "2026-11-26T03:18:49.945Z",
+  "scrapedAt": "2026-11-26T13:23:35.656Z",
   "events": [
     {
       "title": "暫定~全國建築師高爾夫球錦標賽",
@@ -181,21 +181,28 @@
       "category": "outing"
     },
     {
-      "title": "(預告)電影欣賞會活動",
-      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7376&t1=1",
+      "title": "電影欣賞會活動-《沙丘：第三部》",
+      "detailUrl": "https://www.kaa.org.tw/news_show.php?b=7390&t1=1",
       "location": "高雄大遠百威秀影城",
       "dates": [
         "2026-12-27"
       ],
       "timeInfo": [
-        "下午1:30"
+        "下午1:30~"
       ],
       "note": "細節",
-      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7376",
+      "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7390",
       "register": null,
       "registerUrl": null,
       "extras": [],
-      "category": "movie"
+      "category": "movie",
+      "remarks": "登記索票時間：自115年11月30日(一)上午9:00至115年12月11日(五)下午5:00止",
+      "downloads": [
+        {
+          "label": "檔案下載",
+          "url": "https://www.kaa.org.tw/download.php?b=active/7390/ffe6239d6ffecaf9ea7050f45f5ed207"
+        }
+      ]
     },
     {
       "title": "新進資深座談會",
@@ -416,7 +423,7 @@
       ],
       "note": "細節",
       "noteUrl": "https://www.kaa.org.tw/news_show.php?b=7311",
-      "register": "已額滿",
+      "register": null,
       "registerUrl": null,
       "extras": [],
       "category": "workshop",
